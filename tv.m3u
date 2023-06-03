@@ -1,10 +1,24 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="MBC 1 (1080p)" group-title="Arabic" tvg-logo="https://i.imgur.com/ePBvFC8.png" tvg-id="MBC1.ae",MBC 1 (1080p)
+https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1 tvg-name="MBC 4" group-title="Arabic" tvg-logo="https://i.imgur.com/pfF61uH.png" tvg-id="MBC4.ae",MBC 4
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 #EXTINF:-1 tvg-name="MBC 5" group-title="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" tvg-id="MBC5.ae",MBC 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
 #EXTINF:-1 tvg-name="MBC Action" group-title="Arabic" tvg-logo="https://i.imgur.com/n3TgfP0.png" tvg-id="MBCAction.ae",MBC Action
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
+#EXTINF:-1 tvg-name="MBC Plus Drama (1080p)" group-title="Arabic" tvg-logo="https://i.imgur.com/6yH88Q1.png" tvg-id="MBCPlusDrama.ae",MBC Plus Drama (1080p)
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1 tvg-name="MBC DRAMA" group-title="Arabic" tvg-logo="https://www.mbc.net/dam/jcr:74d5c50e-e87a-4103-92ec-52860469aece/mbc-drama.png" tvg-id="MBCDrama.ae",MBC DRAMA
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
+#EXTINF:-1 tvg-name="MBC MASR 2" group-title="Arabic" tvg-logo="https://www.mbc.net/dam/jcr:968c611a-0dd8-4b05-a61f-cfbe14793fc6/mbc-maser2.png" tvg-id="",MBC MASR 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:-1 tvg-name="MBC BOLLYWOOD" group-title="Arabic" tvg-logo="https://www.mbc.net/dam/jcr:be832134-6b59-4e3c-87bd-c2550667342d/mbc-bollywood.png" tvg-id="MBCBollywood.ae",MBC BOLLYWOOD
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1 tvg-name="ZEE أفلام" group-title="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/Zee_Aflam_logo.png" tvg-id="",ZEE أفلام
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="ZEE ألوان" group-title="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Zee_Alwan_logo.jpg" tvg-id="",ZEE ألوان
+https://weyyak-live.akamaized.net/weyyak_zee_alwan/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Wanasah" group-title="Arabic" tvg-logo="https://i.imgur.com/GmgibYW.jpg" tvg-id="Wanasah.ae",Wanasah
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 #EXTINF:-1 tvg-name="Rotana Cinema HD" group-title="Arabic" tvg-logo="https://rotana.net/triAssets/uploads/2020/11/cinema-egypt.png" tvg-id="RotanaCinemaHD.sa",Rotana Cinema HD
@@ -25,18 +39,6 @@ https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Samira TV سميرة " group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/Samira.png" tvg-id="",Samira TV سميرة 
 https://d2p6676ajpsg1j.cloudfront.net/out/v1/2daff8b433344d659bd5079224afc3ab/index.m3u8
-#EXTINF:-1 tvg-name="ZEE أفلام" group-title="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/Zee_Aflam_logo.png" tvg-id="",ZEE أفلام
-https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="ZEE ألوان" group-title="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Zee_Alwan_logo.jpg" tvg-id="",ZEE ألوان
-https://weyyak-live.akamaized.net/weyyak_zee_alwan/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="MBC DRAMA" group-title="Arabic" tvg-logo="https://www.mbc.net/dam/jcr:74d5c50e-e87a-4103-92ec-52860469aece/mbc-drama.png" tvg-id="MBCDrama.ae",MBC DRAMA
-https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
-#EXTINF:-1 tvg-name="MBC BOLLYWOOD" group-title="Arabic" tvg-logo="https://www.mbc.net/dam/jcr:be832134-6b59-4e3c-87bd-c2550667342d/mbc-bollywood.png" tvg-id="MBCBollywood.ae",MBC BOLLYWOOD
-https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-#EXTINF:-1 tvg-name="MBC MASR 2" group-title="Arabic" tvg-logo="https://www.mbc.net/dam/jcr:968c611a-0dd8-4b05-a61f-cfbe14793fc6/mbc-maser2.png" tvg-id="",MBC MASR 2
-https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
-#EXTINF:-1 tvg-name="CNBC Arabia (1080p)" group-title="News" tvg-logo="https://i.imgur.com/opBXx1K.png" tvg-id="CNBCArabiya.ae",CNBC Arabia (1080p)
-https://ythls.onrender.com/channel/UCsHdPPJXT-yKVTLGkn3DSvQ.m3u8
 #EXTINF:-1 tvg-name="Dubai One (1080p)" group-title="Arabic" tvg-logo="https://i.imgur.com/Dj16oKL.png" tvg-id="DubaiOne.ae",Dubai One (1080p)
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="2M Monde ARB" group-title="Maroc" tvg-logo="https://i.imgur.com/eE1SdyA.png" tvg-id="2M Monde ARB",2M Monde ARB
@@ -79,6 +81,8 @@ https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="CGTN Arabic" group-title="News" tvg-logo="https://ui.cgtn.com/static/resource/images/icon_new/live/live_AR.png" tvg-id="CGTNArabic.cn",CGTN Arabic
 https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
+#EXTINF:-1 tvg-name="CNBC Arabia (1080p)" group-title="News" tvg-logo="https://i.imgur.com/opBXx1K.png" tvg-id="CNBCArabiya.ae",CNBC Arabia (1080p)
+https://ythls.onrender.com/channel/UCsHdPPJXT-yKVTLGkn3DSvQ.m3u8
 #EXTINF:-1 tvg-name="TRT Arabic" group-title="News" tvg-logo="https://i.ibb.co/HTzkq9P/iJIHMq9.png" tvg-id="",TRT Arabic
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="BBC World" group-title="News" tvg-logo="https://i.imgur.com/Nx0BRdV.png" tvg-id="",BBC World
@@ -101,10 +105,8 @@ https://ythls.onrender.com/channel/UCwKS2U-DwjPZZvM6mSXPKgA.m3u8
 https://bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1 tvg-name="CBC (720p)" group-title="News" tvg-logo="https://i.imgur.com/wVT0dwO.png" tvg-id="CBC.az",CBC (720p)
 http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="DW arabic" group-title="News" tvg-logo="" tvg-id="",DW arabic
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1684438978/ei/YitmZK3ICsyB1wb4vqCoDQ/ip/86.195.35.63/id/rxOWsyxrl4A.9/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362686%2C24363391/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANHW-Xwbx_utX5eAvVB9HoI798A4vBoXOO5qkKldpGHpAiEA4ZHTR_a6SCpkQsgvJPrHSq16f5zpTjejdLFB3Ya5wKg%3D/file/index.m3u8
-#EXTINF:-1 tvg-name="RT arabic" group-title="News" tvg-logo="" tvg-id="",RT arabic
-https://salam-2-14.rutube.ru/dive/river-3-301.rutube.ru/YJRJsgLrdEfB88zFrG_vjw/stream/genetta-304.m9.rutube.ru/CpdEIPfB1eOdhKjrG7rtFQ/1684439452/1bf2ee9dc3e20b4cb5a7ed4833bd7cb2/1080p_stream.m3u8
+#EXTINF:-1 tvg-name="DW arabic" group-title="News" tvg-logo="https://i.imgur.com/EfKe3ae.png" tvg-id="DWArabic.de",DW arabic
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:-1 tvg-name="FRANCE 24 ARA فرنسا 24" group-title="News" tvg-logo="https://i.ibb.co/5KW5f2K/france24ar.png" tvg-id="",FRANCE 24 ARA فرنسا 24
 https://live.cache-stream.workers.dev/stream/UCdTyuXgmJkG_O8_75eqej-w/live.m3u8
 #EXTINF:-1 tvg-name="EURO NEWS EN" group-title="News" tvg-logo="https://static.euronews.com/website/images/logos/logo-euronews-240x28-white.svg" tvg-id="",EURO NEWS EN
@@ -143,6 +145,10 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
 http://82.212.74.2:8000/live/7307.m3u8
 #EXTINF:-1 tvg-name="نور دبي" group-title="Islam" tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/icons/NoorDubai.png" tvg-id="",نور دبي
 https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Al Maali TV (1080p)" group-title="Islam" tvg-logo="https://i.imgur.com/oEdApMA.png" tvg-id="AlMaaliTV.kw",Al Maali TV (1080p)
+#EXTINF:-1 tvg-id="AhlAlquranTV.sa" tvg-logo="https://i.imgur.com/xeQvi2z.png" group-title="Religious",Ahl-Alquran TV (360p)
+#EXTINF:-1 tvg-name="Ahl-Alquran TV (360p)" group-title="Islam" tvg-logo="https://i.imgur.com/xeQvi2z.png" tvg-id="AhlAlquranTV.sa",Ahl-Alquran TV (360p)
+
 #EXTINF:-1 tvg-name="GULLI BILARRABI" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/fr/gulli.png" tvg-id="",GULLI BILARRABI
 https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
 #EXTINF:-1 tvg-name="TIJI" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/fr/tiji.png" tvg-id="",TIJI
