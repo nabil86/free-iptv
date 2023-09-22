@@ -5,8 +5,6 @@ https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/in
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 #EXTINF:-1 tvg-name="MBC 5" group-title="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" tvg-id="MBC5.ae",MBC 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
-#EXTINF:-1 tvg-name="MBC Action" group-title="Arabic" tvg-logo="https://i.imgur.com/n3TgfP0.png" tvg-id="MBCAction.ae",MBC Action
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
 #EXTINF:-1 tvg-name="MBC Plus Drama (1080p)" group-title="Arabic" tvg-logo="https://i.imgur.com/6yH88Q1.png" tvg-id="MBCPlusDrama.ae",MBC Plus Drama (1080p)
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 #EXTINF:-1 tvg-name="MBC DRAMA" group-title="Arabic" tvg-logo="https://www.mbc.net/dam/jcr:74d5c50e-e87a-4103-92ec-52860469aece/mbc-drama.png" tvg-id="MBCDrama.ae",MBC DRAMA
@@ -146,9 +144,9 @@ http://82.212.74.2:8000/live/7307.m3u8
 #EXTINF:-1 tvg-name="نور دبي" group-title="Islam" tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/icons/NoorDubai.png" tvg-id="",نور دبي
 https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Al Maali TV (1080p)" group-title="Islam" tvg-logo="https://i.imgur.com/oEdApMA.png" tvg-id="AlMaaliTV.kw",Al Maali TV (1080p)
-#EXTINF:-1 tvg-id="AhlAlquranTV.sa" tvg-logo="https://i.imgur.com/xeQvi2z.png" group-title="Religious",Ahl-Alquran TV (360p)
+https://kali.vdopanel.com:3986/live/mbashalive.m3u8
 #EXTINF:-1 tvg-name="Ahl-Alquran TV (360p)" group-title="Islam" tvg-logo="https://i.imgur.com/xeQvi2z.png" tvg-id="AhlAlquranTV.sa",Ahl-Alquran TV (360p)
-
+https://www.ahlualquran.tv:25463/live/ssadtv/live-tv/1.m3u8
 #EXTINF:-1 tvg-name="GULLI BILARRABI" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/fr/gulli.png" tvg-id="",GULLI BILARRABI
 https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
 #EXTINF:-1 tvg-name="TIJI" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/fr/tiji.png" tvg-id="",TIJI
