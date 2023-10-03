@@ -147,16 +147,8 @@ https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.
 https://kali.vdopanel.com:3986/live/mbashalive.m3u8
 #EXTINF:-1 tvg-name="Ahl-Alquran TV (360p)" group-title="Islam" tvg-logo="https://i.imgur.com/xeQvi2z.png" tvg-id="AhlAlquranTV.sa",Ahl-Alquran TV (360p)
 https://www.ahlualquran.tv:25463/live/ssadtv/live-tv/1.m3u8
-#EXTINF:-1 tvg-name="GULLI BILARRABI" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/fr/gulli.png" tvg-id="",GULLI BILARRABI
-https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
-#EXTINF:-1 tvg-name="TIJI" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/fr/tiji.png" tvg-id="",TIJI
-https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
 #EXTINF:-1 tvg-name="SPACETOON" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/sa/spacetoon.png" tvg-id="",SPACETOON
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
-#EXTINF:-1 tvg-name="La Petite Sorcière Tanny" group-title="Kids" tvg-logo="" tvg-id="",La Petite Sorcière Tanny
-https://ythls.onrender.com/channel/UC1VGGT9RfunvCdvZf_gqVBg.m3u8
-#EXTINF:-1 tvg-name="Nickelodeon France" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" tvg-id="NickelodeonFrance.fr",Nickelodeon France
-https://ythls.onrender.com/channel/UCeGvSi1Tb8OV78ue3_tux1A.m3u8
 #EXTINF:-1 tvg-name="MBC 3" group-title="Kids" tvg-logo="https://i.imgur.com/FVNVC73.png" tvg-id="MBC3.ae",MBC 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 #EXTINF:-1 tvg-name="MBC 3 EUR" group-title="Kids" tvg-logo="https://i.imgur.com/FVNVC73.png" tvg-id="MBC3EUR.ae",MBC 3 EUR
