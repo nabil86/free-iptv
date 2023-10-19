@@ -39,6 +39,18 @@ https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
 https://d2p6676ajpsg1j.cloudfront.net/out/v1/2daff8b433344d659bd5079224afc3ab/index.m3u8
 #EXTINF:-1 tvg-name="Dubai One (1080p)" group-title="Arabic" tvg-logo="https://i.imgur.com/Dj16oKL.png" tvg-id="DubaiOne.ae",Dubai One (1080p)
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlSaudiya.sa" tvg-logo="https://i.imgur.com/GRQTndk.png" group-title="Arabic",Al Saudiya (1080p) [Not 24/7]
+https://edge.taghtia.com/sa/2.m3u8
+#EXTINF:-1 tvg-id="AlSharqiya.iq" tvg-logo="https://i.imgur.com/mJIG5IV.png" group-title="Arabic",Al Sharqiya (1080p) [Not 24/7]
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+#EXTINF:-1 tvg-id="AlSharqiyaMinKabla.ae" tvg-logo="https://i.imgur.com/WGX5SCx.png" group-title="Arabic",Al Sharqiya Min Kabla (1080p)
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlSaudiyaAlaan.sa" tvg-logo="https://i.imgur.com/sEOjApe.png" group-title="Arabic",Al Saudiya Alaan (1080p) [Not 24/7]
+https://edge.taghtia.com/sa/17.m3u8
+#EXTINF:-1 tvg-id="AlShallalTV.ae" tvg-logo="https://i.imgur.com/otAHLRo.png" group-title="Arabic",Al Shallal TV (1080p)
+https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8
+
+
 #EXTINF:-1 tvg-name="2M Monde ARB" group-title="Maroc" tvg-logo="https://i.imgur.com/eE1SdyA.png" tvg-id="2M Monde ARB",2M Monde ARB
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 #EXTINF:-1 tvg-name="AlAoula" group-title="Maroc" tvg-logo="http://www.snrtlive.ma/sites/all/themes/snrtlive/images/alaoulax2.png" tvg-id="http://www.snrtlive.ma",AlAoula
@@ -182,29 +194,21 @@ https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677
 https://ythls.onrender.com/channel/UC4u2o6tyE4vTrErXY9AN6Rw.m3u8
 #EXTINF:-1 tvg-name="IncrediTales - Français" group-title="Kids" tvg-logo="" tvg-id="",IncrediTales - Français
 https://ythls.onrender.com/channel/UCgRU1S0M_TbYe0G0O1s4mqg.m3u8
-#EXTINF:-1 tvg-id="AlSaudiya.sa" tvg-logo="https://i.imgur.com/GRQTndk.png" group-title="General",Al Saudiya (1080p) [Not 24/7]
-https://edge.taghtia.com/sa/2.m3u8
-#EXTINF:-1 tvg-id="AlSaudiyaAlaan.sa" tvg-logo="https://i.imgur.com/sEOjApe.png" group-title="Undefined",Al Saudiya Alaan (1080p) [Not 24/7]
-https://edge.taghtia.com/sa/17.m3u8
-#EXTINF:-1 tvg-id="AlShallalTV.ae" tvg-logo="https://i.imgur.com/otAHLRo.png" group-title="Undefined",Al Shallal TV (1080p)
-https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="AlSharqiya.iq" tvg-logo="https://i.imgur.com/mJIG5IV.png" group-title="General",Al Sharqiya (1080p) [Not 24/7]
-http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
-#EXTINF:-1 tvg-id="AlSharqiyaMinKabla.ae" tvg-logo="https://i.imgur.com/WGX5SCx.png" group-title="General",Al Sharqiya Min Kabla (1080p)
-https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="France2" group-title="FR" tvg-logo="" tvg-id="",France 2
+
+
+#EXTINF:-1 tvg-name="France2" group-title="FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png" tvg-id="",France 2
 http://livetv.ktv.zone/104/play.m3u8
-#EXTINF:-1 tvg-name="France3" group-title="FR" tvg-logo="" tvg-id="",France 3
+#EXTINF:-1 tvg-name="France3" group-title="FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/512px-France_3_2018.svg.png" tvg-id="",France 3
 http://livetv.ktv.zone/105/play.m3u8
-#EXTINF:-1 tvg-name="France4" group-title="FR" tvg-logo="" tvg-id="",France 4
+#EXTINF:-1 tvg-name="France4" group-title="FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/512px-France_4_2018.svg.png" tvg-id="",France 4
 http://livetv.ktv.zone/116/play.m3u8
-#EXTINF:-1 tvg-name="France5" group-title="FR" tvg-logo="" tvg-id="",France 5
+#EXTINF:-1 tvg-name="France5" group-title="FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png" tvg-id="",France 5
 http://livetv.ktv.zone/107/play.m3u8
-#EXTINF:-1 tvg-name="M6" group-title="FR" tvg-logo="" tvg-id="",M6
+#EXTINF:-1 tvg-name="M6" group-title="FR" tvg-logo="https://i.imgur.com/7GVp3fW.png" tvg-id="",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
-#EXTINF:-1 tvg-name="TF1" group-title="FR" tvg-logo="" tvg-id="",TF1
+#EXTINF:-1 tvg-name="TF1" group-title="FR" tvg-logo="https://i.imgur.com/QxHt9NC.png" tvg-id="",TF1
 http://livetv.ktv.zone/3/play.m3u8
-#EXTINF:-1 tvg-name="TF1 Series Films" group-title="FR" tvg-logo="" tvg-id="",TF1 Series Films
+#EXTINF:-1 tvg-name="TF1 Series Films" group-title="FR" tvg-logo="https://i.imgur.com/4CJIDKQ.png" tvg-id="",TF1 Series Films
 http://livetv.ktv.zone/22/play.m3u8
-#EXTINF:-1 tvg-name="TV5 Monde" group-title="FR" tvg-logo="" tvg-id="",TV5 Monde
+#EXTINF:-1 tvg-name="TV5 Monde" group-title="FR" tvg-logo="https://i.imgur.com/rPAbMSu.png" tvg-id="",TV5 Monde
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
