@@ -184,6 +184,7 @@ https://kali.vdopanel.com:3986/live/mbashalive.m3u8
 https://www.ahlualquran.tv:25463/live/ssadtv/live-tv/1.m3u8
 #EXTINF:-1 tvg-id="Alquran.iq" tvg-logo="https://i.imgur.com/lqVwrAF.png" group-title="Islam",Alquran (1080p)
 https://ktv.imamhussain.org/stream/hls/ch1.m3u8
+
 #EXTINF:-1 tvg-name="SPACETOON" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/sa/spacetoon.png" tvg-id="",SPACETOON
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 #EXTINF:-1 tvg-name="MBC 3" group-title="Kids" tvg-logo="https://i.imgur.com/FVNVC73.png" tvg-id="MBC3.ae",MBC 3
@@ -192,8 +193,6 @@ https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/in
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
 #EXTINF:-1 tvg-name="Rotana Kids" group-title="Kids" tvg-logo="https://rotana.net/triAssets/uploads/2020/11/kids.png" tvg-id="RotanaKids.sa",Rotana Kids
 https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
-#EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://i.imgur.com/kqYssbW.png" group-title="Kids",Gulli
-https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8
 #EXTINF:-1 tvg-id="KidoodleTV.ca" tvg-logo="https://i.imgur.com/MaFtbM5.png" group-title="Kids",Kidoodle TV
 https://kidoodletv-kdtv-1-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MoonbugKids.uk" tvg-logo="https://i.imgur.com/vZHtxQb.png" group-title="Kids",Moonbug Kids (1080p)
@@ -4398,7 +4397,7 @@ http://195.154.166.82/AFLAM1/K/Frozen.mkv
 #EXTINF:-1 tvg-logo="" tvg-name="Goodbye Don Glees"  group-title="Kids",Goodbye Don Glees
 http://195.154.166.82/AFLAM1/K/Goodbye.Don.Glees.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="Guillermo del Toros Pinocchio"  group-title="Kids",Guillermo del Toros Pinocchio
-http://195.154.166.82/AFLAM1/K/Guillermo.del.Toros.Pinocchio.mp4
+#http://195.154.166.82/AFLAM1/K/Guillermo.del.Toros.Pinocchio.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="Horton Hears A Who"  group-title="Kids",Horton Hears A Who
 http://195.154.166.82/AFLAM1/K/Horton.Hears.A.Who.mkv
 #EXTINF:-1 tvg-logo="" tvg-name="Hotel Transylvania 1"  group-title="Kids",Hotel Transylvania 1
