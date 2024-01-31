@@ -57,7 +57,7 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_sn
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-name="Attakafia" group-title="Maroc" tvg-logo="http://www.snrtlive.ma/sites/all/themes/snrtlive/images/attakafiya-bg.png" tvg-id="http://snrtlive.ma/athaqafia",Attakafia
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-name="Arriyadia" group-title="Maroc" tvg-logo="http://www.snrtlive.ma/sites/all/themes/snrtlive/images/arriyadiax2.png" tvg-id="http://www.snrtlive.ma/",Arriyadia
+#EXTINF:-1 tvg-name="Arriyadia" group-title="Maroc" tvg-logo="https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-04/arriyadia-16x9.jpeg" tvg-id="http://www.snrtlive.ma/",Arriyadia
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-name="Assadissa" group-title="Maroc" tvg-logo="http://www.snrtlive.ma/sites/all/themes/snrtlive/images/assadissax2.png" tvg-id="http://www.snrtlive.ma",Assadissa
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8
@@ -624,6 +624,8 @@ http://195.154.166.82/AFLAM1/A/Elflos.mp4
 http://195.154.166.82/AFLAM1/A/Ellila.Elkebeera.mkv
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Enahar.Da.Yoom.Gameel.png" tvg-name="Enahar Da Yoom Gameel"  group-title="Arabic",Enahar Da Yoom Gameel
 http://195.154.166.82/AFLAM1/A/Enahar.Da.Yoom.Gameel.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image2/Esabet.Azima.2024.png" tvg-name="Esabet Azima 2024"  group-title="Arabic 2024",Esabet Azima 2024
+http://195.154.166.82/AFLAM1/A/Esabet.Azima.2024.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="Estedaa Wale Amr"  group-title="Arabic",Estedaa Wale Amr
 http://195.154.166.82/AFLAM1/A/Estedaa.Wale.Amr.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="Etl3oly Bara"  group-title="Arabic",Etl3oly Bara
@@ -1130,10 +1132,6 @@ http://195.154.166.82/AFLAM1/Amitabh.Bachchan/shamitabh_2015.mp4
 http://195.154.166.82/AFLAM1/Amitabh.Bachchan/sholay_1975.mp4
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/sooryavansham_1999.png" tvg-name="sooryavansham_1999"  group-title="India",sooryavansham_1999
 http://195.154.166.82/AFLAM1/Amitabh.Bachchan/sooryavansham_1999.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="wget-lo"  group-title="India",wget-lo
-http://195.154.166.82/AFLAM1/Amitabh.Bachchan/wget-log
-#EXTINF:-1 tvg-logo="" tvg-name="wget-log"  group-title="India",wget-log
-http://195.154.166.82/AFLAM1/Amitabh.Bachchan/wget-log.1
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/zameer_1975.png" tvg-name="zameer_1975"  group-title="India",zameer_1975
 http://195.154.166.82/AFLAM1/Amitabh.Bachchan/zameer_1975.mp4
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Automata.png" tvg-name="Automata 2014"  group-title="English",Automata 2014
@@ -1418,8 +1416,6 @@ http://195.154.166.82/AFLAM1/Asian.Movies/Wolves.Action.2.2020.mp4
 http://195.154.166.82/AFLAM1/Asian.Movies/Wu.Long.Zhen.Guan.Zhuan.2020.mp4
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/kung_hustle_2004.png" tvg-name="kung_hustle_2004"  group-title="Asian",kung_hustle_2004
 http://195.154.166.82/AFLAM1/Asian.Movies/kung_hustle_2004.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="wget-lo"  group-title="Asian",wget-lo
-http://195.154.166.82/AFLAM1/Asian.Movies/wget-log
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/A.River.Runs.Through.It.1992.jpg" tvg-name="A River Runs Through It 1992"  group-title="English",A River Runs Through It 1992
 http://195.154.166.82/AFLAM1/Brad.Pitt/A.River.Runs.Through.It.1992.mp4
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Allied.2016.jpg" tvg-name="Allied 2016"  group-title="English",Allied 2016
@@ -1592,10 +1588,14 @@ http://195.154.166.82/AFLAM1/Classic.Aflam/3abed.Elmal.mp4
 http://195.154.166.82/AFLAM1/Classic.Aflam/3afrita.Hanem.mkv
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/3sabet.Hamada.weToto.png" tvg-name="3sabet Hamada weToto"  group-title="Arabic",3sabet Hamada weToto
 http://195.154.166.82/AFLAM1/Classic.Aflam/3sabet.Hamada.weToto.mkv
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image2/3shaq.Elaill.png" tvg-name="3shaq Elaill"  group-title="Arabic",3shaq Elaill
+http://195.154.166.82/AFLAM1/Classic.Aflam/3shaq.Elaill.mp4
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/5aly.BalK.men.ZOZO.png" tvg-name="5aly BalK men ZOZO"  group-title="Arabic",5aly BalK men ZOZO
 http://195.154.166.82/AFLAM1/Classic.Aflam/5aly.BalK.men.ZOZO.mkv
 #EXTINF:-1 tvg-logo="" tvg-name="5aryb Fee Baity"  group-title="Arabic",5aryb Fee Baity
 http://195.154.166.82/AFLAM1/Classic.Aflam/5aryb.Fee.Baity.mkv
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image2/5ram.we.antqam.png" tvg-name="5ram we antqam"  group-title="Arabic",5ram we antqam
+http://195.154.166.82/AFLAM1/Classic.Aflam/5ram.we.antqam.mp4
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image2/5rbaaa.png" tvg-name="5rbaaa"  group-title="Arabic",5rbaaa
 http://195.154.166.82/AFLAM1/Classic.Aflam/5rbaaa.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="5roob We Shroq"  group-title="Arabic",5roob We Shroq
@@ -1608,10 +1608,14 @@ http://195.154.166.82/AFLAM1/Classic.Aflam/7maty.Qnbalh.mkv
 http://195.154.166.82/AFLAM1/Classic.Aflam/13.Elzoga.mkv
 #EXTINF:-1 tvg-logo="" tvg-name="30 Youm Fi Al Segn"  group-title="Arabic",30 Youm Fi Al Segn
 http://195.154.166.82/AFLAM1/Classic.Aflam/30.Youm.Fi.Al.Segn.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="A7bak Anta"  group-title="Arabic",A7bak Anta
+http://195.154.166.82/AFLAM1/Classic.Aflam/A7bak.Anta.mp4
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Classic.Aflam/AL.7.Bbanat.png" tvg-name="AL 7 Bbanat"  group-title="Arabic",AL 7 Bbanat
 http://195.154.166.82/AFLAM1/Classic.Aflam/AL.7.Bbanat.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="ALZawag Ala Altayka Al Hadesa"  group-title="Arabic",ALZawag Ala Altayka Al Hadesa
 http://195.154.166.82/AFLAM1/Classic.Aflam/ALZawag.Ala.Altayka.Al.Hadesa.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image2/Afreta.Hanem.png" tvg-name="Afreta Hanem"  group-title="Arabic",Afreta Hanem
+http://195.154.166.82/AFLAM1/Classic.Aflam/Afreta.Hanem.mp4
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Classic.Aflam/Ah.Mn.Hawaa.png" tvg-name="Ah Mn Hawaa"  group-title="Arabic",Ah Mn Hawaa
 http://195.154.166.82/AFLAM1/Classic.Aflam/Ah.Mn.Hawaa.mp4
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Classic.Aflam/Ahel.Al.Qemma.png" tvg-name="Ahel Al Qemma"  group-title="Arabic",Ahel Al Qemma
@@ -1640,8 +1644,12 @@ http://195.154.166.82/AFLAM1/Classic.Aflam/Al.Moulid.mp4
 http://195.154.166.82/AFLAM1/Classic.Aflam/Al.Namir.Wal.Ountha.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="Al Sahira Al Saghera"  group-title="Arabic",Al Sahira Al Saghera
 http://195.154.166.82/AFLAM1/Classic.Aflam/Al.Sahira.Al.Saghera.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image2/Al7ab.El3azeem.png" tvg-name="Al7ab El3azeem"  group-title="Arabic",Al7ab El3azeem
+http://195.154.166.82/AFLAM1/Classic.Aflam/Al7ab.El3azeem.mp4
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Ala.Bab.Elwazir.png" tvg-name="Ala Bab Elwazir"  group-title="Arabic",Ala Bab Elwazir
 http://195.154.166.82/AFLAM1/Classic.Aflam/Ala.Bab.Elwazir.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="Algaban We Al7ab"  group-title="Arabic",Algaban We Al7ab
+http://195.154.166.82/AFLAM1/Classic.Aflam/Algaban.We.Al7ab.mp4
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Alhafeed.png" tvg-name="Alhafeed"  group-title="Arabic",Alhafeed
 http://195.154.166.82/AFLAM1/Classic.Aflam/Alhafeed.mkv
 #EXTINF:-1 tvg-logo="" tvg-name="Ali Baba Weakrb3en 7ramy"  group-title="Arabic",Ali Baba Weakrb3en 7ramy
@@ -1662,6 +1670,8 @@ http://195.154.166.82/AFLAM1/Classic.Aflam/Amir.Elzalam.mkv
 http://195.154.166.82/AFLAM1/Classic.Aflam/AmirElntqam.mkv
 #EXTINF:-1 tvg-logo="" tvg-name="Amirat Hobi Ana"  group-title="Arabic",Amirat Hobi Ana
 http://195.154.166.82/AFLAM1/Classic.Aflam/Amirat.Hobi.Ana.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image2/Anter.we.lablab.png" tvg-name="Anter we lablab"  group-title="Arabic",Anter we lablab
+http://195.154.166.82/AFLAM1/Classic.Aflam/Anter.we.lablab.mp4
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Ard.El5waff.png" tvg-name="Ard El5waff"  group-title="Arabic",Ard El5waff
 http://195.154.166.82/AFLAM1/Classic.Aflam/Ard.El5waff.mkv
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Ard.Elnfak.png" tvg-name="Ard Elnfak"  group-title="Arabic",Ard Elnfak
@@ -1712,6 +1722,8 @@ http://195.154.166.82/AFLAM1/Classic.Aflam/El.KOl.3Ayz.Ya7ab.mkv
 http://195.154.166.82/AFLAM1/Classic.Aflam/El.Mashbouh.mp4
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/El3QL.WE.ELMALL.png" tvg-name="El3QL WE ELMALL"  group-title="Arabic",El3QL WE ELMALL
 http://195.154.166.82/AFLAM1/Classic.Aflam/El3QL.WE.ELMALL.mkv
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image2/El5taya.png" tvg-name="El5taya"  group-title="Arabic",El5taya
+http://195.154.166.82/AFLAM1/Classic.Aflam/El5taya.mp4
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Elambratwar.png" tvg-name="Elambratwar"  group-title="Arabic",Elambratwar
 http://195.154.166.82/AFLAM1/Classic.Aflam/Elambratwar.mkv
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Elarhaby.png" tvg-name="Elarhaby"  group-title="Arabic",Elarhaby
@@ -1722,6 +1734,8 @@ http://195.154.166.82/AFLAM1/Classic.Aflam/Elaydy.Elna3mH.mkv
 http://195.154.166.82/AFLAM1/Classic.Aflam/Elbayda.We.7agar.mkv
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Elforn.png" tvg-name="Elforn"  group-title="Arabic",Elforn
 http://195.154.166.82/AFLAM1/Classic.Aflam/Elforn.mkv
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image2/Elgrema.Elda7qa.png" tvg-name="Elgrema Elda7qa"  group-title="Arabic",Elgrema Elda7qa
+http://195.154.166.82/AFLAM1/Classic.Aflam/Elgrema.Elda7qa.mp4
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Classic.Aflam/Elkiet.kat.png" tvg-name="Elkiet kat"  group-title="Arabic",Elkiet kat
 http://195.154.166.82/AFLAM1/Classic.Aflam/Elkiet.kat.mkv
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Classic.Aflam/Elkif.png" tvg-name="Elkif"  group-title="Arabic",Elkif
@@ -1736,6 +1750,8 @@ http://195.154.166.82/AFLAM1/Classic.Aflam/Elmr3aa.5Labet.Elshetan.mp4
 http://195.154.166.82/AFLAM1/Classic.Aflam/Elra3yWelnsaa.mkv
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Elragil.Dah.Hyganny.png" tvg-name="Elragil Dah Hyganny"  group-title="Arabic",Elragil Dah Hyganny
 http://195.154.166.82/AFLAM1/Classic.Aflam/Elragil.Dah.Hyganny.mkv
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image2/Elrgal.Elsany.png" tvg-name="Elrgal Elsany"  group-title="Arabic",Elrgal Elsany
+http://195.154.166.82/AFLAM1/Classic.Aflam/Elrgal.Elsany.mp4
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Elshaqa.Men.7aq.Elzoga.png" tvg-name="Elshaqa Men 7aq Elzoga"  group-title="Arabic",Elshaqa Men 7aq Elzoga
 http://195.154.166.82/AFLAM1/Classic.Aflam/Elshaqa.Men.7aq.Elzoga.mkv
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Elshmo3.Elsodaa.png" tvg-name="Elshmo3 Elsodaa"  group-title="Arabic",Elshmo3 Elsodaa
@@ -1760,6 +1776,8 @@ http://195.154.166.82/AFLAM1/Classic.Aflam/Esha3etHop.mkv
 http://195.154.166.82/AFLAM1/Classic.Aflam/Fares.Bin.Hamdan.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="Fee Betna Ragol"  group-title="Arabic",Fee Betna Ragol
 http://195.154.166.82/AFLAM1/Classic.Aflam/Fee.Betna.Ragol.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="Fee Betna Ragol"  group-title="Arabic",Fee Betna Ragol
+http://195.154.166.82/AFLAM1/Classic.Aflam/Fee.Betna.Ragol.mp4
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Fee.Elsayf.Lazem.Na7ab.png" tvg-name="Fee Elsayf Lazem Na7ab"  group-title="Arabic",Fee Elsayf Lazem Na7ab
 http://195.154.166.82/AFLAM1/Classic.Aflam/Fee.Elsayf.Lazem.Na7ab.mkv
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Gaana.Elbyan.Eltaly.png" tvg-name="Gaana Elbyan Eltaly"  group-title="Arabic",Gaana Elbyan Eltaly
@@ -1804,6 +1822,8 @@ http://195.154.166.82/AFLAM1/Classic.Aflam/LLragal.Faqat.mkv
 http://195.154.166.82/AFLAM1/Classic.Aflam/Lilregal.Faqat.mp4
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Men.3zmaa.Eleslam.png" tvg-name="Men 3zmaa Eleslam"  group-title="Arabic",Men 3zmaa Eleslam
 http://195.154.166.82/AFLAM1/Classic.Aflam/Men.3zmaa.Eleslam.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="Mlak we shtan"  group-title="Arabic",Mlak we shtan
+http://195.154.166.82/AFLAM1/Classic.Aflam/Mlak.we.shtan.mp4
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image2/Mo3ed.m3.Ebliees.png" tvg-name="Mo3ed m3 Ebliees"  group-title="Arabic",Mo3ed m3 Ebliees
 http://195.154.166.82/AFLAM1/Classic.Aflam/Mo3ed.m3.Ebliees.mp4
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Motarda.Qarmia.png" tvg-name="Motarda Qarmia"  group-title="Arabic",Motarda Qarmia
@@ -1848,6 +1868,8 @@ http://195.154.166.82/AFLAM1/Classic.Aflam/Shams.Al.Zanati.mkv
 http://195.154.166.82/AFLAM1/Classic.Aflam/Shate.Al.Marah.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="Shaya Min Al Azab"  group-title="Arabic",Shaya Min Al Azab
 http://195.154.166.82/AFLAM1/Classic.Aflam/Shaya.Min.Al.Azab.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="Shbab Emraa"  group-title="Arabic",Shbab Emraa
+http://195.154.166.82/AFLAM1/Classic.Aflam/Shbab.Emraa.mp4
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Classic.Aflam/Shya.men.Elhoaf.png" tvg-name="Shya men Elhoaf"  group-title="Arabic",Shya men Elhoaf
 http://195.154.166.82/AFLAM1/Classic.Aflam/Shya.men.Elhoaf.mkv
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Soaq.Elhanyem.png" tvg-name="Soaq Elhanyem"  group-title="Arabic",Soaq Elhanyem
@@ -1914,6 +1936,8 @@ http://195.154.166.82/AFLAM1/E/A.Thousand.And.One.2023.mp4
 http://195.154.166.82/AFLAM1/E/A.Vampire.In.The.Family.2023.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="AABatman 2022"  group-title="English 2022",AABatman 2022
 http://195.154.166.82/AFLAM1/E/AABatman.2022.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="Acide 2023"  group-title="English 2023",Acide 2023
+http://195.154.166.82/AFLAM1/E/Acide.2023.mp4
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Adrift.png" tvg-name="Adrift"  group-title="English",Adrift
 http://195.154.166.82/AFLAM1/E/Adrift.mkv
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Aladdin.png" tvg-name="Aladdin"  group-title="English",Aladdin
@@ -2338,6 +2362,8 @@ http://195.154.166.82/AFLAM1/E/Thanksgiving.2023.mp4
 http://195.154.166.82/AFLAM1/E/The-Facility-2020.mp4
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/The.Adam.Project.png" tvg-name="The Adam Project 2022"  group-title="English 2022",The Adam Project 2022
 http://195.154.166.82/AFLAM1/E/The.Adam.Project.2022.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="The Beekeeper 2024"  group-title="English 2024",The Beekeeper 2024
+http://195.154.166.82/AFLAM1/E/The.Beekeeper.2024.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="The Bricklayer 2023"  group-title="English 2023",The Bricklayer 2023
 http://195.154.166.82/AFLAM1/E/The.Bricklayer.2023.mp4
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/The.Channel.png" tvg-name="The Channel 2023"  group-title="English 2023",The Channel 2023
@@ -2986,6 +3012,8 @@ http://195.154.166.82/AFLAM1/Hugh.Jackman/van-helsing-2004.mp4
 http://195.154.166.82/AFLAM1/India.Moives/Adipurush.2023.mp4
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Aneethi.png" tvg-name="Aneethi 2023"  group-title="India 2023",Aneethi 2023
 http://195.154.166.82/AFLAM1/India.Moives/Aneethi.2023.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image2/Animal.png" tvg-name="Animal 2023"  group-title="India 2023",Animal 2023
+http://195.154.166.82/AFLAM1/India.Moives/Animal.2023.mp4
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Asoka.png" tvg-name="Asoka 2001"  group-title="India",Asoka 2001
 http://195.154.166.82/AFLAM1/India.Moives/Asoka.2001.mp4
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Baaghi.3.png" tvg-name="Baaghi 3 2020"  group-title="India 2020",Baaghi 3 2020
@@ -3100,6 +3128,8 @@ http://195.154.166.82/AFLAM1/India.Moives/Rowdy.Rathore.2012.mp4
 http://195.154.166.82/AFLAM1/India.Moives/Runway.34.2022.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="Sajini Shinde Ka Viral Video 2023"  group-title="India 2023",Sajini Shinde Ka Viral Video 2023
 http://195.154.166.82/AFLAM1/India.Moives/Sajini.Shinde.Ka.Viral.Video.2023.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="Salaar 2023"  group-title="India 2023",Salaar 2023
+http://195.154.166.82/AFLAM1/India.Moives/Salaar.2023.mp4
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Sarileru.Neekevvaru.png" tvg-name="Sarileru Neekevvaru 2020"  group-title="India 2020",Sarileru Neekevvaru 2020
 http://195.154.166.82/AFLAM1/India.Moives/Sarileru.Neekevvaru.2020.mp4
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Singh.Is.Bliing.png" tvg-name="Singh Is Bliing 2015"  group-title="India",Singh Is Bliing 2015
@@ -3386,10 +3416,8 @@ http://195.154.166.82/AFLAM1/Jim.Carrey/man_the_moon_1999.mp4
 http://195.154.166.82/AFLAM1/Jim.Carrey/myself_and_irene_2000.mp4
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/yes_man_2008.png" tvg-name="yes_man_2008"  group-title="English",yes_man_2008
 http://195.154.166.82/AFLAM1/Jim.Carrey/yes_man_2008.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Elemental 2023 720p BluRay akwam"  group-title="Films 2023",Elemental 2023 720p BluRay akwam
-http://195.154.166.82/AFLAM1/K/1/Elemental.2023.720p.BluRay.akwam.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="wget-lo"  group-title="Films",wget-lo
-http://195.154.166.82/AFLAM1/K/1/wget-log
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image2/Wonka.png" tvg-name="Wonka 2023"  group-title="Films 2023",Wonka 2023
+http://195.154.166.82/AFLAM1/K/1/Wonka.2023.mp4
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Addams.Family.png" tvg-name="Addams Family"  group-title="Kids",Addams Family
 http://195.154.166.82/AFLAM1/K/Addams.Family.mp4
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Aladdin1.png" tvg-name="Aladdin1"  group-title="Kids",Aladdin1
@@ -4528,6 +4556,8 @@ http://195.154.166.82/AFLAM1/K/Mazinger/A.26.mkv
 http://195.154.166.82/AFLAM1/K/Megamind.mkv
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Mia.and.Me.The.Hero.of.Centopia.png" tvg-name="Mia and Me The Hero of Centopia"  group-title="Kids",Mia and Me The Hero of Centopia
 http://195.154.166.82/AFLAM1/K/Mia.and.Me.The.Hero.of.Centopia.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image2/Migration.png" tvg-name="Migration 2023"  group-title="Kids 2023",Migration 2023
+http://195.154.166.82/AFLAM1/K/Migration.2023.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="Minions The Rise Of Gru"  group-title="Kids",Minions The Rise Of Gru
 http://195.154.166.82/AFLAM1/K/Minions.The.Rise.Of.Gru.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="Miraculous Ladybug and Cat Noir The Movie"  group-title="Kids",Miraculous Ladybug and Cat Noir The Movie
@@ -5306,6 +5336,8 @@ http://195.154.166.82/AFLAM1/K/WALL_E.mkv
 http://195.154.166.82/AFLAM1/K/Welcome.to.the.Club.2022.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="Wendell and Wild"  group-title="Kids",Wendell and Wild
 http://195.154.166.82/AFLAM1/K/Wendell.and.Wild.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image2/Wish.png" tvg-name="Wish 2023"  group-title="Kids 2023",Wish 2023
+http://195.154.166.82/AFLAM1/K/Wish.2023.mp4
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Wreck.It.Ralph.png" tvg-name="Wreck It Ralph"  group-title="Kids",Wreck It Ralph
 http://195.154.166.82/AFLAM1/K/Wreck.It.Ralph.mkv
 #EXTINF:-1 tvg-logo="" tvg-name="Zootopia"  group-title="Kids",Zootopia
@@ -6292,6 +6324,10 @@ http://195.154.166.82/AFLAM1/VOD/Masr7.Zaman/A-06.mkv
 http://195.154.166.82/AFLAM1/VOD/Masr7.Zaman/A-07.mkv
 #EXTINF:-1 tvg-logo="" tvg-name="A-08"  group-title="Films",A-08
 http://195.154.166.82/AFLAM1/VOD/Masr7.Zaman/A-08.mkv
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image2/Ferrari.png" tvg-name="Ferrari 2023"  group-title="Films 2023",Ferrari 2023
+http://195.154.166.82/AFLAM1/VOD/NETFILX/1/Ferrari.2023.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="The Boys In The Boat 2023"  group-title="Films 2023",The Boys In The Boat 2023
+http://195.154.166.82/AFLAM1/VOD/NETFILX/1/The.Boys.In.The.Boat.2023.mp4
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/After.Everything.png" tvg-name="After Everything 2023"  group-title="Films 2023",After Everything 2023
 http://195.154.166.82/AFLAM1/VOD/NETFILX/After.Everything.2023.mkv
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Aladdin.png" tvg-name="Aladdin 2019"  group-title="Films",Aladdin 2019
@@ -6306,6 +6342,8 @@ http://195.154.166.82/AFLAM1/VOD/NETFILX/Avatar.The.Way.mkv
 http://195.154.166.82/AFLAM1/VOD/NETFILX/BIHTER.A%20FORBIDDEN%20PASSION%202023.mkv
 #EXTINF:-1 tvg-logo="" tvg-name="Bad Boys for Life"  group-title="Films",Bad Boys for Life
 http://195.154.166.82/AFLAM1/VOD/NETFILX/Bad.Boys.for.Life.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="Badland Hunters 2024"  group-title="Films 2024",Badland Hunters 2024
+http://195.154.166.82/AFLAM1/VOD/NETFILX/Badland.Hunters.2024.mp4
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Beast.2022.png" tvg-name="Beast 2022"  group-title="Films 2022",Beast 2022
 http://195.154.166.82/AFLAM1/VOD/NETFILX/Beast.2022.mkv
 #EXTINF:-1 tvg-logo="" tvg-name="Before The Fire 2020"  group-title="Films 2020",Before The Fire 2020
@@ -6404,6 +6442,8 @@ http://195.154.166.82/AFLAM1/VOD/NETFILX/Meg.2.The.Trench.2023.mkv
 http://195.154.166.82/AFLAM1/VOD/NETFILX/Morbius.2022.mkv
 #EXTINF:-1 tvg-logo="" tvg-name="Murder On The Orient Express 2017"  group-title="Films",Murder On The Orient Express 2017
 http://195.154.166.82/AFLAM1/VOD/NETFILX/Murder.On.The.Orient.Express.2017.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="Next Goal Wins 2023"  group-title="Films 2023",Next Goal Wins 2023
+http://195.154.166.82/AFLAM1/VOD/NETFILX/Next.Goal.Wins.2023.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="No Time To Die 2021"  group-title="Films 2021",No Time To Die 2021
 http://195.154.166.82/AFLAM1/VOD/NETFILX/No.Time.To.Die.2021.mkv
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Noah.png" tvg-name="Noah"  group-title="Films",Noah
@@ -6518,6 +6558,8 @@ http://195.154.166.82/AFLAM1/VOD/NETFILX/Top.Gun.Maverick.mkv
 http://195.154.166.82/AFLAM1/VOD/NETFILX/Triassic.Hunt.2021.mkv
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Troll.2022.png" tvg-name="Troll 2022"  group-title="Films 2022",Troll 2022
 http://195.154.166.82/AFLAM1/VOD/NETFILX/Troll.2022.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="Trunk Locked in 2023"  group-title="Films 2023",Trunk Locked in 2023
+http://195.154.166.82/AFLAM1/VOD/NETFILX/Trunk.Locked.in.2023.mp4
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/VR.Fighter.png" tvg-name="VR Fighter 2021"  group-title="Films 2021",VR Fighter 2021
 http://195.154.166.82/AFLAM1/VOD/NETFILX/VR.Fighter.2021.mkv
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Vanguard.png" tvg-name="Vanguard"  group-title="Films",Vanguard
@@ -6558,6 +6600,10 @@ http://195.154.166.82/AFLAM1/VOD/Ngoam/Ahmed.Elsaqa.mkv
 http://195.154.166.82/AFLAM1/VOD/Ngoam/Ahmed.Helmy.mkv
 #EXTINF:-1 tvg-logo="" tvg-name="Antonio Banderas"  group-title="English",Antonio Banderas
 http://195.154.166.82/AFLAM1/VOD/Ngoam/E/Antonio.Banderas.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="Arnold"  group-title="English",Arnold
+http://195.154.166.82/AFLAM1/VOD/Ngoam/E/Arnold.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="Brad Pitt"  group-title="English",Brad Pitt
+http://195.154.166.82/AFLAM1/VOD/Ngoam/E/Brad.Pitt.mkv
 #EXTINF:-1 tvg-logo="" tvg-name="Bruce Willis"  group-title="English",Bruce Willis
 http://195.154.166.82/AFLAM1/VOD/Ngoam/E/Bruce.Willis.mkv
 #EXTINF:-1 tvg-logo="" tvg-name="Christian Bale"  group-title="English",Christian Bale
@@ -7022,29 +7068,29 @@ http://195.154.166.82/SER/2021/Al.Maddah/Al.Maddah.S1.E28.mp4
 http://195.154.166.82/SER/2021/Al.Maddah/Al.Maddah.S1.E29.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="Al Maddah S1 E30"  group-title="Arabic Series",Al Maddah S1 E30
 http://195.154.166.82/SER/2021/Al.Maddah/Al.Maddah.S1.E30.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Bayt Al MaadiE01"  group-title="Arabic Series",Bayt Al MaadiE01
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Bayt.Al.Maadi.png" tvg-name="Bayt Al MaadiE01"  group-title="Arabic Series",Bayt Al MaadiE01
 http://195.154.166.82/SER/2021/Bayt.Al.Maadi/Bayt.Al.MaadiE01.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Bayt Al MaadiE02"  group-title="Arabic Series",Bayt Al MaadiE02
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Bayt.Al.Maadi.png" tvg-name="Bayt Al MaadiE02"  group-title="Arabic Series",Bayt Al MaadiE02
 http://195.154.166.82/SER/2021/Bayt.Al.Maadi/Bayt.Al.MaadiE02.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Bayt Al MaadiE03"  group-title="Arabic Series",Bayt Al MaadiE03
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Bayt.Al.Maadi.png" tvg-name="Bayt Al MaadiE03"  group-title="Arabic Series",Bayt Al MaadiE03
 http://195.154.166.82/SER/2021/Bayt.Al.Maadi/Bayt.Al.MaadiE03.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Bayt Al MaadiE04"  group-title="Arabic Series",Bayt Al MaadiE04
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Bayt.Al.Maadi.png" tvg-name="Bayt Al MaadiE04"  group-title="Arabic Series",Bayt Al MaadiE04
 http://195.154.166.82/SER/2021/Bayt.Al.Maadi/Bayt.Al.MaadiE04.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Bayt Al MaadiE05"  group-title="Arabic Series",Bayt Al MaadiE05
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Bayt.Al.Maadi.png" tvg-name="Bayt Al MaadiE05"  group-title="Arabic Series",Bayt Al MaadiE05
 http://195.154.166.82/SER/2021/Bayt.Al.Maadi/Bayt.Al.MaadiE05.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Bayt Al MaadiE06"  group-title="Arabic Series",Bayt Al MaadiE06
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Bayt.Al.Maadi.png" tvg-name="Bayt Al MaadiE06"  group-title="Arabic Series",Bayt Al MaadiE06
 http://195.154.166.82/SER/2021/Bayt.Al.Maadi/Bayt.Al.MaadiE06.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Bayt Al MaadiE07"  group-title="Arabic Series",Bayt Al MaadiE07
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Bayt.Al.Maadi.png" tvg-name="Bayt Al MaadiE07"  group-title="Arabic Series",Bayt Al MaadiE07
 http://195.154.166.82/SER/2021/Bayt.Al.Maadi/Bayt.Al.MaadiE07.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Bayt Al MaadiE08"  group-title="Arabic Series",Bayt Al MaadiE08
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Bayt.Al.Maadi.png" tvg-name="Bayt Al MaadiE08"  group-title="Arabic Series",Bayt Al MaadiE08
 http://195.154.166.82/SER/2021/Bayt.Al.Maadi/Bayt.Al.MaadiE08.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Bayt Al MaadiE09"  group-title="Arabic Series",Bayt Al MaadiE09
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Bayt.Al.Maadi.png" tvg-name="Bayt Al MaadiE09"  group-title="Arabic Series",Bayt Al MaadiE09
 http://195.154.166.82/SER/2021/Bayt.Al.Maadi/Bayt.Al.MaadiE09.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Bayt Al MaadiE10"  group-title="Arabic Series",Bayt Al MaadiE10
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Bayt.Al.Maadi.png" tvg-name="Bayt Al MaadiE10"  group-title="Arabic Series",Bayt Al MaadiE10
 http://195.154.166.82/SER/2021/Bayt.Al.Maadi/Bayt.Al.MaadiE10.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Bayt Al MaadiE11"  group-title="Arabic Series",Bayt Al MaadiE11
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Bayt.Al.Maadi.png" tvg-name="Bayt Al MaadiE11"  group-title="Arabic Series",Bayt Al MaadiE11
 http://195.154.166.82/SER/2021/Bayt.Al.Maadi/Bayt.Al.MaadiE11.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Bayt Al MaadiE12"  group-title="Arabic Series",Bayt Al MaadiE12
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Bayt.Al.Maadi.png" tvg-name="Bayt Al MaadiE12"  group-title="Arabic Series",Bayt Al MaadiE12
 http://195.154.166.82/SER/2021/Bayt.Al.Maadi/Bayt.Al.MaadiE12.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="Final Scene S01E01"  group-title="Arabic Series",Final Scene S01E01
 http://195.154.166.82/SER/2021/Final.Scene/Final.Scene.S01E01.mp4
@@ -7232,29 +7278,29 @@ http://195.154.166.82/SER/2022/AYAAM.2/Ayyam.S02E13.mp4
 http://195.154.166.82/SER/2022/AYAAM.2/Ayyam.S02E14.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="Ayyam S02E15"  group-title="Arabic Series",Ayyam S02E15
 http://195.154.166.82/SER/2022/AYAAM.2/Ayyam.S02E15.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Akher Dor E01"  group-title="Arabic Series",Akher Dor E01
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Akher.Dor.png" tvg-name="Akher Dor E01"  group-title="Arabic Series",Akher Dor E01
 http://195.154.166.82/SER/2022/Akher.Dor/Akher.Dor.E01.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Akher Dor E02"  group-title="Arabic Series",Akher Dor E02
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Akher.Dor.png" tvg-name="Akher Dor E02"  group-title="Arabic Series",Akher Dor E02
 http://195.154.166.82/SER/2022/Akher.Dor/Akher.Dor.E02.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Akher Dor E03"  group-title="Arabic Series",Akher Dor E03
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Akher.Dor.png" tvg-name="Akher Dor E03"  group-title="Arabic Series",Akher Dor E03
 http://195.154.166.82/SER/2022/Akher.Dor/Akher.Dor.E03.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Akher Dor E04"  group-title="Arabic Series",Akher Dor E04
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Akher.Dor.png" tvg-name="Akher Dor E04"  group-title="Arabic Series",Akher Dor E04
 http://195.154.166.82/SER/2022/Akher.Dor/Akher.Dor.E04.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Akher Dor E05"  group-title="Arabic Series",Akher Dor E05
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Akher.Dor.png" tvg-name="Akher Dor E05"  group-title="Arabic Series",Akher Dor E05
 http://195.154.166.82/SER/2022/Akher.Dor/Akher.Dor.E05.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Akher Dor E06"  group-title="Arabic Series",Akher Dor E06
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Akher.Dor.png" tvg-name="Akher Dor E06"  group-title="Arabic Series",Akher Dor E06
 http://195.154.166.82/SER/2022/Akher.Dor/Akher.Dor.E06.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Akher Dor E07"  group-title="Arabic Series",Akher Dor E07
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Akher.Dor.png" tvg-name="Akher Dor E07"  group-title="Arabic Series",Akher Dor E07
 http://195.154.166.82/SER/2022/Akher.Dor/Akher.Dor.E07.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Akher Dor E08"  group-title="Arabic Series",Akher Dor E08
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Akher.Dor.png" tvg-name="Akher Dor E08"  group-title="Arabic Series",Akher Dor E08
 http://195.154.166.82/SER/2022/Akher.Dor/Akher.Dor.E08.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Akher Dor E09"  group-title="Arabic Series",Akher Dor E09
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Akher.Dor.png" tvg-name="Akher Dor E09"  group-title="Arabic Series",Akher Dor E09
 http://195.154.166.82/SER/2022/Akher.Dor/Akher.Dor.E09.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Akher Dor E10"  group-title="Arabic Series",Akher Dor E10
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Akher.Dor.png" tvg-name="Akher Dor E10"  group-title="Arabic Series",Akher Dor E10
 http://195.154.166.82/SER/2022/Akher.Dor/Akher.Dor.E10.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Akher Dor E11"  group-title="Arabic Series",Akher Dor E11
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Akher.Dor.png" tvg-name="Akher Dor E11"  group-title="Arabic Series",Akher Dor E11
 http://195.154.166.82/SER/2022/Akher.Dor/Akher.Dor.E11.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Akher Dor E12"  group-title="Arabic Series",Akher Dor E12
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Akher.Dor.png" tvg-name="Akher Dor E12"  group-title="Arabic Series",Akher Dor E12
 http://195.154.166.82/SER/2022/Akher.Dor/Akher.Dor.E12.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="The Accused E01"  group-title="Arabic Series",The Accused E01
 http://195.154.166.82/SER/2022/Al.MothamA/The.Accused.E01.mp4
@@ -8108,8 +8154,6 @@ http://195.154.166.82/SER/2022/Rmdan2022/9.Fi.Betna.Robot.2/Fi.Betna.Robot.2-28.
 http://195.154.166.82/SER/2022/Rmdan2022/9.Fi.Betna.Robot.2/Fi.Betna.Robot.2-29.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="Fi Betna Robot 2-30"  group-title="Arabic Series",Fi Betna Robot 2-30
 http://195.154.166.82/SER/2022/Rmdan2022/9.Fi.Betna.Robot.2/Fi.Betna.Robot.2-30.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="wget-lo"  group-title="Arabic Series",wget-lo
-http://195.154.166.82/SER/2022/Rmdan2022/9.Fi.Betna.Robot.2/wget-log
 #EXTINF:-1 tvg-logo="" tvg-name="Jazeerat Ghamam-01"  group-title="Arabic Series",Jazeerat Ghamam-01
 http://195.154.166.82/SER/2022/Rmdan2022/10.Jazeerat.Ghamam/Jazeerat.Ghamam-01.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="Jazeerat Ghamam-02"  group-title="Arabic Series",Jazeerat Ghamam-02
@@ -9220,65 +9264,65 @@ http://195.154.166.82/SER/2022/Rmdan2022/40.Kayd.Hareem/Kayd.Hareem-28.mp4
 http://195.154.166.82/SER/2022/Rmdan2022/40.Kayd.Hareem/Kayd.Hareem-29.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="Kayd Hareem-30"  group-title="Arabic Series",Kayd Hareem-30
 http://195.154.166.82/SER/2022/Rmdan2022/40.Kayd.Hareem/Kayd.Hareem-30.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Mazad Elsharr E01"  group-title="Arabic Series",Mazad Elsharr E01
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Mazad.Elsharr.png" tvg-name="Mazad Elsharr E01"  group-title="Arabic Series",Mazad Elsharr E01
 http://195.154.166.82/SER/2022/Rmdan2022/42-Mazad.Elsharr/Mazad.Elsharr.E01.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Mazad Elsharr E02"  group-title="Arabic Series",Mazad Elsharr E02
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Mazad.Elsharr.png" tvg-name="Mazad Elsharr E02"  group-title="Arabic Series",Mazad Elsharr E02
 http://195.154.166.82/SER/2022/Rmdan2022/42-Mazad.Elsharr/Mazad.Elsharr.E02.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Mazad Elsharr E03"  group-title="Arabic Series",Mazad Elsharr E03
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Mazad.Elsharr.png" tvg-name="Mazad Elsharr E03"  group-title="Arabic Series",Mazad Elsharr E03
 http://195.154.166.82/SER/2022/Rmdan2022/42-Mazad.Elsharr/Mazad.Elsharr.E03.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Mazad Elsharr E04"  group-title="Arabic Series",Mazad Elsharr E04
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Mazad.Elsharr.png" tvg-name="Mazad Elsharr E04"  group-title="Arabic Series",Mazad Elsharr E04
 http://195.154.166.82/SER/2022/Rmdan2022/42-Mazad.Elsharr/Mazad.Elsharr.E04.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Mazad Elsharr E05"  group-title="Arabic Series",Mazad Elsharr E05
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Mazad.Elsharr.png" tvg-name="Mazad Elsharr E05"  group-title="Arabic Series",Mazad Elsharr E05
 http://195.154.166.82/SER/2022/Rmdan2022/42-Mazad.Elsharr/Mazad.Elsharr.E05.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Mazad Elsharr E06"  group-title="Arabic Series",Mazad Elsharr E06
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Mazad.Elsharr.png" tvg-name="Mazad Elsharr E06"  group-title="Arabic Series",Mazad Elsharr E06
 http://195.154.166.82/SER/2022/Rmdan2022/42-Mazad.Elsharr/Mazad.Elsharr.E06.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Mazad Elsharr E07"  group-title="Arabic Series",Mazad Elsharr E07
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Mazad.Elsharr.png" tvg-name="Mazad Elsharr E07"  group-title="Arabic Series",Mazad Elsharr E07
 http://195.154.166.82/SER/2022/Rmdan2022/42-Mazad.Elsharr/Mazad.Elsharr.E07.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Mazad Elsharr E08"  group-title="Arabic Series",Mazad Elsharr E08
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Mazad.Elsharr.png" tvg-name="Mazad Elsharr E08"  group-title="Arabic Series",Mazad Elsharr E08
 http://195.154.166.82/SER/2022/Rmdan2022/42-Mazad.Elsharr/Mazad.Elsharr.E08.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Mazad Elsharr E09"  group-title="Arabic Series",Mazad Elsharr E09
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Mazad.Elsharr.png" tvg-name="Mazad Elsharr E09"  group-title="Arabic Series",Mazad Elsharr E09
 http://195.154.166.82/SER/2022/Rmdan2022/42-Mazad.Elsharr/Mazad.Elsharr.E09.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Mazad Elsharr E10"  group-title="Arabic Series",Mazad Elsharr E10
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Mazad.Elsharr.png" tvg-name="Mazad Elsharr E10"  group-title="Arabic Series",Mazad Elsharr E10
 http://195.154.166.82/SER/2022/Rmdan2022/42-Mazad.Elsharr/Mazad.Elsharr.E10.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Mazad Elsharr E11"  group-title="Arabic Series",Mazad Elsharr E11
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Mazad.Elsharr.png" tvg-name="Mazad Elsharr E11"  group-title="Arabic Series",Mazad Elsharr E11
 http://195.154.166.82/SER/2022/Rmdan2022/42-Mazad.Elsharr/Mazad.Elsharr.E11.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Mazad Elsharr E12"  group-title="Arabic Series",Mazad Elsharr E12
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Mazad.Elsharr.png" tvg-name="Mazad Elsharr E12"  group-title="Arabic Series",Mazad Elsharr E12
 http://195.154.166.82/SER/2022/Rmdan2022/42-Mazad.Elsharr/Mazad.Elsharr.E12.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Mazad Elsharr E13"  group-title="Arabic Series",Mazad Elsharr E13
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Mazad.Elsharr.png" tvg-name="Mazad Elsharr E13"  group-title="Arabic Series",Mazad Elsharr E13
 http://195.154.166.82/SER/2022/Rmdan2022/42-Mazad.Elsharr/Mazad.Elsharr.E13.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Mazad Elsharr E14"  group-title="Arabic Series",Mazad Elsharr E14
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Mazad.Elsharr.png" tvg-name="Mazad Elsharr E14"  group-title="Arabic Series",Mazad Elsharr E14
 http://195.154.166.82/SER/2022/Rmdan2022/42-Mazad.Elsharr/Mazad.Elsharr.E14.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Mazad Elsharr E15"  group-title="Arabic Series",Mazad Elsharr E15
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Mazad.Elsharr.png" tvg-name="Mazad Elsharr E15"  group-title="Arabic Series",Mazad Elsharr E15
 http://195.154.166.82/SER/2022/Rmdan2022/42-Mazad.Elsharr/Mazad.Elsharr.E15.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Mazad Elsharr E16"  group-title="Arabic Series",Mazad Elsharr E16
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Mazad.Elsharr.png" tvg-name="Mazad Elsharr E16"  group-title="Arabic Series",Mazad Elsharr E16
 http://195.154.166.82/SER/2022/Rmdan2022/42-Mazad.Elsharr/Mazad.Elsharr.E16.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Mazad Elsharr E17"  group-title="Arabic Series",Mazad Elsharr E17
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Mazad.Elsharr.png" tvg-name="Mazad Elsharr E17"  group-title="Arabic Series",Mazad Elsharr E17
 http://195.154.166.82/SER/2022/Rmdan2022/42-Mazad.Elsharr/Mazad.Elsharr.E17.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Mazad Elsharr E18"  group-title="Arabic Series",Mazad Elsharr E18
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Mazad.Elsharr.png" tvg-name="Mazad Elsharr E18"  group-title="Arabic Series",Mazad Elsharr E18
 http://195.154.166.82/SER/2022/Rmdan2022/42-Mazad.Elsharr/Mazad.Elsharr.E18.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Mazad Elsharr E19"  group-title="Arabic Series",Mazad Elsharr E19
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Mazad.Elsharr.png" tvg-name="Mazad Elsharr E19"  group-title="Arabic Series",Mazad Elsharr E19
 http://195.154.166.82/SER/2022/Rmdan2022/42-Mazad.Elsharr/Mazad.Elsharr.E19.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Mazad Elsharr E20"  group-title="Arabic Series",Mazad Elsharr E20
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Mazad.Elsharr.png" tvg-name="Mazad Elsharr E20"  group-title="Arabic Series",Mazad Elsharr E20
 http://195.154.166.82/SER/2022/Rmdan2022/42-Mazad.Elsharr/Mazad.Elsharr.E20.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Mazad Elsharr E21"  group-title="Arabic Series",Mazad Elsharr E21
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Mazad.Elsharr.png" tvg-name="Mazad Elsharr E21"  group-title="Arabic Series",Mazad Elsharr E21
 http://195.154.166.82/SER/2022/Rmdan2022/42-Mazad.Elsharr/Mazad.Elsharr.E21.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Mazad Elsharr E22"  group-title="Arabic Series",Mazad Elsharr E22
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Mazad.Elsharr.png" tvg-name="Mazad Elsharr E22"  group-title="Arabic Series",Mazad Elsharr E22
 http://195.154.166.82/SER/2022/Rmdan2022/42-Mazad.Elsharr/Mazad.Elsharr.E22.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Mazad Elsharr E23"  group-title="Arabic Series",Mazad Elsharr E23
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Mazad.Elsharr.png" tvg-name="Mazad Elsharr E23"  group-title="Arabic Series",Mazad Elsharr E23
 http://195.154.166.82/SER/2022/Rmdan2022/42-Mazad.Elsharr/Mazad.Elsharr.E23.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Mazad Elsharr E24"  group-title="Arabic Series",Mazad Elsharr E24
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Mazad.Elsharr.png" tvg-name="Mazad Elsharr E24"  group-title="Arabic Series",Mazad Elsharr E24
 http://195.154.166.82/SER/2022/Rmdan2022/42-Mazad.Elsharr/Mazad.Elsharr.E24.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Mazad Elsharr E25"  group-title="Arabic Series",Mazad Elsharr E25
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Mazad.Elsharr.png" tvg-name="Mazad Elsharr E25"  group-title="Arabic Series",Mazad Elsharr E25
 http://195.154.166.82/SER/2022/Rmdan2022/42-Mazad.Elsharr/Mazad.Elsharr.E25.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Mazad Elsharr E26"  group-title="Arabic Series",Mazad Elsharr E26
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Mazad.Elsharr.png" tvg-name="Mazad Elsharr E26"  group-title="Arabic Series",Mazad Elsharr E26
 http://195.154.166.82/SER/2022/Rmdan2022/42-Mazad.Elsharr/Mazad.Elsharr.E26.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Mazad Elsharr E27"  group-title="Arabic Series",Mazad Elsharr E27
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Mazad.Elsharr.png" tvg-name="Mazad Elsharr E27"  group-title="Arabic Series",Mazad Elsharr E27
 http://195.154.166.82/SER/2022/Rmdan2022/42-Mazad.Elsharr/Mazad.Elsharr.E27.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Mazad Elsharr E28"  group-title="Arabic Series",Mazad Elsharr E28
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Mazad.Elsharr.png" tvg-name="Mazad Elsharr E28"  group-title="Arabic Series",Mazad Elsharr E28
 http://195.154.166.82/SER/2022/Rmdan2022/42-Mazad.Elsharr/Mazad.Elsharr.E28.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Mazad Elsharr E29"  group-title="Arabic Series",Mazad Elsharr E29
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Mazad.Elsharr.png" tvg-name="Mazad Elsharr E29"  group-title="Arabic Series",Mazad Elsharr E29
 http://195.154.166.82/SER/2022/Rmdan2022/42-Mazad.Elsharr/Mazad.Elsharr.E29.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Mazad Elsharr E30"  group-title="Arabic Series",Mazad Elsharr E30
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Mazad.Elsharr.png" tvg-name="Mazad Elsharr E30"  group-title="Arabic Series",Mazad Elsharr E30
 http://195.154.166.82/SER/2022/Rmdan2022/42-Mazad.Elsharr/Mazad.Elsharr.E30.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="Rmdan2020"  group-title="Arabic Series",Rmdan2020
 http://195.154.166.82/SER/2022/Rmdan2022/Rmdan2020.mp4
@@ -9410,17 +9454,17 @@ http://195.154.166.82/SER/2022/Wadi.Al.Jinn.S2/Wadi.Al.Jinn.S2.E7.mp4
 http://195.154.166.82/SER/2022/Wadi.Al.Jinn.S2/Wadi.Al.Jinn.S2.E8.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="Wadi Al Jinn S2 E9"  group-title="Arabic Series",Wadi Al Jinn S2 E9
 http://195.154.166.82/SER/2022/Wadi.Al.Jinn.S2/Wadi.Al.Jinn.S2.E9.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Wadi Al Jinn S2 E10"  group-title="Arabic Series",Wadi Al Jinn S2 E10
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Wadi.Al.Jinn.S2.png" tvg-name="Wadi Al Jinn S2 E10"  group-title="Arabic Series",Wadi Al Jinn S2 E10
 http://195.154.166.82/SER/2022/Wadi.Al.Jinn.S2/Wadi.Al.Jinn.S2.E10.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Wadi Al Jinn S2 E11"  group-title="Arabic Series",Wadi Al Jinn S2 E11
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Wadi.Al.Jinn.S2.png" tvg-name="Wadi Al Jinn S2 E11"  group-title="Arabic Series",Wadi Al Jinn S2 E11
 http://195.154.166.82/SER/2022/Wadi.Al.Jinn.S2/Wadi.Al.Jinn.S2.E11.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Wadi Al Jinn S2 E12"  group-title="Arabic Series",Wadi Al Jinn S2 E12
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Wadi.Al.Jinn.S2.png" tvg-name="Wadi Al Jinn S2 E12"  group-title="Arabic Series",Wadi Al Jinn S2 E12
 http://195.154.166.82/SER/2022/Wadi.Al.Jinn.S2/Wadi.Al.Jinn.S2.E12.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Wadi Al Jinn S2 E13"  group-title="Arabic Series",Wadi Al Jinn S2 E13
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Wadi.Al.Jinn.S2.png" tvg-name="Wadi Al Jinn S2 E13"  group-title="Arabic Series",Wadi Al Jinn S2 E13
 http://195.154.166.82/SER/2022/Wadi.Al.Jinn.S2/Wadi.Al.Jinn.S2.E13.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Wadi Al Jinn S2 E14"  group-title="Arabic Series",Wadi Al Jinn S2 E14
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Wadi.Al.Jinn.S2.png" tvg-name="Wadi Al Jinn S2 E14"  group-title="Arabic Series",Wadi Al Jinn S2 E14
 http://195.154.166.82/SER/2022/Wadi.Al.Jinn.S2/Wadi.Al.Jinn.S2.E14.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Wadi Al Jinn S2 E15"  group-title="Arabic Series",Wadi Al Jinn S2 E15
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Wadi.Al.Jinn.S2.png" tvg-name="Wadi Al Jinn S2 E15"  group-title="Arabic Series",Wadi Al Jinn S2 E15
 http://195.154.166.82/SER/2022/Wadi.Al.Jinn.S2/Wadi.Al.Jinn.S2.E15.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="Wish Wa Dahr S01"  group-title="Arabic Series",Wish Wa Dahr S01
 http://195.154.166.82/SER/2022/Wish.Wa.Dahr/Wish.Wa.Dahr.S01.mp4
@@ -9586,35 +9630,35 @@ http://195.154.166.82/SER/2023/Anbar.6.S02/Anbar.6.S02-E10.mp4
 http://195.154.166.82/SER/2023/Anbar.6.S02/Anbar.6.S02-E11.mp4
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Anbar.6.S02.png" tvg-name="Anbar 6 S02-E12"  group-title="Arabic Series",Anbar 6 S02-E12
 http://195.154.166.82/SER/2023/Anbar.6.S02/Anbar.6.S02-E12.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Azmat Montasaf Omr E01"  group-title="Arabic Series",Azmat Montasaf Omr E01
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Azmat.Montasaf.Omr.png" tvg-name="Azmat Montasaf Omr E01"  group-title="Arabic Series",Azmat Montasaf Omr E01
 http://195.154.166.82/SER/2023/Azmat.Montasaf.Omr/Azmat.Montasaf.Omr.E01.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Azmat Montasaf Omr E02"  group-title="Arabic Series",Azmat Montasaf Omr E02
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Azmat.Montasaf.Omr.png" tvg-name="Azmat Montasaf Omr E02"  group-title="Arabic Series",Azmat Montasaf Omr E02
 http://195.154.166.82/SER/2023/Azmat.Montasaf.Omr/Azmat.Montasaf.Omr.E02.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Azmat Montasaf Omr E03"  group-title="Arabic Series",Azmat Montasaf Omr E03
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Azmat.Montasaf.Omr.png" tvg-name="Azmat Montasaf Omr E03"  group-title="Arabic Series",Azmat Montasaf Omr E03
 http://195.154.166.82/SER/2023/Azmat.Montasaf.Omr/Azmat.Montasaf.Omr.E03.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Azmat Montasaf Omr E04"  group-title="Arabic Series",Azmat Montasaf Omr E04
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Azmat.Montasaf.Omr.png" tvg-name="Azmat Montasaf Omr E04"  group-title="Arabic Series",Azmat Montasaf Omr E04
 http://195.154.166.82/SER/2023/Azmat.Montasaf.Omr/Azmat.Montasaf.Omr.E04.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Azmat Montasaf Omr E05"  group-title="Arabic Series",Azmat Montasaf Omr E05
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Azmat.Montasaf.Omr.png" tvg-name="Azmat Montasaf Omr E05"  group-title="Arabic Series",Azmat Montasaf Omr E05
 http://195.154.166.82/SER/2023/Azmat.Montasaf.Omr/Azmat.Montasaf.Omr.E05.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Azmat Montasaf Omr E06"  group-title="Arabic Series",Azmat Montasaf Omr E06
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Azmat.Montasaf.Omr.png" tvg-name="Azmat Montasaf Omr E06"  group-title="Arabic Series",Azmat Montasaf Omr E06
 http://195.154.166.82/SER/2023/Azmat.Montasaf.Omr/Azmat.Montasaf.Omr.E06.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Azmat Montasaf Omr E07"  group-title="Arabic Series",Azmat Montasaf Omr E07
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Azmat.Montasaf.Omr.png" tvg-name="Azmat Montasaf Omr E07"  group-title="Arabic Series",Azmat Montasaf Omr E07
 http://195.154.166.82/SER/2023/Azmat.Montasaf.Omr/Azmat.Montasaf.Omr.E07.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Azmat Montasaf Omr E08"  group-title="Arabic Series",Azmat Montasaf Omr E08
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Azmat.Montasaf.Omr.png" tvg-name="Azmat Montasaf Omr E08"  group-title="Arabic Series",Azmat Montasaf Omr E08
 http://195.154.166.82/SER/2023/Azmat.Montasaf.Omr/Azmat.Montasaf.Omr.E08.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Azmat Montasaf Omr E09"  group-title="Arabic Series",Azmat Montasaf Omr E09
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Azmat.Montasaf.Omr.png" tvg-name="Azmat Montasaf Omr E09"  group-title="Arabic Series",Azmat Montasaf Omr E09
 http://195.154.166.82/SER/2023/Azmat.Montasaf.Omr/Azmat.Montasaf.Omr.E09.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Azmat Montasaf Omr E10"  group-title="Arabic Series",Azmat Montasaf Omr E10
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Azmat.Montasaf.Omr.png" tvg-name="Azmat Montasaf Omr E10"  group-title="Arabic Series",Azmat Montasaf Omr E10
 http://195.154.166.82/SER/2023/Azmat.Montasaf.Omr/Azmat.Montasaf.Omr.E10.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Azmat Montasaf Omr E11"  group-title="Arabic Series",Azmat Montasaf Omr E11
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Azmat.Montasaf.Omr.png" tvg-name="Azmat Montasaf Omr E11"  group-title="Arabic Series",Azmat Montasaf Omr E11
 http://195.154.166.82/SER/2023/Azmat.Montasaf.Omr/Azmat.Montasaf.Omr.E11.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Azmat Montasaf Omr E12"  group-title="Arabic Series",Azmat Montasaf Omr E12
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Azmat.Montasaf.Omr.png" tvg-name="Azmat Montasaf Omr E12"  group-title="Arabic Series",Azmat Montasaf Omr E12
 http://195.154.166.82/SER/2023/Azmat.Montasaf.Omr/Azmat.Montasaf.Omr.E12.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Azmat Montasaf Omr E13"  group-title="Arabic Series",Azmat Montasaf Omr E13
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Azmat.Montasaf.Omr.png" tvg-name="Azmat Montasaf Omr E13"  group-title="Arabic Series",Azmat Montasaf Omr E13
 http://195.154.166.82/SER/2023/Azmat.Montasaf.Omr/Azmat.Montasaf.Omr.E13.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Azmat Montasaf Omr E14"  group-title="Arabic Series",Azmat Montasaf Omr E14
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Azmat.Montasaf.Omr.png" tvg-name="Azmat Montasaf Omr E14"  group-title="Arabic Series",Azmat Montasaf Omr E14
 http://195.154.166.82/SER/2023/Azmat.Montasaf.Omr/Azmat.Montasaf.Omr.E14.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Azmat Montasaf Omr E15"  group-title="Arabic Series",Azmat Montasaf Omr E15
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Azmat.Montasaf.Omr.png" tvg-name="Azmat Montasaf Omr E15"  group-title="Arabic Series",Azmat Montasaf Omr E15
 http://195.154.166.82/SER/2023/Azmat.Montasaf.Omr/Azmat.Montasaf.Omr.E15.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="Ala Bab Al Omara S01"  group-title="Arabic Series",Ala Bab Al Omara S01
 http://195.154.166.82/SER/2023/Bab.Al.Omara/Ala.Bab.Al.Omara.S01.mp4
@@ -9636,25 +9680,25 @@ http://195.154.166.82/SER/2023/Bab.Al.Omara/Ala.Bab.Al.Omara.S08.mp4
 http://195.154.166.82/SER/2023/Bab.Al.Omara/Ala.Bab.Al.Omara.S09.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="Ala Bab Al Omara S10"  group-title="Arabic Series",Ala Bab Al Omara S10
 http://195.154.166.82/SER/2023/Bab.Al.Omara/Ala.Bab.Al.Omara.S10.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Balto E01"  group-title="Arabic Series",Balto E01
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Balto.png" tvg-name="Balto E01"  group-title="Arabic Series",Balto E01
 http://195.154.166.82/SER/2023/Balto/Balto.E01.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Balto E02"  group-title="Arabic Series",Balto E02
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Balto.png" tvg-name="Balto E02"  group-title="Arabic Series",Balto E02
 http://195.154.166.82/SER/2023/Balto/Balto.E02.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Balto E03"  group-title="Arabic Series",Balto E03
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Balto.png" tvg-name="Balto E03"  group-title="Arabic Series",Balto E03
 http://195.154.166.82/SER/2023/Balto/Balto.E03.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Balto E04"  group-title="Arabic Series",Balto E04
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Balto.png" tvg-name="Balto E04"  group-title="Arabic Series",Balto E04
 http://195.154.166.82/SER/2023/Balto/Balto.E04.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Balto E05"  group-title="Arabic Series",Balto E05
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Balto.png" tvg-name="Balto E05"  group-title="Arabic Series",Balto E05
 http://195.154.166.82/SER/2023/Balto/Balto.E05.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Balto E06"  group-title="Arabic Series",Balto E06
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Balto.png" tvg-name="Balto E06"  group-title="Arabic Series",Balto E06
 http://195.154.166.82/SER/2023/Balto/Balto.E06.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Balto E07"  group-title="Arabic Series",Balto E07
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Balto.png" tvg-name="Balto E07"  group-title="Arabic Series",Balto E07
 http://195.154.166.82/SER/2023/Balto/Balto.E07.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Balto E08"  group-title="Arabic Series",Balto E08
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Balto.png" tvg-name="Balto E08"  group-title="Arabic Series",Balto E08
 http://195.154.166.82/SER/2023/Balto/Balto.E08.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Balto E09"  group-title="Arabic Series",Balto E09
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Balto.png" tvg-name="Balto E09"  group-title="Arabic Series",Balto E09
 http://195.154.166.82/SER/2023/Balto/Balto.E09.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Balto E10"  group-title="Arabic Series",Balto E10
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Balto.png" tvg-name="Balto E10"  group-title="Arabic Series",Balto E10
 http://195.154.166.82/SER/2023/Balto/Balto.E10.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="Batn El Hout S01-E01"  group-title="Arabic Series",Batn El Hout S01-E01
 http://195.154.166.82/SER/2023/Batn.El.Hout/Batn.El.Hout.S01-E01.mp4
@@ -9918,72 +9962,6 @@ http://195.154.166.82/SER/2023/Rivo/Rivo.S02-E08.mp4
 http://195.154.166.82/SER/2023/Rivo/Rivo.S02-E09.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="Rivo S02-E10"  group-title="Arabic Series",Rivo S02-E10
 http://195.154.166.82/SER/2023/Rivo/Rivo.S02-E10.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="1-ELKaber 7/index"  group-title="Arabic Series",1-ELKaber 7/index
-http://195.154.166.82/SER/2023/Rmadan2023/1-ELKaber.7/index.html
-#EXTINF:-1 tvg-logo="" tvg-name="2-DarB Nar/index"  group-title="Arabic Series",2-DarB Nar/index
-http://195.154.166.82/SER/2023/Rmadan2023/2-DarB.Nar/index.html
-#EXTINF:-1 tvg-logo="" tvg-name="3-Ga3Far EL3omda/index"  group-title="Arabic Series",3-Ga3Far EL3omda/index
-http://195.154.166.82/SER/2023/Rmadan2023/3-Ga3Far.EL3omda/index.html
-#EXTINF:-1 tvg-logo="" tvg-name="4-El Katyba 101/index"  group-title="Arabic Series",4-El Katyba 101/index
-http://195.154.166.82/SER/2023/Rmadan2023/4-El.Katyba.101/index.html
-#EXTINF:-1 tvg-logo="" tvg-name="5-El Sfara/index"  group-title="Arabic Series",5-El Sfara/index
-http://195.154.166.82/SER/2023/Rmadan2023/5-El.Sfara/index.html
-#EXTINF:-1 tvg-logo="" tvg-name="6-7ARB/index"  group-title="Arabic Series",6-7ARB/index
-http://195.154.166.82/SER/2023/Rmadan2023/6-7ARB/index.html
-#EXTINF:-1 tvg-logo="" tvg-name="7-EL MdaaH 3/index"  group-title="Arabic Series",7-EL MdaaH 3/index
-http://195.154.166.82/SER/2023/Rmadan2023/7-EL.MdaaH.3/index.html
-#EXTINF:-1 tvg-logo="" tvg-name="8-Mzkrat ZooG/index"  group-title="Arabic Series",8-Mzkrat ZooG/index
-http://195.154.166.82/SER/2023/Rmadan2023/8-Mzkrat.ZooG/index.html
-#EXTINF:-1 tvg-logo="" tvg-name="9-SooQ ELQanto/index"  group-title="Arabic Series",9-SooQ ELQanto/index
-http://195.154.166.82/SER/2023/Rmadan2023/9-SooQ.ELQanto/index.html
-#EXTINF:-1 tvg-logo="" tvg-name="10-El AMAAM/index"  group-title="Arabic Series",10-El AMAAM/index
-http://195.154.166.82/SER/2023/Rmadan2023/10-El.AMAAM/index.html
-#EXTINF:-1 tvg-logo="" tvg-name="11-7aDret EL3omda/index"  group-title="Arabic Series",11-7aDret EL3omda/index
-http://195.154.166.82/SER/2023/Rmadan2023/11-7aDret.EL3omda/index.html
-#EXTINF:-1 tvg-logo="" tvg-name="12-Gamila/index"  group-title="Arabic Series",12-Gamila/index
-http://195.154.166.82/SER/2023/Rmadan2023/12-Gamila/index.html
-#EXTINF:-1 tvg-logo="" tvg-name="13-7amdila 3al Slama/index"  group-title="Arabic Series",13-7amdila 3al Slama/index
-http://195.154.166.82/SER/2023/Rmadan2023/13-7amdila.3al.Slama/index.html
-#EXTINF:-1 tvg-logo="" tvg-name="14-SATHAM/index"  group-title="Arabic Series",14-SATHAM/index
-http://195.154.166.82/SER/2023/Rmadan2023/14-SATHAM/index.html
-#EXTINF:-1 tvg-logo="" tvg-name="15-Rmadan Karim 2/index"  group-title="Arabic Series",15-Rmadan Karim 2/index
-http://195.154.166.82/SER/2023/Rmadan2023/15-Rmadan.Karim.2/index.html
-#EXTINF:-1 tvg-logo="" tvg-name="16-Sarh EL Bat3/index"  group-title="Arabic Series",16-Sarh EL Bat3/index
-http://195.154.166.82/SER/2023/Rmadan2023/16-Sarh.EL.Bat3/index.html
-#EXTINF:-1 tvg-logo="" tvg-name="17-3laqa Mashro3a/index"  group-title="Arabic Series",17-3laqa Mashro3a/index
-http://195.154.166.82/SER/2023/Rmadan2023/17-3laqa.Mashro3a/index.html
-#EXTINF:-1 tvg-logo="" tvg-name="18-EL Aghar/index"  group-title="Arabic Series",18-EL Aghar/index
-http://195.154.166.82/SER/2023/Rmadan2023/18-EL.Aghar/index.html
-#EXTINF:-1 tvg-logo="" tvg-name="19-BaBa EL Mgal/index"  group-title="Arabic Series",19-BaBa EL Mgal/index
-http://195.154.166.82/SER/2023/Rmadan2023/19-BaBa.EL.Mgal/index.html
-#EXTINF:-1 tvg-logo="" tvg-name="20-EL X LANS/index"  group-title="Arabic Series",20-EL X LANS/index
-http://195.154.166.82/SER/2023/Rmadan2023/20-EL.X.LANS/index.html
-#EXTINF:-1 tvg-logo="" tvg-name="21-Ta7T EL Wsaya/index"  group-title="Arabic Series",21-Ta7T EL Wsaya/index
-http://195.154.166.82/SER/2023/Rmadan2023/21-Ta7T.EL.Wsaya/index.html
-#EXTINF:-1 tvg-logo="" tvg-name="22-3MLA NADRA/index"  group-title="Arabic Series",22-3MLA NADRA/index
-http://195.154.166.82/SER/2023/Rmadan2023/22-3MLA.NADRA/index.html
-#EXTINF:-1 tvg-logo="" tvg-name="23-RASHYD/index"  group-title="Arabic Series",23-RASHYD/index
-http://195.154.166.82/SER/2023/Rmadan2023/23-RASHYD/index.html
-#EXTINF:-1 tvg-logo="" tvg-name="25-EL SANDOQ/index"  group-title="Arabic Series",25-EL SANDOQ/index
-http://195.154.166.82/SER/2023/Rmadan2023/25-EL.SANDOQ/index.html
-#EXTINF:-1 tvg-logo="" tvg-name="26-EL Harsha 7/index"  group-title="Arabic Series",26-EL Harsha 7/index
-http://195.154.166.82/SER/2023/Rmadan2023/26-EL.Harsha.7/index.html
-#EXTINF:-1 tvg-logo="" tvg-name="27-TALT ELTLAT/index"  group-title="Arabic Series",27-TALT ELTLAT/index
-http://195.154.166.82/SER/2023/Rmadan2023/27-TALT.ELTLAT/index.html
-#EXTINF:-1 tvg-logo="" tvg-name="28-Kamil EL3add/index"  group-title="Arabic Series",28-Kamil EL3add/index
-http://195.154.166.82/SER/2023/Rmadan2023/28-Kamil.EL3add/index.html
-#EXTINF:-1 tvg-logo="" tvg-name="29-Ta5yer Gawo/index"  group-title="Arabic Series",29-Ta5yer Gawo/index
-http://195.154.166.82/SER/2023/Rmadan2023/29-Ta5yer.Gawo/index.html
-#EXTINF:-1 tvg-logo="" tvg-name="30-Gat Salima/index"  group-title="Arabic Series",30-Gat Salima/index
-http://195.154.166.82/SER/2023/Rmadan2023/30-Gat.Salima/index.html
-#EXTINF:-1 tvg-logo="" tvg-name="31-Kashf Mesta3gel/index"  group-title="Arabic Series",31-Kashf Mesta3gel/index
-http://195.154.166.82/SER/2023/Rmadan2023/31-Kashf.Mesta3gel/index.html
-#EXTINF:-1 tvg-logo="" tvg-name="32-Wo3wod Sa5ya/index"  group-title="Arabic Series",32-Wo3wod Sa5ya/index
-http://195.154.166.82/SER/2023/Rmadan2023/32-Wo3wod.Sa5ya/index.html
-#EXTINF:-1 tvg-logo="" tvg-name="34-Laylat Al Soqout/index"  group-title="Arabic Series",34-Laylat Al Soqout/index
-http://195.154.166.82/SER/2023/Rmadan2023/34-Laylat.Al.Soqout/index.html
-#EXTINF:-1 tvg-logo="" tvg-name="35-Om Elbanat/index"  group-title="Arabic Series",35-Om Elbanat/index
-http://195.154.166.82/SER/2023/Rmadan2023/35-Om.Elbanat/index.html
 #EXTINF:-1 tvg-logo="" tvg-name="Seeb E01"  group-title="Arabic Series",Seeb E01
 http://195.154.166.82/SER/2023/Seeb.Wana.Seeb/Seeb.E01.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="Seeb E02"  group-title="Arabic Series",Seeb E02
@@ -10214,18 +10192,24 @@ http://195.154.166.82/SER/2024/Arwah.Khafiyah/A-10.mp4
 http://195.154.166.82/SER/2024/Arwah.Khafiyah/A-11.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="A-12"  group-title="Arabic Series",A-12
 http://195.154.166.82/SER/2024/Arwah.Khafiyah/A-12.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="wget-lo"  group-title="Arabic Series",wget-lo
-http://195.154.166.82/SER/2024/Arwah.Khafiyah/wget-log
-#EXTINF:-1 tvg-logo="" tvg-name="wget-log"  group-title="Arabic Series",wget-log
-http://195.154.166.82/SER/2024/Arwah.Khafiyah/wget-log.1
-#EXTINF:-1 tvg-logo="" tvg-name="wget-log"  group-title="Arabic Series",wget-log
-http://195.154.166.82/SER/2024/Arwah.Khafiyah/wget-log.2
+#EXTINF:-1 tvg-logo="" tvg-name="A 01"  group-title="Arabic Series",A 01
+http://195.154.166.82/SER/2024/Bain.El.Sotour/A.01.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="A 02"  group-title="Arabic Series",A 02
+http://195.154.166.82/SER/2024/Bain.El.Sotour/A.02.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="A 01"  group-title="Arabic Series",A 01
 http://195.154.166.82/SER/2024/Gawla.A5yra/A.01.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="A 02"  group-title="Arabic Series",A 02
 http://195.154.166.82/SER/2024/Gawla.A5yra/A.02.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="A 03"  group-title="Arabic Series",A 03
 http://195.154.166.82/SER/2024/Gawla.A5yra/A.03.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="A 01"  group-title="Arabic Series",A 01
+http://195.154.166.82/SER/2024/Hadouta.Mansiya/A.01.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="A 02"  group-title="Arabic Series",A 02
+http://195.154.166.82/SER/2024/Hadouta.Mansiya/A.02.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="A 03"  group-title="Arabic Series",A 03
+http://195.154.166.82/SER/2024/Hadouta.Mansiya/A.03.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="A 04"  group-title="Arabic Series",A 04
+http://195.154.166.82/SER/2024/Hadouta.Mansiya/A.04.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="A-01"  group-title="Arabic Series",A-01
 http://195.154.166.82/SER/2024/Hala.Khasa/A-01.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="A-02"  group-title="Arabic Series",A-02
@@ -10242,6 +10226,10 @@ http://195.154.166.82/SER/2024/Hala.Khasa/A-06.mp4
 http://195.154.166.82/SER/2024/Hala.Khasa/A-07.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="A-08"  group-title="Arabic Series",A-08
 http://195.154.166.82/SER/2024/Hala.Khasa/A-08.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="A-09"  group-title="Arabic Series",A-09
+http://195.154.166.82/SER/2024/Hala.Khasa/A-09.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="A-10"  group-title="Arabic Series",A-10
+http://195.154.166.82/SER/2024/Hala.Khasa/A-10.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="A-01"  group-title="Arabic Series",A-01
 http://195.154.166.82/SER/2024/Rose.Wa.Layla/A-01.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="A-02"  group-title="Arabic Series",A-02
@@ -10254,8 +10242,6 @@ http://195.154.166.82/SER/2024/Rose.Wa.Layla/A-04.mp4
 http://195.154.166.82/SER/2024/Rose.Wa.Layla/A-05.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="A-06"  group-title="Arabic Series",A-06
 http://195.154.166.82/SER/2024/Rose.Wa.Layla/A-06.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="wget-lo"  group-title="Arabic Series",wget-lo
-http://195.154.166.82/SER/2024/Rose.Wa.Layla/wget-log
 #EXTINF:-1 tvg-logo="" tvg-name="A 01"  group-title="Arabic Series",A 01
 http://195.154.166.82/SER/2024/We.Benna.Meaad/A.01.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="A 02"  group-title="Arabic Series",A 02
@@ -10274,6 +10260,16 @@ http://195.154.166.82/SER/2024/We.Benna.Meaad/A.07.mp4
 http://195.154.166.82/SER/2024/We.Benna.Meaad/A.08.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="A 09"  group-title="Arabic Series",A 09
 http://195.154.166.82/SER/2024/We.Benna.Meaad/A.09.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.10.png" tvg-name="A 10"  group-title="Arabic Series",A 10
+http://195.154.166.82/SER/2024/We.Benna.Meaad/A.10.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.11.png" tvg-name="A 11"  group-title="Arabic Series",A 11
+http://195.154.166.82/SER/2024/We.Benna.Meaad/A.11.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.12.png" tvg-name="A 12"  group-title="Arabic Series",A 12
+http://195.154.166.82/SER/2024/We.Benna.Meaad/A.12.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.13.png" tvg-name="A 13"  group-title="Arabic Series",A 13
+http://195.154.166.82/SER/2024/We.Benna.Meaad/A.13.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.14.png" tvg-name="A 14"  group-title="Arabic Series",A 14
+http://195.154.166.82/SER/2024/We.Benna.Meaad/A.14.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="ALLa3a B01"  group-title="Arabic Series",ALLa3a B01
 http://195.154.166.82/SER/ALLa3a/B01.mkv
 #EXTINF:-1 tvg-logo="" tvg-name="ALLa3a B02"  group-title="Arabic Series",ALLa3a B02
@@ -12095,6 +12091,566 @@ http://195.154.166.82/SER/history/Gom3a.ELshawan/A-13.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="A-14"  group-title="Arabic Series",A-14
 http://195.154.166.82/SER/history/Gom3a.ELshawan/A-14.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="A 01"  group-title="Arabic Series",A 01
+http://195.154.166.82/SER/history/Hawanem.Garden.City/A.01.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="A 02"  group-title="Arabic Series",A 02
+http://195.154.166.82/SER/history/Hawanem.Garden.City/A.02.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="A 03"  group-title="Arabic Series",A 03
+http://195.154.166.82/SER/history/Hawanem.Garden.City/A.03.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="A 04"  group-title="Arabic Series",A 04
+http://195.154.166.82/SER/history/Hawanem.Garden.City/A.04.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="A 05"  group-title="Arabic Series",A 05
+http://195.154.166.82/SER/history/Hawanem.Garden.City/A.05.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="A 06"  group-title="Arabic Series",A 06
+http://195.154.166.82/SER/history/Hawanem.Garden.City/A.06.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="A 07"  group-title="Arabic Series",A 07
+http://195.154.166.82/SER/history/Hawanem.Garden.City/A.07.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="A 08"  group-title="Arabic Series",A 08
+http://195.154.166.82/SER/history/Hawanem.Garden.City/A.08.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="A 09"  group-title="Arabic Series",A 09
+http://195.154.166.82/SER/history/Hawanem.Garden.City/A.09.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.10.png" tvg-name="A 10"  group-title="Arabic Series",A 10
+http://195.154.166.82/SER/history/Hawanem.Garden.City/A.10.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.11.png" tvg-name="A 11"  group-title="Arabic Series",A 11
+http://195.154.166.82/SER/history/Hawanem.Garden.City/A.11.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.12.png" tvg-name="A 12"  group-title="Arabic Series",A 12
+http://195.154.166.82/SER/history/Hawanem.Garden.City/A.12.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.13.png" tvg-name="A 13"  group-title="Arabic Series",A 13
+http://195.154.166.82/SER/history/Hawanem.Garden.City/A.13.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.14.png" tvg-name="A 14"  group-title="Arabic Series",A 14
+http://195.154.166.82/SER/history/Hawanem.Garden.City/A.14.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.15.png" tvg-name="A 15"  group-title="Arabic Series",A 15
+http://195.154.166.82/SER/history/Hawanem.Garden.City/A.15.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.16.png" tvg-name="A 16"  group-title="Arabic Series",A 16
+http://195.154.166.82/SER/history/Hawanem.Garden.City/A.16.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.17.png" tvg-name="A 17"  group-title="Arabic Series",A 17
+http://195.154.166.82/SER/history/Hawanem.Garden.City/A.17.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.18.png" tvg-name="A 18"  group-title="Arabic Series",A 18
+http://195.154.166.82/SER/history/Hawanem.Garden.City/A.18.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.19.png" tvg-name="A 19"  group-title="Arabic Series",A 19
+http://195.154.166.82/SER/history/Hawanem.Garden.City/A.19.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.20.png" tvg-name="A 20"  group-title="Arabic Series",A 20
+http://195.154.166.82/SER/history/Hawanem.Garden.City/A.20.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.21.png" tvg-name="A 21"  group-title="Arabic Series",A 21
+http://195.154.166.82/SER/history/Hawanem.Garden.City/A.21.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.22.png" tvg-name="A 22"  group-title="Arabic Series",A 22
+http://195.154.166.82/SER/history/Hawanem.Garden.City/A.22.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.23.png" tvg-name="A 23"  group-title="Arabic Series",A 23
+http://195.154.166.82/SER/history/Hawanem.Garden.City/A.23.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.24.png" tvg-name="A 24"  group-title="Arabic Series",A 24
+http://195.154.166.82/SER/history/Hawanem.Garden.City/A.24.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.25.png" tvg-name="A 25"  group-title="Arabic Series",A 25
+http://195.154.166.82/SER/history/Hawanem.Garden.City/A.25.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.26.png" tvg-name="A 26"  group-title="Arabic Series",A 26
+http://195.154.166.82/SER/history/Hawanem.Garden.City/A.26.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.27.png" tvg-name="A 27"  group-title="Arabic Series",A 27
+http://195.154.166.82/SER/history/Hawanem.Garden.City/A.27.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 01"  group-title="Arabic Series",B 01
+http://195.154.166.82/SER/history/Hawanem.Garden.City/B.01.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 02"  group-title="Arabic Series",B 02
+http://195.154.166.82/SER/history/Hawanem.Garden.City/B.02.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 03"  group-title="Arabic Series",B 03
+http://195.154.166.82/SER/history/Hawanem.Garden.City/B.03.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 04"  group-title="Arabic Series",B 04
+http://195.154.166.82/SER/history/Hawanem.Garden.City/B.04.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 05"  group-title="Arabic Series",B 05
+http://195.154.166.82/SER/history/Hawanem.Garden.City/B.05.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 06"  group-title="Arabic Series",B 06
+http://195.154.166.82/SER/history/Hawanem.Garden.City/B.06.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 07"  group-title="Arabic Series",B 07
+http://195.154.166.82/SER/history/Hawanem.Garden.City/B.07.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 08"  group-title="Arabic Series",B 08
+http://195.154.166.82/SER/history/Hawanem.Garden.City/B.08.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 09"  group-title="Arabic Series",B 09
+http://195.154.166.82/SER/history/Hawanem.Garden.City/B.09.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 10"  group-title="Arabic Series",B 10
+http://195.154.166.82/SER/history/Hawanem.Garden.City/B.10.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 11"  group-title="Arabic Series",B 11
+http://195.154.166.82/SER/history/Hawanem.Garden.City/B.11.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 12"  group-title="Arabic Series",B 12
+http://195.154.166.82/SER/history/Hawanem.Garden.City/B.12.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 13"  group-title="Arabic Series",B 13
+http://195.154.166.82/SER/history/Hawanem.Garden.City/B.13.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 14"  group-title="Arabic Series",B 14
+http://195.154.166.82/SER/history/Hawanem.Garden.City/B.14.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 15"  group-title="Arabic Series",B 15
+http://195.154.166.82/SER/history/Hawanem.Garden.City/B.15.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 16"  group-title="Arabic Series",B 16
+http://195.154.166.82/SER/history/Hawanem.Garden.City/B.16.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 17"  group-title="Arabic Series",B 17
+http://195.154.166.82/SER/history/Hawanem.Garden.City/B.17.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 18"  group-title="Arabic Series",B 18
+http://195.154.166.82/SER/history/Hawanem.Garden.City/B.18.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/B.19.png" tvg-name="B 19"  group-title="Arabic Series",B 19
+http://195.154.166.82/SER/history/Hawanem.Garden.City/B.19.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 20"  group-title="Arabic Series",B 20
+http://195.154.166.82/SER/history/Hawanem.Garden.City/B.20.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 21"  group-title="Arabic Series",B 21
+http://195.154.166.82/SER/history/Hawanem.Garden.City/B.21.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 22"  group-title="Arabic Series",B 22
+http://195.154.166.82/SER/history/Hawanem.Garden.City/B.22.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 23"  group-title="Arabic Series",B 23
+http://195.154.166.82/SER/history/Hawanem.Garden.City/B.23.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 24"  group-title="Arabic Series",B 24
+http://195.154.166.82/SER/history/Hawanem.Garden.City/B.24.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 25"  group-title="Arabic Series",B 25
+http://195.154.166.82/SER/history/Hawanem.Garden.City/B.25.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 26"  group-title="Arabic Series",B 26
+http://195.154.166.82/SER/history/Hawanem.Garden.City/B.26.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 27"  group-title="Arabic Series",B 27
+http://195.154.166.82/SER/history/Hawanem.Garden.City/B.27.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 28"  group-title="Arabic Series",B 28
+http://195.154.166.82/SER/history/Hawanem.Garden.City/B.28.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 29"  group-title="Arabic Series",B 29
+http://195.154.166.82/SER/history/Hawanem.Garden.City/B.29.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 30"  group-title="Arabic Series",B 30
+http://195.154.166.82/SER/history/Hawanem.Garden.City/B.30.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 31"  group-title="Arabic Series",B 31
+http://195.154.166.82/SER/history/Hawanem.Garden.City/B.31.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 32"  group-title="Arabic Series",B 32
+http://195.154.166.82/SER/history/Hawanem.Garden.City/B.32.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 33"  group-title="Arabic Series",B 33
+http://195.154.166.82/SER/history/Hawanem.Garden.City/B.33.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 34"  group-title="Arabic Series",B 34
+http://195.154.166.82/SER/history/Hawanem.Garden.City/B.34.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 35"  group-title="Arabic Series",B 35
+http://195.154.166.82/SER/history/Hawanem.Garden.City/B.35.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 36"  group-title="Arabic Series",B 36
+http://195.154.166.82/SER/history/Hawanem.Garden.City/B.36.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 37"  group-title="Arabic Series",B 37
+http://195.154.166.82/SER/history/Hawanem.Garden.City/B.37.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 38"  group-title="Arabic Series",B 38
+http://195.154.166.82/SER/history/Hawanem.Garden.City/B.38.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="A 01"  group-title="Arabic Series",A 01
+http://195.154.166.82/SER/history/Hekayat.Zog.M3ser/A.01.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="A 02"  group-title="Arabic Series",A 02
+http://195.154.166.82/SER/history/Hekayat.Zog.M3ser/A.02.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="A 03"  group-title="Arabic Series",A 03
+http://195.154.166.82/SER/history/Hekayat.Zog.M3ser/A.03.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="A 04"  group-title="Arabic Series",A 04
+http://195.154.166.82/SER/history/Hekayat.Zog.M3ser/A.04.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="A 05"  group-title="Arabic Series",A 05
+http://195.154.166.82/SER/history/Hekayat.Zog.M3ser/A.05.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="A 06"  group-title="Arabic Series",A 06
+http://195.154.166.82/SER/history/Hekayat.Zog.M3ser/A.06.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="A 07"  group-title="Arabic Series",A 07
+http://195.154.166.82/SER/history/Hekayat.Zog.M3ser/A.07.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="A 08"  group-title="Arabic Series",A 08
+http://195.154.166.82/SER/history/Hekayat.Zog.M3ser/A.08.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="A 09"  group-title="Arabic Series",A 09
+http://195.154.166.82/SER/history/Hekayat.Zog.M3ser/A.09.mkv
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.10.png" tvg-name="A 10"  group-title="Arabic Series",A 10
+http://195.154.166.82/SER/history/Hekayat.Zog.M3ser/A.10.mkv
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.11.png" tvg-name="A 11"  group-title="Arabic Series",A 11
+http://195.154.166.82/SER/history/Hekayat.Zog.M3ser/A.11.mkv
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.12.png" tvg-name="A 12"  group-title="Arabic Series",A 12
+http://195.154.166.82/SER/history/Hekayat.Zog.M3ser/A.12.mkv
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.13.png" tvg-name="A 13"  group-title="Arabic Series",A 13
+http://195.154.166.82/SER/history/Hekayat.Zog.M3ser/A.13.mkv
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.14.png" tvg-name="A 14"  group-title="Arabic Series",A 14
+http://195.154.166.82/SER/history/Hekayat.Zog.M3ser/A.14.mkv
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.15.png" tvg-name="A 15"  group-title="Arabic Series",A 15
+http://195.154.166.82/SER/history/Hekayat.Zog.M3ser/A.15.mkv
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.16.png" tvg-name="A 16"  group-title="Arabic Series",A 16
+http://195.154.166.82/SER/history/Hekayat.Zog.M3ser/A.16.mkv
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.17.png" tvg-name="A 17"  group-title="Arabic Series",A 17
+http://195.154.166.82/SER/history/Hekayat.Zog.M3ser/A.17.mkv
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.18.png" tvg-name="A 18"  group-title="Arabic Series",A 18
+http://195.154.166.82/SER/history/Hekayat.Zog.M3ser/A.18.mkv
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.19.png" tvg-name="A 19"  group-title="Arabic Series",A 19
+http://195.154.166.82/SER/history/Hekayat.Zog.M3ser/A.19.mkv
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.20.png" tvg-name="A 20"  group-title="Arabic Series",A 20
+http://195.154.166.82/SER/history/Hekayat.Zog.M3ser/A.20.mkv
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.21.png" tvg-name="A 21"  group-title="Arabic Series",A 21
+http://195.154.166.82/SER/history/Hekayat.Zog.M3ser/A.21.mkv
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.22.png" tvg-name="A 22"  group-title="Arabic Series",A 22
+http://195.154.166.82/SER/history/Hekayat.Zog.M3ser/A.22.mkv
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.23.png" tvg-name="A 23"  group-title="Arabic Series",A 23
+http://195.154.166.82/SER/history/Hekayat.Zog.M3ser/A.23.mkv
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.24.png" tvg-name="A 24"  group-title="Arabic Series",A 24
+http://195.154.166.82/SER/history/Hekayat.Zog.M3ser/A.24.mkv
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.25.png" tvg-name="A 25"  group-title="Arabic Series",A 25
+http://195.154.166.82/SER/history/Hekayat.Zog.M3ser/A.25.mkv
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.26.png" tvg-name="A 26"  group-title="Arabic Series",A 26
+http://195.154.166.82/SER/history/Hekayat.Zog.M3ser/A.26.mkv
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.27.png" tvg-name="A 27"  group-title="Arabic Series",A 27
+http://195.154.166.82/SER/history/Hekayat.Zog.M3ser/A.27.mkv
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.28.png" tvg-name="A 28"  group-title="Arabic Series",A 28
+http://195.154.166.82/SER/history/Hekayat.Zog.M3ser/A.28.mkv
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.29.png" tvg-name="A 29"  group-title="Arabic Series",A 29
+http://195.154.166.82/SER/history/Hekayat.Zog.M3ser/A.29.mkv
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.30.png" tvg-name="A 30"  group-title="Arabic Series",A 30
+http://195.154.166.82/SER/history/Hekayat.Zog.M3ser/A.30.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="A 01"  group-title="Arabic Series",A 01
+http://195.154.166.82/SER/history/Lialy.ElHlmia/A.01.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="A 02"  group-title="Arabic Series",A 02
+http://195.154.166.82/SER/history/Lialy.ElHlmia/A.02.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="A 03"  group-title="Arabic Series",A 03
+http://195.154.166.82/SER/history/Lialy.ElHlmia/A.03.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="A 04"  group-title="Arabic Series",A 04
+http://195.154.166.82/SER/history/Lialy.ElHlmia/A.04.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="A 05"  group-title="Arabic Series",A 05
+http://195.154.166.82/SER/history/Lialy.ElHlmia/A.05.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="A 06"  group-title="Arabic Series",A 06
+http://195.154.166.82/SER/history/Lialy.ElHlmia/A.06.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="A 07"  group-title="Arabic Series",A 07
+http://195.154.166.82/SER/history/Lialy.ElHlmia/A.07.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="A 08"  group-title="Arabic Series",A 08
+http://195.154.166.82/SER/history/Lialy.ElHlmia/A.08.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="A 09"  group-title="Arabic Series",A 09
+http://195.154.166.82/SER/history/Lialy.ElHlmia/A.09.mkv
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.10.png" tvg-name="A 10"  group-title="Arabic Series",A 10
+http://195.154.166.82/SER/history/Lialy.ElHlmia/A.10.mkv
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.11.png" tvg-name="A 11"  group-title="Arabic Series",A 11
+http://195.154.166.82/SER/history/Lialy.ElHlmia/A.11.mkv
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.12.png" tvg-name="A 12"  group-title="Arabic Series",A 12
+http://195.154.166.82/SER/history/Lialy.ElHlmia/A.12.mkv
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.13.png" tvg-name="A 13"  group-title="Arabic Series",A 13
+http://195.154.166.82/SER/history/Lialy.ElHlmia/A.13.mkv
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.14.png" tvg-name="A 14"  group-title="Arabic Series",A 14
+http://195.154.166.82/SER/history/Lialy.ElHlmia/A.14.mkv
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.15.png" tvg-name="A 15"  group-title="Arabic Series",A 15
+http://195.154.166.82/SER/history/Lialy.ElHlmia/A.15.mkv
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.16.png" tvg-name="A 16"  group-title="Arabic Series",A 16
+http://195.154.166.82/SER/history/Lialy.ElHlmia/A.16.mkv
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.17.png" tvg-name="A 17"  group-title="Arabic Series",A 17
+http://195.154.166.82/SER/history/Lialy.ElHlmia/A.17.mkv
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.18.png" tvg-name="A 18"  group-title="Arabic Series",A 18
+http://195.154.166.82/SER/history/Lialy.ElHlmia/A.18.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="B 01"  group-title="Arabic Series",B 01
+http://195.154.166.82/SER/history/Lialy.ElHlmia/B.01.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="B 02"  group-title="Arabic Series",B 02
+http://195.154.166.82/SER/history/Lialy.ElHlmia/B.02.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="B 03"  group-title="Arabic Series",B 03
+http://195.154.166.82/SER/history/Lialy.ElHlmia/B.03.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="B 04"  group-title="Arabic Series",B 04
+http://195.154.166.82/SER/history/Lialy.ElHlmia/B.04.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="B 05"  group-title="Arabic Series",B 05
+http://195.154.166.82/SER/history/Lialy.ElHlmia/B.05.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="B 06"  group-title="Arabic Series",B 06
+http://195.154.166.82/SER/history/Lialy.ElHlmia/B.06.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="B 07"  group-title="Arabic Series",B 07
+http://195.154.166.82/SER/history/Lialy.ElHlmia/B.07.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="B 08"  group-title="Arabic Series",B 08
+http://195.154.166.82/SER/history/Lialy.ElHlmia/B.08.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="B 09"  group-title="Arabic Series",B 09
+http://195.154.166.82/SER/history/Lialy.ElHlmia/B.09.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="B 10"  group-title="Arabic Series",B 10
+http://195.154.166.82/SER/history/Lialy.ElHlmia/B.10.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="B 11"  group-title="Arabic Series",B 11
+http://195.154.166.82/SER/history/Lialy.ElHlmia/B.11.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="B 12"  group-title="Arabic Series",B 12
+http://195.154.166.82/SER/history/Lialy.ElHlmia/B.12.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="B 13"  group-title="Arabic Series",B 13
+http://195.154.166.82/SER/history/Lialy.ElHlmia/B.13.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="B 14"  group-title="Arabic Series",B 14
+http://195.154.166.82/SER/history/Lialy.ElHlmia/B.14.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="B 15"  group-title="Arabic Series",B 15
+http://195.154.166.82/SER/history/Lialy.ElHlmia/B.15.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="B 16"  group-title="Arabic Series",B 16
+http://195.154.166.82/SER/history/Lialy.ElHlmia/B.16.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="B 17"  group-title="Arabic Series",B 17
+http://195.154.166.82/SER/history/Lialy.ElHlmia/B.17.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="B 18"  group-title="Arabic Series",B 18
+http://195.154.166.82/SER/history/Lialy.ElHlmia/B.18.mkv
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/B.19.png" tvg-name="B 19"  group-title="Arabic Series",B 19
+http://195.154.166.82/SER/history/Lialy.ElHlmia/B.19.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="B 20"  group-title="Arabic Series",B 20
+http://195.154.166.82/SER/history/Lialy.ElHlmia/B.20.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="B 21"  group-title="Arabic Series",B 21
+http://195.154.166.82/SER/history/Lialy.ElHlmia/B.21.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="B 22"  group-title="Arabic Series",B 22
+http://195.154.166.82/SER/history/Lialy.ElHlmia/B.22.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="B 23"  group-title="Arabic Series",B 23
+http://195.154.166.82/SER/history/Lialy.ElHlmia/B.23.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="B 24"  group-title="Arabic Series",B 24
+http://195.154.166.82/SER/history/Lialy.ElHlmia/B.24.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="B 25"  group-title="Arabic Series",B 25
+http://195.154.166.82/SER/history/Lialy.ElHlmia/B.25.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 01"  group-title="Arabic Series",C 01
+http://195.154.166.82/SER/history/Lialy.ElHlmia/C.01.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 02"  group-title="Arabic Series",C 02
+http://195.154.166.82/SER/history/Lialy.ElHlmia/C.02.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 03"  group-title="Arabic Series",C 03
+http://195.154.166.82/SER/history/Lialy.ElHlmia/C.03.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 04"  group-title="Arabic Series",C 04
+http://195.154.166.82/SER/history/Lialy.ElHlmia/C.04.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 05"  group-title="Arabic Series",C 05
+http://195.154.166.82/SER/history/Lialy.ElHlmia/C.05.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 06"  group-title="Arabic Series",C 06
+http://195.154.166.82/SER/history/Lialy.ElHlmia/C.06.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 07"  group-title="Arabic Series",C 07
+http://195.154.166.82/SER/history/Lialy.ElHlmia/C.07.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 08"  group-title="Arabic Series",C 08
+http://195.154.166.82/SER/history/Lialy.ElHlmia/C.08.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 09"  group-title="Arabic Series",C 09
+http://195.154.166.82/SER/history/Lialy.ElHlmia/C.09.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 10"  group-title="Arabic Series",C 10
+http://195.154.166.82/SER/history/Lialy.ElHlmia/C.10.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 11"  group-title="Arabic Series",C 11
+http://195.154.166.82/SER/history/Lialy.ElHlmia/C.11.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 12"  group-title="Arabic Series",C 12
+http://195.154.166.82/SER/history/Lialy.ElHlmia/C.12.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 13"  group-title="Arabic Series",C 13
+http://195.154.166.82/SER/history/Lialy.ElHlmia/C.13.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 14"  group-title="Arabic Series",C 14
+http://195.154.166.82/SER/history/Lialy.ElHlmia/C.14.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 15"  group-title="Arabic Series",C 15
+http://195.154.166.82/SER/history/Lialy.ElHlmia/C.15.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 16"  group-title="Arabic Series",C 16
+http://195.154.166.82/SER/history/Lialy.ElHlmia/C.16.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 17"  group-title="Arabic Series",C 17
+http://195.154.166.82/SER/history/Lialy.ElHlmia/C.17.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 18"  group-title="Arabic Series",C 18
+http://195.154.166.82/SER/history/Lialy.ElHlmia/C.18.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 19"  group-title="Arabic Series",C 19
+http://195.154.166.82/SER/history/Lialy.ElHlmia/C.19.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 20"  group-title="Arabic Series",C 20
+http://195.154.166.82/SER/history/Lialy.ElHlmia/C.20.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 21"  group-title="Arabic Series",C 21
+http://195.154.166.82/SER/history/Lialy.ElHlmia/C.21.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 22"  group-title="Arabic Series",C 22
+http://195.154.166.82/SER/history/Lialy.ElHlmia/C.22.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 23"  group-title="Arabic Series",C 23
+http://195.154.166.82/SER/history/Lialy.ElHlmia/C.23.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 24"  group-title="Arabic Series",C 24
+http://195.154.166.82/SER/history/Lialy.ElHlmia/C.24.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 25"  group-title="Arabic Series",C 25
+http://195.154.166.82/SER/history/Lialy.ElHlmia/C.25.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 26"  group-title="Arabic Series",C 26
+http://195.154.166.82/SER/history/Lialy.ElHlmia/C.26.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 27"  group-title="Arabic Series",C 27
+http://195.154.166.82/SER/history/Lialy.ElHlmia/C.27.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 28"  group-title="Arabic Series",C 28
+http://195.154.166.82/SER/history/Lialy.ElHlmia/C.28.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 29"  group-title="Arabic Series",C 29
+http://195.154.166.82/SER/history/Lialy.ElHlmia/C.29.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 30"  group-title="Arabic Series",C 30
+http://195.154.166.82/SER/history/Lialy.ElHlmia/C.30.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="D 01"  group-title="Arabic Series",D 01
+http://195.154.166.82/SER/history/Lialy.ElHlmia/D.01.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="D 02"  group-title="Arabic Series",D 02
+http://195.154.166.82/SER/history/Lialy.ElHlmia/D.02.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="D 03"  group-title="Arabic Series",D 03
+http://195.154.166.82/SER/history/Lialy.ElHlmia/D.03.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="D 04"  group-title="Arabic Series",D 04
+http://195.154.166.82/SER/history/Lialy.ElHlmia/D.04.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="D 05"  group-title="Arabic Series",D 05
+http://195.154.166.82/SER/history/Lialy.ElHlmia/D.05.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="D 06"  group-title="Arabic Series",D 06
+http://195.154.166.82/SER/history/Lialy.ElHlmia/D.06.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="D 07"  group-title="Arabic Series",D 07
+http://195.154.166.82/SER/history/Lialy.ElHlmia/D.07.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="D 08"  group-title="Arabic Series",D 08
+http://195.154.166.82/SER/history/Lialy.ElHlmia/D.08.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="D 09"  group-title="Arabic Series",D 09
+http://195.154.166.82/SER/history/Lialy.ElHlmia/D.09.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="D 10"  group-title="Arabic Series",D 10
+http://195.154.166.82/SER/history/Lialy.ElHlmia/D.10.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="D 11"  group-title="Arabic Series",D 11
+http://195.154.166.82/SER/history/Lialy.ElHlmia/D.11.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="D 12"  group-title="Arabic Series",D 12
+http://195.154.166.82/SER/history/Lialy.ElHlmia/D.12.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="D 13"  group-title="Arabic Series",D 13
+http://195.154.166.82/SER/history/Lialy.ElHlmia/D.13.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="D 14"  group-title="Arabic Series",D 14
+http://195.154.166.82/SER/history/Lialy.ElHlmia/D.14.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="D 15"  group-title="Arabic Series",D 15
+http://195.154.166.82/SER/history/Lialy.ElHlmia/D.15.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="D 16"  group-title="Arabic Series",D 16
+http://195.154.166.82/SER/history/Lialy.ElHlmia/D.16.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="D 17"  group-title="Arabic Series",D 17
+http://195.154.166.82/SER/history/Lialy.ElHlmia/D.17.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="D 18"  group-title="Arabic Series",D 18
+http://195.154.166.82/SER/history/Lialy.ElHlmia/D.18.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="D 19"  group-title="Arabic Series",D 19
+http://195.154.166.82/SER/history/Lialy.ElHlmia/D.19.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="D 20"  group-title="Arabic Series",D 20
+http://195.154.166.82/SER/history/Lialy.ElHlmia/D.20.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="D 21"  group-title="Arabic Series",D 21
+http://195.154.166.82/SER/history/Lialy.ElHlmia/D.21.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="D 22"  group-title="Arabic Series",D 22
+http://195.154.166.82/SER/history/Lialy.ElHlmia/D.22.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="D 23"  group-title="Arabic Series",D 23
+http://195.154.166.82/SER/history/Lialy.ElHlmia/D.23.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="D 24"  group-title="Arabic Series",D 24
+http://195.154.166.82/SER/history/Lialy.ElHlmia/D.24.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="D 25"  group-title="Arabic Series",D 25
+http://195.154.166.82/SER/history/Lialy.ElHlmia/D.25.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="D 26"  group-title="Arabic Series",D 26
+http://195.154.166.82/SER/history/Lialy.ElHlmia/D.26.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="D 27"  group-title="Arabic Series",D 27
+http://195.154.166.82/SER/history/Lialy.ElHlmia/D.27.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="D 28"  group-title="Arabic Series",D 28
+http://195.154.166.82/SER/history/Lialy.ElHlmia/D.28.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="D 29"  group-title="Arabic Series",D 29
+http://195.154.166.82/SER/history/Lialy.ElHlmia/D.29.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="D 30"  group-title="Arabic Series",D 30
+http://195.154.166.82/SER/history/Lialy.ElHlmia/D.30.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="D 31"  group-title="Arabic Series",D 31
+http://195.154.166.82/SER/history/Lialy.ElHlmia/D.31.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="D 32"  group-title="Arabic Series",D 32
+http://195.154.166.82/SER/history/Lialy.ElHlmia/D.32.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="D 33"  group-title="Arabic Series",D 33
+http://195.154.166.82/SER/history/Lialy.ElHlmia/D.33.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="D 34"  group-title="Arabic Series",D 34
+http://195.154.166.82/SER/history/Lialy.ElHlmia/D.34.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="D 35"  group-title="Arabic Series",D 35
+http://195.154.166.82/SER/history/Lialy.ElHlmia/D.35.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="D 36"  group-title="Arabic Series",D 36
+http://195.154.166.82/SER/history/Lialy.ElHlmia/D.36.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="D 37"  group-title="Arabic Series",D 37
+http://195.154.166.82/SER/history/Lialy.ElHlmia/D.37.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="D 38"  group-title="Arabic Series",D 38
+http://195.154.166.82/SER/history/Lialy.ElHlmia/D.38.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="D 39"  group-title="Arabic Series",D 39
+http://195.154.166.82/SER/history/Lialy.ElHlmia/D.39.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="D 40"  group-title="Arabic Series",D 40
+http://195.154.166.82/SER/history/Lialy.ElHlmia/D.40.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="D 41"  group-title="Arabic Series",D 41
+http://195.154.166.82/SER/history/Lialy.ElHlmia/D.41.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="D 42"  group-title="Arabic Series",D 42
+http://195.154.166.82/SER/history/Lialy.ElHlmia/D.42.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="E 01"  group-title="Arabic Series",E 01
+http://195.154.166.82/SER/history/Lialy.ElHlmia/E.01.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="E 02"  group-title="Arabic Series",E 02
+http://195.154.166.82/SER/history/Lialy.ElHlmia/E.02.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="E 03"  group-title="Arabic Series",E 03
+http://195.154.166.82/SER/history/Lialy.ElHlmia/E.03.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="E 04"  group-title="Arabic Series",E 04
+http://195.154.166.82/SER/history/Lialy.ElHlmia/E.04.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="E 05"  group-title="Arabic Series",E 05
+http://195.154.166.82/SER/history/Lialy.ElHlmia/E.05.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="E 06"  group-title="Arabic Series",E 06
+http://195.154.166.82/SER/history/Lialy.ElHlmia/E.06.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="E 07"  group-title="Arabic Series",E 07
+http://195.154.166.82/SER/history/Lialy.ElHlmia/E.07.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="E 08"  group-title="Arabic Series",E 08
+http://195.154.166.82/SER/history/Lialy.ElHlmia/E.08.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="E 09"  group-title="Arabic Series",E 09
+http://195.154.166.82/SER/history/Lialy.ElHlmia/E.09.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="E 10"  group-title="Arabic Series",E 10
+http://195.154.166.82/SER/history/Lialy.ElHlmia/E.10.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="E 11"  group-title="Arabic Series",E 11
+http://195.154.166.82/SER/history/Lialy.ElHlmia/E.11.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="E 12"  group-title="Arabic Series",E 12
+http://195.154.166.82/SER/history/Lialy.ElHlmia/E.12.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="E 13"  group-title="Arabic Series",E 13
+http://195.154.166.82/SER/history/Lialy.ElHlmia/E.13.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="E 14"  group-title="Arabic Series",E 14
+http://195.154.166.82/SER/history/Lialy.ElHlmia/E.14.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="E 15"  group-title="Arabic Series",E 15
+http://195.154.166.82/SER/history/Lialy.ElHlmia/E.15.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="E 16"  group-title="Arabic Series",E 16
+http://195.154.166.82/SER/history/Lialy.ElHlmia/E.16.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="E 17"  group-title="Arabic Series",E 17
+http://195.154.166.82/SER/history/Lialy.ElHlmia/E.17.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="E 18"  group-title="Arabic Series",E 18
+http://195.154.166.82/SER/history/Lialy.ElHlmia/E.18.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="E 19"  group-title="Arabic Series",E 19
+http://195.154.166.82/SER/history/Lialy.ElHlmia/E.19.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="E 20"  group-title="Arabic Series",E 20
+http://195.154.166.82/SER/history/Lialy.ElHlmia/E.20.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="E 21"  group-title="Arabic Series",E 21
+http://195.154.166.82/SER/history/Lialy.ElHlmia/E.21.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="E 22"  group-title="Arabic Series",E 22
+http://195.154.166.82/SER/history/Lialy.ElHlmia/E.22.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="E 23"  group-title="Arabic Series",E 23
+http://195.154.166.82/SER/history/Lialy.ElHlmia/E.23.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="E 24"  group-title="Arabic Series",E 24
+http://195.154.166.82/SER/history/Lialy.ElHlmia/E.24.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="E 25"  group-title="Arabic Series",E 25
+http://195.154.166.82/SER/history/Lialy.ElHlmia/E.25.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="E 26"  group-title="Arabic Series",E 26
+http://195.154.166.82/SER/history/Lialy.ElHlmia/E.26.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="E 27"  group-title="Arabic Series",E 27
+http://195.154.166.82/SER/history/Lialy.ElHlmia/E.27.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="E 28"  group-title="Arabic Series",E 28
+http://195.154.166.82/SER/history/Lialy.ElHlmia/E.28.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="E 29"  group-title="Arabic Series",E 29
+http://195.154.166.82/SER/history/Lialy.ElHlmia/E.29.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="E 30"  group-title="Arabic Series",E 30
+http://195.154.166.82/SER/history/Lialy.ElHlmia/E.30.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="E 31"  group-title="Arabic Series",E 31
+http://195.154.166.82/SER/history/Lialy.ElHlmia/E.31.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="E 32"  group-title="Arabic Series",E 32
+http://195.154.166.82/SER/history/Lialy.ElHlmia/E.32.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="E 33"  group-title="Arabic Series",E 33
+http://195.154.166.82/SER/history/Lialy.ElHlmia/E.33.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="E 34"  group-title="Arabic Series",E 34
+http://195.154.166.82/SER/history/Lialy.ElHlmia/E.34.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="E 35"  group-title="Arabic Series",E 35
+http://195.154.166.82/SER/history/Lialy.ElHlmia/E.35.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="E 36"  group-title="Arabic Series",E 36
+http://195.154.166.82/SER/history/Lialy.ElHlmia/E.36.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="E 37"  group-title="Arabic Series",E 37
+http://195.154.166.82/SER/history/Lialy.ElHlmia/E.37.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="E 38"  group-title="Arabic Series",E 38
+http://195.154.166.82/SER/history/Lialy.ElHlmia/E.38.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="E 39"  group-title="Arabic Series",E 39
+http://195.154.166.82/SER/history/Lialy.ElHlmia/E.39.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="E 40"  group-title="Arabic Series",E 40
+http://195.154.166.82/SER/history/Lialy.ElHlmia/E.40.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="F 01"  group-title="Arabic Series",F 01
+http://195.154.166.82/SER/history/Lialy.ElHlmia/F.01.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="F 02"  group-title="Arabic Series",F 02
+http://195.154.166.82/SER/history/Lialy.ElHlmia/F.02.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="F 03"  group-title="Arabic Series",F 03
+http://195.154.166.82/SER/history/Lialy.ElHlmia/F.03.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="F 04"  group-title="Arabic Series",F 04
+http://195.154.166.82/SER/history/Lialy.ElHlmia/F.04.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="F 05"  group-title="Arabic Series",F 05
+http://195.154.166.82/SER/history/Lialy.ElHlmia/F.05.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="F 06"  group-title="Arabic Series",F 06
+http://195.154.166.82/SER/history/Lialy.ElHlmia/F.06.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="F 07"  group-title="Arabic Series",F 07
+http://195.154.166.82/SER/history/Lialy.ElHlmia/F.07.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="F 08"  group-title="Arabic Series",F 08
+http://195.154.166.82/SER/history/Lialy.ElHlmia/F.08.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="F 09"  group-title="Arabic Series",F 09
+http://195.154.166.82/SER/history/Lialy.ElHlmia/F.09.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="F 10"  group-title="Arabic Series",F 10
+http://195.154.166.82/SER/history/Lialy.ElHlmia/F.10.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="F 11"  group-title="Arabic Series",F 11
+http://195.154.166.82/SER/history/Lialy.ElHlmia/F.11.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="F 12"  group-title="Arabic Series",F 12
+http://195.154.166.82/SER/history/Lialy.ElHlmia/F.12.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="F 13"  group-title="Arabic Series",F 13
+http://195.154.166.82/SER/history/Lialy.ElHlmia/F.13.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="F 14"  group-title="Arabic Series",F 14
+http://195.154.166.82/SER/history/Lialy.ElHlmia/F.14.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="F 15"  group-title="Arabic Series",F 15
+http://195.154.166.82/SER/history/Lialy.ElHlmia/F.15.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="F 16"  group-title="Arabic Series",F 16
+http://195.154.166.82/SER/history/Lialy.ElHlmia/F.16.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="F 17"  group-title="Arabic Series",F 17
+http://195.154.166.82/SER/history/Lialy.ElHlmia/F.17.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="F 18"  group-title="Arabic Series",F 18
+http://195.154.166.82/SER/history/Lialy.ElHlmia/F.18.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="F 19"  group-title="Arabic Series",F 19
+http://195.154.166.82/SER/history/Lialy.ElHlmia/F.19.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="F 20"  group-title="Arabic Series",F 20
+http://195.154.166.82/SER/history/Lialy.ElHlmia/F.20.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="F 21"  group-title="Arabic Series",F 21
+http://195.154.166.82/SER/history/Lialy.ElHlmia/F.21.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="F 22"  group-title="Arabic Series",F 22
+http://195.154.166.82/SER/history/Lialy.ElHlmia/F.22.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="F 23"  group-title="Arabic Series",F 23
+http://195.154.166.82/SER/history/Lialy.ElHlmia/F.23.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="F 24"  group-title="Arabic Series",F 24
+http://195.154.166.82/SER/history/Lialy.ElHlmia/F.24.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="F 25"  group-title="Arabic Series",F 25
+http://195.154.166.82/SER/history/Lialy.ElHlmia/F.25.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="F 26"  group-title="Arabic Series",F 26
+http://195.154.166.82/SER/history/Lialy.ElHlmia/F.26.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="F 27"  group-title="Arabic Series",F 27
+http://195.154.166.82/SER/history/Lialy.ElHlmia/F.27.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="F 28"  group-title="Arabic Series",F 28
+http://195.154.166.82/SER/history/Lialy.ElHlmia/F.28.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="F 29"  group-title="Arabic Series",F 29
+http://195.154.166.82/SER/history/Lialy.ElHlmia/F.29.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="F 30"  group-title="Arabic Series",F 30
+http://195.154.166.82/SER/history/Lialy.ElHlmia/F.30.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="A 01"  group-title="Arabic Series",A 01
 http://195.154.166.82/SER/history/Nahdat.Alslagka/A.01.mkv
 #EXTINF:-1 tvg-logo="" tvg-name="A 02"  group-title="Arabic Series",A 02
 http://195.154.166.82/SER/history/Nahdat.Alslagka/A.02.mkv
@@ -13718,6 +14274,40 @@ http://195.154.166.82/SER/history/Selahaddin.Eyyubi/A.07.mkv
 http://195.154.166.82/SER/history/Selahaddin.Eyyubi/A.08.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="A 09"  group-title="Arabic Series",A 09
 http://195.154.166.82/SER/history/Selahaddin.Eyyubi/A.09.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="A 01"  group-title="Arabic Series",A 01
+http://195.154.166.82/SER/history/Tamer.We.Shwqia/A.01.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="A 02"  group-title="Arabic Series",A 02
+http://195.154.166.82/SER/history/Tamer.We.Shwqia/A.02.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="A 03"  group-title="Arabic Series",A 03
+http://195.154.166.82/SER/history/Tamer.We.Shwqia/A.03.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="A 04"  group-title="Arabic Series",A 04
+http://195.154.166.82/SER/history/Tamer.We.Shwqia/A.04.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="A 05"  group-title="Arabic Series",A 05
+http://195.154.166.82/SER/history/Tamer.We.Shwqia/A.05.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="A 06"  group-title="Arabic Series",A 06
+http://195.154.166.82/SER/history/Tamer.We.Shwqia/A.06.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="A 07"  group-title="Arabic Series",A 07
+http://195.154.166.82/SER/history/Tamer.We.Shwqia/A.07.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="A 08"  group-title="Arabic Series",A 08
+http://195.154.166.82/SER/history/Tamer.We.Shwqia/A.08.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="A 09"  group-title="Arabic Series",A 09
+http://195.154.166.82/SER/history/Tamer.We.Shwqia/A.09.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.10.png" tvg-name="A 10"  group-title="Arabic Series",A 10
+http://195.154.166.82/SER/history/Tamer.We.Shwqia/A.10.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.11.png" tvg-name="A 11"  group-title="Arabic Series",A 11
+http://195.154.166.82/SER/history/Tamer.We.Shwqia/A.11.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.12.png" tvg-name="A 12"  group-title="Arabic Series",A 12
+http://195.154.166.82/SER/history/Tamer.We.Shwqia/A.12.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.13.png" tvg-name="A 13"  group-title="Arabic Series",A 13
+http://195.154.166.82/SER/history/Tamer.We.Shwqia/A.13.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.14.png" tvg-name="A 14"  group-title="Arabic Series",A 14
+http://195.154.166.82/SER/history/Tamer.We.Shwqia/A.14.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.15.png" tvg-name="A 15"  group-title="Arabic Series",A 15
+http://195.154.166.82/SER/history/Tamer.We.Shwqia/A.15.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.16.png" tvg-name="A 16"  group-title="Arabic Series",A 16
+http://195.154.166.82/SER/history/Tamer.We.Shwqia/A.16.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.17.png" tvg-name="A 17"  group-title="Arabic Series",A 17
+http://195.154.166.82/SER/history/Tamer.We.Shwqia/A.17.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="A-01"  group-title="Arabic Series",A-01
 http://195.154.166.82/SER/history/Wanies.Family/A-01.avi
 #EXTINF:-1 tvg-logo="" tvg-name="A-02"  group-title="Arabic Series",A-02
@@ -14170,6 +14760,246 @@ http://195.154.166.82/SER/history/Yousef.Elsadik/Yousef.E43.mp4
 http://195.154.166.82/SER/history/Yousef.Elsadik/Yousef.E44.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="Yousef E45"  group-title="Arabic Series",Yousef E45
 http://195.154.166.82/SER/history/Yousef.Elsadik/Yousef.E45.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="A 01"  group-title="Arabic Series",A 01
+http://195.154.166.82/SER/history/Zoga.Mafrosa/A.01.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="A 02"  group-title="Arabic Series",A 02
+http://195.154.166.82/SER/history/Zoga.Mafrosa/A.02.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="A 03"  group-title="Arabic Series",A 03
+http://195.154.166.82/SER/history/Zoga.Mafrosa/A.03.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="A 04"  group-title="Arabic Series",A 04
+http://195.154.166.82/SER/history/Zoga.Mafrosa/A.04.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="A 05"  group-title="Arabic Series",A 05
+http://195.154.166.82/SER/history/Zoga.Mafrosa/A.05.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="A 06"  group-title="Arabic Series",A 06
+http://195.154.166.82/SER/history/Zoga.Mafrosa/A.06.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="A 07"  group-title="Arabic Series",A 07
+http://195.154.166.82/SER/history/Zoga.Mafrosa/A.07.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="A 08"  group-title="Arabic Series",A 08
+http://195.154.166.82/SER/history/Zoga.Mafrosa/A.08.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="A 09"  group-title="Arabic Series",A 09
+http://195.154.166.82/SER/history/Zoga.Mafrosa/A.09.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.10.png" tvg-name="A 10"  group-title="Arabic Series",A 10
+http://195.154.166.82/SER/history/Zoga.Mafrosa/A.10.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.11.png" tvg-name="A 11"  group-title="Arabic Series",A 11
+http://195.154.166.82/SER/history/Zoga.Mafrosa/A.11.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.12.png" tvg-name="A 12"  group-title="Arabic Series",A 12
+http://195.154.166.82/SER/history/Zoga.Mafrosa/A.12.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.13.png" tvg-name="A 13"  group-title="Arabic Series",A 13
+http://195.154.166.82/SER/history/Zoga.Mafrosa/A.13.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.14.png" tvg-name="A 14"  group-title="Arabic Series",A 14
+http://195.154.166.82/SER/history/Zoga.Mafrosa/A.14.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.15.png" tvg-name="A 15"  group-title="Arabic Series",A 15
+http://195.154.166.82/SER/history/Zoga.Mafrosa/A.15.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.16.png" tvg-name="A 16"  group-title="Arabic Series",A 16
+http://195.154.166.82/SER/history/Zoga.Mafrosa/A.16.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.17.png" tvg-name="A 17"  group-title="Arabic Series",A 17
+http://195.154.166.82/SER/history/Zoga.Mafrosa/A.17.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.18.png" tvg-name="A 18"  group-title="Arabic Series",A 18
+http://195.154.166.82/SER/history/Zoga.Mafrosa/A.18.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.19.png" tvg-name="A 19"  group-title="Arabic Series",A 19
+http://195.154.166.82/SER/history/Zoga.Mafrosa/A.19.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.20.png" tvg-name="A 20"  group-title="Arabic Series",A 20
+http://195.154.166.82/SER/history/Zoga.Mafrosa/A.20.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.21.png" tvg-name="A 21"  group-title="Arabic Series",A 21
+http://195.154.166.82/SER/history/Zoga.Mafrosa/A.21.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.22.png" tvg-name="A 22"  group-title="Arabic Series",A 22
+http://195.154.166.82/SER/history/Zoga.Mafrosa/A.22.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.23.png" tvg-name="A 23"  group-title="Arabic Series",A 23
+http://195.154.166.82/SER/history/Zoga.Mafrosa/A.23.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.24.png" tvg-name="A 24"  group-title="Arabic Series",A 24
+http://195.154.166.82/SER/history/Zoga.Mafrosa/A.24.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.25.png" tvg-name="A 25"  group-title="Arabic Series",A 25
+http://195.154.166.82/SER/history/Zoga.Mafrosa/A.25.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.26.png" tvg-name="A 26"  group-title="Arabic Series",A 26
+http://195.154.166.82/SER/history/Zoga.Mafrosa/A.26.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.27.png" tvg-name="A 27"  group-title="Arabic Series",A 27
+http://195.154.166.82/SER/history/Zoga.Mafrosa/A.27.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.28.png" tvg-name="A 28"  group-title="Arabic Series",A 28
+http://195.154.166.82/SER/history/Zoga.Mafrosa/A.28.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.29.png" tvg-name="A 29"  group-title="Arabic Series",A 29
+http://195.154.166.82/SER/history/Zoga.Mafrosa/A.29.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.30.png" tvg-name="A 30"  group-title="Arabic Series",A 30
+http://195.154.166.82/SER/history/Zoga.Mafrosa/A.30.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 01"  group-title="Arabic Series",B 01
+http://195.154.166.82/SER/history/Zoga.Mafrosa/B.01.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 02"  group-title="Arabic Series",B 02
+http://195.154.166.82/SER/history/Zoga.Mafrosa/B.02.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 03"  group-title="Arabic Series",B 03
+http://195.154.166.82/SER/history/Zoga.Mafrosa/B.03.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 04"  group-title="Arabic Series",B 04
+http://195.154.166.82/SER/history/Zoga.Mafrosa/B.04.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 05"  group-title="Arabic Series",B 05
+http://195.154.166.82/SER/history/Zoga.Mafrosa/B.05.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 06"  group-title="Arabic Series",B 06
+http://195.154.166.82/SER/history/Zoga.Mafrosa/B.06.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 07"  group-title="Arabic Series",B 07
+http://195.154.166.82/SER/history/Zoga.Mafrosa/B.07.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 08"  group-title="Arabic Series",B 08
+http://195.154.166.82/SER/history/Zoga.Mafrosa/B.08.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 09"  group-title="Arabic Series",B 09
+http://195.154.166.82/SER/history/Zoga.Mafrosa/B.09.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 10"  group-title="Arabic Series",B 10
+http://195.154.166.82/SER/history/Zoga.Mafrosa/B.10.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 11"  group-title="Arabic Series",B 11
+http://195.154.166.82/SER/history/Zoga.Mafrosa/B.11.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 12"  group-title="Arabic Series",B 12
+http://195.154.166.82/SER/history/Zoga.Mafrosa/B.12.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 13"  group-title="Arabic Series",B 13
+http://195.154.166.82/SER/history/Zoga.Mafrosa/B.13.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 14"  group-title="Arabic Series",B 14
+http://195.154.166.82/SER/history/Zoga.Mafrosa/B.14.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 15"  group-title="Arabic Series",B 15
+http://195.154.166.82/SER/history/Zoga.Mafrosa/B.15.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 16"  group-title="Arabic Series",B 16
+http://195.154.166.82/SER/history/Zoga.Mafrosa/B.16.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 17"  group-title="Arabic Series",B 17
+http://195.154.166.82/SER/history/Zoga.Mafrosa/B.17.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 18"  group-title="Arabic Series",B 18
+http://195.154.166.82/SER/history/Zoga.Mafrosa/B.18.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/B.19.png" tvg-name="B 19"  group-title="Arabic Series",B 19
+http://195.154.166.82/SER/history/Zoga.Mafrosa/B.19.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 20"  group-title="Arabic Series",B 20
+http://195.154.166.82/SER/history/Zoga.Mafrosa/B.20.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 21"  group-title="Arabic Series",B 21
+http://195.154.166.82/SER/history/Zoga.Mafrosa/B.21.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 22"  group-title="Arabic Series",B 22
+http://195.154.166.82/SER/history/Zoga.Mafrosa/B.22.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 23"  group-title="Arabic Series",B 23
+http://195.154.166.82/SER/history/Zoga.Mafrosa/B.23.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 24"  group-title="Arabic Series",B 24
+http://195.154.166.82/SER/history/Zoga.Mafrosa/B.24.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 25"  group-title="Arabic Series",B 25
+http://195.154.166.82/SER/history/Zoga.Mafrosa/B.25.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 26"  group-title="Arabic Series",B 26
+http://195.154.166.82/SER/history/Zoga.Mafrosa/B.26.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 27"  group-title="Arabic Series",B 27
+http://195.154.166.82/SER/history/Zoga.Mafrosa/B.27.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 28"  group-title="Arabic Series",B 28
+http://195.154.166.82/SER/history/Zoga.Mafrosa/B.28.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 29"  group-title="Arabic Series",B 29
+http://195.154.166.82/SER/history/Zoga.Mafrosa/B.29.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="B 30"  group-title="Arabic Series",B 30
+http://195.154.166.82/SER/history/Zoga.Mafrosa/B.30.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="C 01"  group-title="Arabic Series",C 01
+http://195.154.166.82/SER/history/Zoga.Mafrosa/C.01.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 02"  group-title="Arabic Series",C 02
+http://195.154.166.82/SER/history/Zoga.Mafrosa/C.02.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 03"  group-title="Arabic Series",C 03
+http://195.154.166.82/SER/history/Zoga.Mafrosa/C.03.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 04"  group-title="Arabic Series",C 04
+http://195.154.166.82/SER/history/Zoga.Mafrosa/C.04.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 05"  group-title="Arabic Series",C 05
+http://195.154.166.82/SER/history/Zoga.Mafrosa/C.05.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 06"  group-title="Arabic Series",C 06
+http://195.154.166.82/SER/history/Zoga.Mafrosa/C.06.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 07"  group-title="Arabic Series",C 07
+http://195.154.166.82/SER/history/Zoga.Mafrosa/C.07.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 08"  group-title="Arabic Series",C 08
+http://195.154.166.82/SER/history/Zoga.Mafrosa/C.08.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 09"  group-title="Arabic Series",C 09
+http://195.154.166.82/SER/history/Zoga.Mafrosa/C.09.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 10"  group-title="Arabic Series",C 10
+http://195.154.166.82/SER/history/Zoga.Mafrosa/C.10.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 11"  group-title="Arabic Series",C 11
+http://195.154.166.82/SER/history/Zoga.Mafrosa/C.11.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 12"  group-title="Arabic Series",C 12
+http://195.154.166.82/SER/history/Zoga.Mafrosa/C.12.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 13"  group-title="Arabic Series",C 13
+http://195.154.166.82/SER/history/Zoga.Mafrosa/C.13.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 14"  group-title="Arabic Series",C 14
+http://195.154.166.82/SER/history/Zoga.Mafrosa/C.14.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 15"  group-title="Arabic Series",C 15
+http://195.154.166.82/SER/history/Zoga.Mafrosa/C.15.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 16"  group-title="Arabic Series",C 16
+http://195.154.166.82/SER/history/Zoga.Mafrosa/C.16.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 17"  group-title="Arabic Series",C 17
+http://195.154.166.82/SER/history/Zoga.Mafrosa/C.17.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 18"  group-title="Arabic Series",C 18
+http://195.154.166.82/SER/history/Zoga.Mafrosa/C.18.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 19"  group-title="Arabic Series",C 19
+http://195.154.166.82/SER/history/Zoga.Mafrosa/C.19.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 20"  group-title="Arabic Series",C 20
+http://195.154.166.82/SER/history/Zoga.Mafrosa/C.20.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 21"  group-title="Arabic Series",C 21
+http://195.154.166.82/SER/history/Zoga.Mafrosa/C.21.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 22"  group-title="Arabic Series",C 22
+http://195.154.166.82/SER/history/Zoga.Mafrosa/C.22.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 23"  group-title="Arabic Series",C 23
+http://195.154.166.82/SER/history/Zoga.Mafrosa/C.23.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 24"  group-title="Arabic Series",C 24
+http://195.154.166.82/SER/history/Zoga.Mafrosa/C.24.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 25"  group-title="Arabic Series",C 25
+http://195.154.166.82/SER/history/Zoga.Mafrosa/C.25.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 26"  group-title="Arabic Series",C 26
+http://195.154.166.82/SER/history/Zoga.Mafrosa/C.26.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 27"  group-title="Arabic Series",C 27
+http://195.154.166.82/SER/history/Zoga.Mafrosa/C.27.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 28"  group-title="Arabic Series",C 28
+http://195.154.166.82/SER/history/Zoga.Mafrosa/C.28.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 29"  group-title="Arabic Series",C 29
+http://195.154.166.82/SER/history/Zoga.Mafrosa/C.29.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="C 30"  group-title="Arabic Series",C 30
+http://195.154.166.82/SER/history/Zoga.Mafrosa/C.30.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="D 01"  group-title="Arabic Series",D 01
+http://195.154.166.82/SER/history/Zoga.Mafrosa/D.01.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="D 02"  group-title="Arabic Series",D 02
+http://195.154.166.82/SER/history/Zoga.Mafrosa/D.02.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="D 03"  group-title="Arabic Series",D 03
+http://195.154.166.82/SER/history/Zoga.Mafrosa/D.03.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="D 04"  group-title="Arabic Series",D 04
+http://195.154.166.82/SER/history/Zoga.Mafrosa/D.04.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="D 05"  group-title="Arabic Series",D 05
+http://195.154.166.82/SER/history/Zoga.Mafrosa/D.05.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="D 06"  group-title="Arabic Series",D 06
+http://195.154.166.82/SER/history/Zoga.Mafrosa/D.06.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="D 07"  group-title="Arabic Series",D 07
+http://195.154.166.82/SER/history/Zoga.Mafrosa/D.07.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="D 08"  group-title="Arabic Series",D 08
+http://195.154.166.82/SER/history/Zoga.Mafrosa/D.08.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="D 09"  group-title="Arabic Series",D 09
+http://195.154.166.82/SER/history/Zoga.Mafrosa/D.09.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="D 10"  group-title="Arabic Series",D 10
+http://195.154.166.82/SER/history/Zoga.Mafrosa/D.10.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="D 11"  group-title="Arabic Series",D 11
+http://195.154.166.82/SER/history/Zoga.Mafrosa/D.11.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="D 12"  group-title="Arabic Series",D 12
+http://195.154.166.82/SER/history/Zoga.Mafrosa/D.12.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="D 13"  group-title="Arabic Series",D 13
+http://195.154.166.82/SER/history/Zoga.Mafrosa/D.13.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="D 14"  group-title="Arabic Series",D 14
+http://195.154.166.82/SER/history/Zoga.Mafrosa/D.14.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="D 15"  group-title="Arabic Series",D 15
+http://195.154.166.82/SER/history/Zoga.Mafrosa/D.15.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="D 16"  group-title="Arabic Series",D 16
+http://195.154.166.82/SER/history/Zoga.Mafrosa/D.16.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="D 17"  group-title="Arabic Series",D 17
+http://195.154.166.82/SER/history/Zoga.Mafrosa/D.17.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="D 18"  group-title="Arabic Series",D 18
+http://195.154.166.82/SER/history/Zoga.Mafrosa/D.18.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="D 19"  group-title="Arabic Series",D 19
+http://195.154.166.82/SER/history/Zoga.Mafrosa/D.19.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="D 20"  group-title="Arabic Series",D 20
+http://195.154.166.82/SER/history/Zoga.Mafrosa/D.20.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="D 21"  group-title="Arabic Series",D 21
+http://195.154.166.82/SER/history/Zoga.Mafrosa/D.21.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="D 22"  group-title="Arabic Series",D 22
+http://195.154.166.82/SER/history/Zoga.Mafrosa/D.22.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="D 23"  group-title="Arabic Series",D 23
+http://195.154.166.82/SER/history/Zoga.Mafrosa/D.23.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="D 24"  group-title="Arabic Series",D 24
+http://195.154.166.82/SER/history/Zoga.Mafrosa/D.24.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="D 25"  group-title="Arabic Series",D 25
+http://195.154.166.82/SER/history/Zoga.Mafrosa/D.25.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="D 26"  group-title="Arabic Series",D 26
+http://195.154.166.82/SER/history/Zoga.Mafrosa/D.26.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="D 27"  group-title="Arabic Series",D 27
+http://195.154.166.82/SER/history/Zoga.Mafrosa/D.27.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="D 28"  group-title="Arabic Series",D 28
+http://195.154.166.82/SER/history/Zoga.Mafrosa/D.28.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="D 29"  group-title="Arabic Series",D 29
+http://195.154.166.82/SER/history/Zoga.Mafrosa/D.29.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="D 30"  group-title="Arabic Series",D 30
+http://195.154.166.82/SER/history/Zoga.Mafrosa/D.30.mp4
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image2/Berlin.png" tvg-name="Berlin S01E01"  group-title="English Series",Berlin S01E01
 http://195.154.166.82/SER-English/Berlin/1/Berlin.S01E01.mp4
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image2/Berlin.png" tvg-name="Berlin S01E02"  group-title="English Series",Berlin S01E02
@@ -14520,25 +15350,21 @@ http://195.154.166.82/SER-English/Monarch.Legacy.of.Monsters/A-10.mp4
 http://195.154.166.82/SER-English/Peaky.Blinders/1/Peaky.Blinders.S01E04.720p.BluRay.AKWAM.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="Peaky Blinders S01E05 720p BluRay AKWAM"  group-title="English Series",Peaky Blinders S01E05 720p BluRay AKWAM
 http://195.154.166.82/SER-English/Peaky.Blinders/1/Peaky.Blinders.S01E05.720p.BluRay.AKWAM.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="wget-lo"  group-title="English Series",wget-lo
-http://195.154.166.82/SER-English/Peaky.Blinders/1/wget-log
-#EXTINF:-1 tvg-logo="" tvg-name="wget-log"  group-title="English Series",wget-log
-http://195.154.166.82/SER-English/Peaky.Blinders/1/wget-log.1
-#EXTINF:-1 tvg-logo="" tvg-name="Sayed El-KhwatmE01"  group-title="English Series",Sayed El-KhwatmE01
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Sayed.El-Khwatm.png" tvg-name="Sayed El-KhwatmE01"  group-title="English Series",Sayed El-KhwatmE01
 http://195.154.166.82/SER-English/Sayed.El-Khwatm/Sayed.El-KhwatmE01.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Sayed El-KhwatmE02"  group-title="English Series",Sayed El-KhwatmE02
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Sayed.El-Khwatm.png" tvg-name="Sayed El-KhwatmE02"  group-title="English Series",Sayed El-KhwatmE02
 http://195.154.166.82/SER-English/Sayed.El-Khwatm/Sayed.El-KhwatmE02.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Sayed El-KhwatmE03"  group-title="English Series",Sayed El-KhwatmE03
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Sayed.El-Khwatm.png" tvg-name="Sayed El-KhwatmE03"  group-title="English Series",Sayed El-KhwatmE03
 http://195.154.166.82/SER-English/Sayed.El-Khwatm/Sayed.El-KhwatmE03.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Sayed El-KhwatmE04"  group-title="English Series",Sayed El-KhwatmE04
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Sayed.El-Khwatm.png" tvg-name="Sayed El-KhwatmE04"  group-title="English Series",Sayed El-KhwatmE04
 http://195.154.166.82/SER-English/Sayed.El-Khwatm/Sayed.El-KhwatmE04.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Sayed El-KhwatmE05"  group-title="English Series",Sayed El-KhwatmE05
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Sayed.El-Khwatm.png" tvg-name="Sayed El-KhwatmE05"  group-title="English Series",Sayed El-KhwatmE05
 http://195.154.166.82/SER-English/Sayed.El-Khwatm/Sayed.El-KhwatmE05.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Sayed El-KhwatmE06"  group-title="English Series",Sayed El-KhwatmE06
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Sayed.El-Khwatm.png" tvg-name="Sayed El-KhwatmE06"  group-title="English Series",Sayed El-KhwatmE06
 http://195.154.166.82/SER-English/Sayed.El-Khwatm/Sayed.El-KhwatmE06.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Sayed El-KhwatmE07"  group-title="English Series",Sayed El-KhwatmE07
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Sayed.El-Khwatm.png" tvg-name="Sayed El-KhwatmE07"  group-title="English Series",Sayed El-KhwatmE07
 http://195.154.166.82/SER-English/Sayed.El-Khwatm/Sayed.El-KhwatmE07.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="Sayed El-KhwatmE08"  group-title="English Series",Sayed El-KhwatmE08
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Sayed.El-Khwatm.png" tvg-name="Sayed El-KhwatmE08"  group-title="English Series",Sayed El-KhwatmE08
 http://195.154.166.82/SER-English/Sayed.El-Khwatm/Sayed.El-KhwatmE08.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="Squid Game A01"  group-title="English Series",Squid Game A01
 http://195.154.166.82/SER-English/Squid.Game/A01.mp4
@@ -14750,5 +15576,5 @@ http://195.154.166.82/SER-English/WandaVision/WandaVision.S01E07.480p.WEB-DL.AKW
 http://195.154.166.82/SER-English/WandaVision/WandaVision.S01E08.480p.WEB-DL.AKWAM.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="WandaVision S01E09 480p WEB-DL AKWAM"  group-title="English Series",WandaVision S01E09 480p WEB-DL AKWAM
 http://195.154.166.82/SER-English/WandaVision/WandaVision.S01E09.480p.WEB-DL.AKWAM.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="WandaVisionE01"  group-title="English Series",WandaVisionE01
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/WandaVision.png" tvg-name="WandaVisionE01"  group-title="English Series",WandaVisionE01
 http://195.154.166.82/SER-English/WandaVision/WandaVisionE01.mp4
