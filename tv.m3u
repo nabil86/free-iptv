@@ -557,7 +557,7 @@ http://195.154.166.82/AFLAM1/A/Aly.Baba.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="AMAR 14 2022"  group-title="Films AR 2022", AMAR 14 2022
 http://195.154.166.82/AFLAM1/A/Amar.14.2022.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="AMEL ZERO"  group-title="Films AR ", AMEL ZERO
-http://195.154.166.82/AFLAM1/A/Amel.Zero.mkv
+http://195.154.166.82/AFLAM1/A/Amel.Zero.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="AMEN DAWLAT"  group-title="Films AR ", AMEN DAWLAT
 http://195.154.166.82/AFLAM1/A/Amen.Dawlat.mkv
 #EXTINF:-1 tvg-logo="" tvg-name="AMMAR"  group-title="Films AR ", AMMAR
@@ -808,6 +808,8 @@ http://195.154.166.82/AFLAM1/A/Mako.2021.mp4
 http://195.154.166.82/AFLAM1/A/Malesh.Ehna.Benetbahde.mkv
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Mama.Hamel.png" tvg-name="MAMA HAMEL"  group-title="Films AR ", MAMA HAMEL
 http://195.154.166.82/AFLAM1/A/Mama.Hamel.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="MAR3Y EL PREMO"  group-title="Films AR ", MAR3Y EL PREMO
+http://195.154.166.82/AFLAM1/A/Mar3y.El.Premo.mp4
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Master.X.png" tvg-name="MASTER X"  group-title="Films AR ", MASTER X
 http://195.154.166.82/AFLAM1/A/Master.X.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="MAWLANA"  group-title="Films AR ", MAWLANA
@@ -981,7 +983,7 @@ http://195.154.166.82/AFLAM1/A/Wa7ed.S3eedy.mkv
 #EXTINF:-1 tvg-logo="" tvg-name="WAFET REGALA"  group-title="Films AR ", WAFET REGALA
 http://195.154.166.82/AFLAM1/A/Wafet.Regala.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="WAH FE WASH"  group-title="Films AR ", WAH FE WASH
-http://195.154.166.82/AFLAM1/A/Wah.Fe.Wash.mkv
+http://195.154.166.82/AFLAM1/A/Wah.Fe.Wash.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="WAHED MEN EL NAS"  group-title="Films AR ", WAHED MEN EL NAS
 http://195.154.166.82/AFLAM1/A/Wahed.Men.El.Nas.mkv
 #EXTINF:-1 tvg-logo="" tvg-name="WAHED TANY 2022"  group-title="Films AR 2022", WAHED TANY 2022
@@ -6472,6 +6474,8 @@ http://195.154.166.82/AFLAM1/VOD/NETFILX/All.Hail.mp4
 http://195.154.166.82/AFLAM1/VOD/NETFILX/Ant.Man.And.The.Wasp.Quantumania.2023.mkv
 #EXTINF:-1 tvg-logo="" tvg-name="ANYONE BUT YOU 2023"  group-title="Films NETFILX 2023", ANYONE BUT YOU 2023
 http://195.154.166.82/AFLAM1/VOD/NETFILX/Anyone.But.You.2023.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image2/Argylle.png" tvg-name="ARGYLLE 2024"  group-title="Films NETFILX 2024", ARGYLLE 2024
+http://195.154.166.82/AFLAM1/VOD/NETFILX/Argylle.2024.mp4
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Army.of.Thieves.png" tvg-name="ARMY OF THIEVES"  group-title="Films NETFILX ", ARMY OF THIEVES
 http://195.154.166.82/AFLAM1/VOD/NETFILX/Army.of.Thieves.mkv
 #EXTINF:-1 tvg-logo="" tvg-name="AVATAR THE WAY"  group-title="Films NETFILX ", AVATAR THE WAY
@@ -6508,8 +6512,12 @@ http://195.154.166.82/AFLAM1/VOD/NETFILX/Bullet.Train.mkv
 http://195.154.166.82/AFLAM1/VOD/NETFILX/Chaos.Walking.mkv
 #EXTINF:-1 tvg-logo="" tvg-name="CHOR NIKAL KE BHAGA 2023"  group-title="Films NETFILX 2023", CHOR NIKAL KE BHAGA 2023
 http://195.154.166.82/AFLAM1/VOD/NETFILX/Chor.Nikal.Ke.Bhaga.2023.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="CODE 8 PART II 2024"  group-title="Films NETFILX 2024", CODE 8 PART II 2024
+http://195.154.166.82/AFLAM1/VOD/NETFILX/Code.8.Part.II.2024.mp4
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Cosmic.Sin.png" tvg-name="COSMIC SIN"  group-title="Films NETFILX ", COSMIC SIN
 http://195.154.166.82/AFLAM1/VOD/NETFILX/Cosmic.Sin.mkv
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image2/Damsel.png" tvg-name="DAMSEL 2024"  group-title="Films NETFILX 2024", DAMSEL 2024
+http://195.154.166.82/AFLAM1/VOD/NETFILX/Damsel.2024.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="DOCTOR STRANGE"  group-title="Films NETFILX ", DOCTOR STRANGE
 http://195.154.166.82/AFLAM1/VOD/NETFILX/Doctor.Strange.mkv
 #EXTINF:-1 tvg-logo="" tvg-name="DOCTOR STRANGE OF MADNES"  group-title="Films NETFILX ", DOCTOR STRANGE OF MADNES
@@ -6518,6 +6526,8 @@ http://195.154.166.82/AFLAM1/VOD/NETFILX/Doctor.Strange.of.Madnes.mkv
 http://195.154.166.82/AFLAM1/VOD/NETFILX/DragonFury.2021.mkv
 #EXTINF:-1 tvg-logo="" tvg-name="DUNE 2021"  group-title="Films NETFILX 2021", DUNE 2021
 http://195.154.166.82/AFLAM1/VOD/NETFILX/Dune.2021.mkv
+#EXTINF:-1 tvg-logo="" tvg-name="DUNE PART TWO 2024"  group-title="Films NETFILX 2024", DUNE PART TWO 2024
+http://195.154.166.82/AFLAM1/VOD/NETFILX/Dune.Part.Two.2024.mp4
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Dungeons.And.Dragons.Honor.Among.Thieves.2023.png" tvg-name="DUNGEONS AND DRAGONS HONOR AMONG THIEVES 2023"  group-title="Films NETFILX 2023", DUNGEONS AND DRAGONS HONOR AMONG THIEVES 2023
 http://195.154.166.82/AFLAM1/VOD/NETFILX/Dungeons.And.Dragons.Honor.Among.Thieves.2023.mkv
 #EXTINF:-1 tvg-logo="" tvg-name="ECHO BOOMERS"  group-title="Films NETFILX ", ECHO BOOMERS
@@ -6546,6 +6556,8 @@ http://195.154.166.82/AFLAM1/VOD/NETFILX/First.Avenger.mkv
 http://195.154.166.82/AFLAM1/VOD/NETFILX/Float.2023.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="FORGOTTEN LOVE 2023"  group-title="Films NETFILX 2023", FORGOTTEN LOVE 2023
 http://195.154.166.82/AFLAM1/VOD/NETFILX/Forgotten.Love.2023.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="FRANKENSTEIN LEGACY 2024"  group-title="Films NETFILX 2024", FRANKENSTEIN LEGACY 2024
+http://195.154.166.82/AFLAM1/VOD/NETFILX/Frankenstein.Legacy.2024.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="FREE GUY 2021"  group-title="Films NETFILX 2021", FREE GUY 2021
 http://195.154.166.82/AFLAM1/VOD/NETFILX/Free.Guy.2021.mkv
 #EXTINF:-1 tvg-logo="" tvg-name="FROM THE ASHES 2024"  group-title="Films NETFILX 2024", FROM THE ASHES 2024
@@ -6612,6 +6624,8 @@ http://195.154.166.82/AFLAM1/VOD/NETFILX/Morbius.2022.mkv
 http://195.154.166.82/AFLAM1/VOD/NETFILX/Murder.Mystery.2.2023.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="MURDER ON THE ORIENT EXPRESS 2017"  group-title="Films NETFILX ", MURDER ON THE ORIENT EXPRESS 2017
 http://195.154.166.82/AFLAM1/VOD/NETFILX/Murder.On.The.Orient.Express.2017.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="MY NAME IS LOH KIWAN 2024"  group-title="Films NETFILX 2024", MY NAME IS LOH KIWAN 2024
+http://195.154.166.82/AFLAM1/VOD/NETFILX/My.Name.Is.Loh.Kiwan.2024.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="NEXT GOAL WINS 2023"  group-title="Films NETFILX 2023", NEXT GOAL WINS 2023
 http://195.154.166.82/AFLAM1/VOD/NETFILX/Next.Goal.Wins.2023.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="NO HARD FEELINGS 2023"  group-title="Films NETFILX 2023", NO HARD FEELINGS 2023
@@ -6628,6 +6642,8 @@ http://195.154.166.82/AFLAM1/VOD/NETFILX/Nowhere.2023.mkv
 http://195.154.166.82/AFLAM1/VOD/NETFILX/Oppenheimer.2023.mkv
 #EXTINF:-1 tvg-logo="" tvg-name="OUR FATHER 2022"  group-title="Films NETFILX 2022", OUR FATHER 2022
 http://195.154.166.82/AFLAM1/VOD/NETFILX/Our.Father.2022.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="OUT OF DARKNESS 2022"  group-title="Films NETFILX 2022", OUT OF DARKNESS 2022
+http://195.154.166.82/AFLAM1/VOD/NETFILX/Out.Of.Darkness.2022.mp4
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Pain.Hustlers.png" tvg-name="PAIN HUSTLERS 2023"  group-title="Films NETFILX 2023", PAIN HUSTLERS 2023
 http://195.154.166.82/AFLAM1/VOD/NETFILX/Pain.Hustlers.2023.mkv
 #EXTINF:-1 tvg-logo="" tvg-name="PALE BLUE EYE 2022"  group-title="Films NETFILX 2022", PALE BLUE EYE 2022
@@ -6674,6 +6690,8 @@ http://195.154.166.82/AFLAM1/VOD/NETFILX/Sky-Sharks-2020.mkv
 http://195.154.166.82/AFLAM1/VOD/NETFILX/Society.of.the.Snow.2024.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="SONIC THE HEDGEHOG 2"  group-title="Films NETFILX ", SONIC THE HEDGEHOG 2
 http://195.154.166.82/AFLAM1/VOD/NETFILX/Sonic.the.Hedgehog.2.mkv
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image2/Spaceman.png" tvg-name="SPACEMAN 2024"  group-title="Films NETFILX 2024", SPACEMAN 2024
+http://195.154.166.82/AFLAM1/VOD/NETFILX/Spaceman.2024.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="SPIDER-MAN NO WAY HOME"  group-title="Films NETFILX ", SPIDER-MAN NO WAY HOME
 http://195.154.166.82/AFLAM1/VOD/NETFILX/Spider-Man.No.Way.Home.mkv
 #EXTINF:-1 tvg-logo="" tvg-name="SUICIDE SQUAD"  group-title="Films NETFILX ", SUICIDE SQUAD
@@ -6700,6 +6718,8 @@ http://195.154.166.82/AFLAM1/VOD/NETFILX/The.Creator.2023.mkv
 http://195.154.166.82/AFLAM1/VOD/NETFILX/The.Deepest.Breath.2023.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="THE GRAY MAN"  group-title="Films NETFILX ", THE GRAY MAN
 http://195.154.166.82/AFLAM1/VOD/NETFILX/The.Gray.Man.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="THE GREAT SEDUCTION 2023"  group-title="Films NETFILX 2023", THE GREAT SEDUCTION 2023
+http://195.154.166.82/AFLAM1/VOD/NETFILX/The.Great.Seduction.2023.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="THE GUIDE TO THE PERFECT FAMILY 2021"  group-title="Films NETFILX 2021", THE GUIDE TO THE PERFECT FAMILY 2021
 http://195.154.166.82/AFLAM1/VOD/NETFILX/The.Guide.to.the.Perfect.Family.2021.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="THE HEARTBREAK"  group-title="Films NETFILX ", THE HEARTBREAK
@@ -10208,6 +10228,22 @@ http://195.154.166.82/SER/2024/Bain.El.Sotour/A.20.mp4
 http://195.154.166.82/SER/2024/Bain.El.Sotour/A.21.mp4
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.22.png" tvg-name="AR| BAIN EL SOTOUR E22"  group-title="[AR] مسلسلات عربية", AR| BAIN EL SOTOUR E22
 http://195.154.166.82/SER/2024/Bain.El.Sotour/A.22.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.23.png" tvg-name="AR| BAIN EL SOTOUR E23"  group-title="[AR] مسلسلات عربية", AR| BAIN EL SOTOUR E23
+http://195.154.166.82/SER/2024/Bain.El.Sotour/A.23.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.24.png" tvg-name="AR| BAIN EL SOTOUR E24"  group-title="[AR] مسلسلات عربية", AR| BAIN EL SOTOUR E24
+http://195.154.166.82/SER/2024/Bain.El.Sotour/A.24.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.25.png" tvg-name="AR| BAIN EL SOTOUR E25"  group-title="[AR] مسلسلات عربية", AR| BAIN EL SOTOUR E25
+http://195.154.166.82/SER/2024/Bain.El.Sotour/A.25.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.26.png" tvg-name="AR| BAIN EL SOTOUR E26"  group-title="[AR] مسلسلات عربية", AR| BAIN EL SOTOUR E26
+http://195.154.166.82/SER/2024/Bain.El.Sotour/A.26.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.27.png" tvg-name="AR| BAIN EL SOTOUR E27"  group-title="[AR] مسلسلات عربية", AR| BAIN EL SOTOUR E27
+http://195.154.166.82/SER/2024/Bain.El.Sotour/A.27.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.28.png" tvg-name="AR| BAIN EL SOTOUR E28"  group-title="[AR] مسلسلات عربية", AR| BAIN EL SOTOUR E28
+http://195.154.166.82/SER/2024/Bain.El.Sotour/A.28.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.29.png" tvg-name="AR| BAIN EL SOTOUR E29"  group-title="[AR] مسلسلات عربية", AR| BAIN EL SOTOUR E29
+http://195.154.166.82/SER/2024/Bain.El.Sotour/A.29.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.30.png" tvg-name="AR| BAIN EL SOTOUR E30"  group-title="[AR] مسلسلات عربية", AR| BAIN EL SOTOUR E30
+http://195.154.166.82/SER/2024/Bain.El.Sotour/A.30.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="AR| GAWLA A5YRA E01"  group-title="[AR] مسلسلات عربية", AR| GAWLA A5YRA E01
 http://195.154.166.82/SER/2024/Gawla.A5yra/A.01.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="AR| GAWLA A5YRA E02"  group-title="[AR] مسلسلات عربية", AR| GAWLA A5YRA E02
@@ -10276,6 +10312,16 @@ http://195.154.166.82/SER/2024/Hadouta.Mansiya/A.23.mp4
 http://195.154.166.82/SER/2024/Hadouta.Mansiya/A.24.mp4
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.25.png" tvg-name="AR| HADOUTA MANSIYA E25"  group-title="[AR] مسلسلات عربية", AR| HADOUTA MANSIYA E25
 http://195.154.166.82/SER/2024/Hadouta.Mansiya/A.25.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.26.png" tvg-name="AR| HADOUTA MANSIYA E26"  group-title="[AR] مسلسلات عربية", AR| HADOUTA MANSIYA E26
+http://195.154.166.82/SER/2024/Hadouta.Mansiya/A.26.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.27.png" tvg-name="AR| HADOUTA MANSIYA E27"  group-title="[AR] مسلسلات عربية", AR| HADOUTA MANSIYA E27
+http://195.154.166.82/SER/2024/Hadouta.Mansiya/A.27.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.28.png" tvg-name="AR| HADOUTA MANSIYA E28"  group-title="[AR] مسلسلات عربية", AR| HADOUTA MANSIYA E28
+http://195.154.166.82/SER/2024/Hadouta.Mansiya/A.28.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.29.png" tvg-name="AR| HADOUTA MANSIYA E29"  group-title="[AR] مسلسلات عربية", AR| HADOUTA MANSIYA E29
+http://195.154.166.82/SER/2024/Hadouta.Mansiya/A.29.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.30.png" tvg-name="AR| HADOUTA MANSIYA E30"  group-title="[AR] مسلسلات عربية", AR| HADOUTA MANSIYA E30
+http://195.154.166.82/SER/2024/Hadouta.Mansiya/A.30.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="AR| HALA KHASA E01"  group-title="[AR] مسلسلات عربية", AR| HALA KHASA E01
 http://195.154.166.82/SER/2024/Hala.Khasa/A-01.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="AR| HALA KHASA E02"  group-title="[AR] مسلسلات عربية", AR| HALA KHASA E02
@@ -10296,6 +10342,72 @@ http://195.154.166.82/SER/2024/Hala.Khasa/A-08.mp4
 http://195.154.166.82/SER/2024/Hala.Khasa/A-09.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="AR| HALA KHASA E10"  group-title="[AR] مسلسلات عربية", AR| HALA KHASA E10
 http://195.154.166.82/SER/2024/Hala.Khasa/A-10.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="AR| 1-EL-KEBEER AWY 8 E01"  group-title="[AR] مسلسلات عربية", AR| 1-EL-KEBEER AWY 8 E01
+http://195.154.166.82/SER/2024/Ramadan.2024/1-El-Kebeer.Awy.8/A.01.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="AR| 2-HASHASHEN E01"  group-title="[AR] مسلسلات عربية", AR| 2-HASHASHEN E01
+http://195.154.166.82/SER/2024/Ramadan.2024/2-Hashashen/A.01.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="AR| 3-EL MDAAH E01"  group-title="[AR] مسلسلات عربية", AR| 3-EL MDAAH E01
+http://195.154.166.82/SER/2024/Ramadan.2024/3-EL.Mdaah/A.01.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="AR| 4-GWADAR E01"  group-title="[AR] مسلسلات عربية", AR| 4-GWADAR E01
+http://195.154.166.82/SER/2024/Ramadan.2024/4-Gwadar/A.01.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="AR| 5-HAK 3ARAB E01"  group-title="[AR] مسلسلات عربية", AR| 5-HAK 3ARAB E01
+http://195.154.166.82/SER/2024/Ramadan.2024/5-Hak.3arab/A.01.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="AR| 6-BAYET ELRFA3Y E01"  group-title="[AR] مسلسلات عربية", AR| 6-BAYET ELRFA3Y E01
+http://195.154.166.82/SER/2024/Ramadan.2024/6-Bayet.ELrfa3y/A.01.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="AR| 7-KOWBRA E01"  group-title="[AR] مسلسلات عربية", AR| 7-KOWBRA E01
+http://195.154.166.82/SER/2024/Ramadan.2024/7-Kowbra/A.01.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="AR| 8-SAIEED EL3KARB E01"  group-title="[AR] مسلسلات عربية", AR| 8-SAIEED EL3KARB E01
+http://195.154.166.82/SER/2024/Ramadan.2024/8-Saieed.EL3karb/A.01.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="AR| 9-EL M3ALAM E01"  group-title="[AR] مسلسلات عربية", AR| 9-EL M3ALAM E01
+http://195.154.166.82/SER/2024/Ramadan.2024/9-EL.M3alam/A.01.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="AR| 10-EL 3ATWLAA E01"  group-title="[AR] مسلسلات عربية", AR| 10-EL 3ATWLAA E01
+http://195.154.166.82/SER/2024/Ramadan.2024/10-EL.3atwlaa/A.01.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="AR| 11-KHALED NOUR E01"  group-title="[AR] مسلسلات عربية", AR| 11-KHALED NOUR E01
+http://195.154.166.82/SER/2024/Ramadan.2024/11-Khaled.Nour/A.01.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="AR| 12-LA7ZET 5ADAB E01"  group-title="[AR] مسلسلات عربية", AR| 12-LA7ZET 5ADAB E01
+http://195.154.166.82/SER/2024/Ramadan.2024/12-La7zet.5adab/A.01.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="AR| 13-KAMEL EL ADAD E01"  group-title="[AR] مسلسلات عربية", AR| 13-KAMEL EL ADAD E01
+http://195.154.166.82/SER/2024/Ramadan.2024/13-Kamel.EL.Adad/A.01.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="AR| 14-AMIR AL3MARY E01"  group-title="[AR] مسلسلات عربية", AR| 14-AMIR AL3MARY E01
+http://195.154.166.82/SER/2024/Ramadan.2024/14-Amir.Al3mary/A.01.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="AR| 15-ASHQAL SHAQAA E01"  group-title="[AR] مسلسلات عربية", AR| 15-ASHQAL SHAQAA E01
+http://195.154.166.82/SER/2024/Ramadan.2024/15-Ashqal.Shaqaa/A.01.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="AR| 16-BABA GAH E01"  group-title="[AR] مسلسلات عربية", AR| 16-BABA GAH E01
+http://195.154.166.82/SER/2024/Ramadan.2024/16-BaBa.GaH/A.01.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="AR| 17-RA7YEL E01"  group-title="[AR] مسلسلات عربية", AR| 17-RA7YEL E01
+http://195.154.166.82/SER/2024/Ramadan.2024/17-Ra7yel/A.01.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="AR| 18-SADFA E01"  group-title="[AR] مسلسلات عربية", AR| 18-SADFA E01
+http://195.154.166.82/SER/2024/Ramadan.2024/18-Sadfa/A.01.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="AR| 20-MO7ARB E01"  group-title="[AR] مسلسلات عربية", AR| 20-MO7ARB E01
+http://195.154.166.82/SER/2024/Ramadan.2024/20-Mo7arB/A.01.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="AR| 21-FARWLAA E01"  group-title="[AR] مسلسلات عربية", AR| 21-FARWLAA E01
+http://195.154.166.82/SER/2024/Ramadan.2024/21-Farwlaa/A.01.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="AR| 22-NA3MA E01"  group-title="[AR] مسلسلات عربية", AR| 22-NA3MA E01
+http://195.154.166.82/SER/2024/Ramadan.2024/22-Na3ma/A.01.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="AR| 23-SAAR ELAHY E01"  group-title="[AR] مسلسلات عربية", AR| 23-SAAR ELAHY E01
+http://195.154.166.82/SER/2024/Ramadan.2024/23-Saar.Elahy/A.01.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="AR| 24-GAARY EL W7OOSH E01"  group-title="[AR] مسلسلات عربية", AR| 24-GAARY EL W7OOSH E01
+http://195.154.166.82/SER/2024/Ramadan.2024/24-Gaary.EL.w7oosh/A.01.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="AR| 25-QAL3 EL BA7AR E01"  group-title="[AR] مسلسلات عربية", AR| 25-QAL3 EL BA7AR E01
+http://195.154.166.82/SER/2024/Ramadan.2024/25-Qal3.EL.Ba7ar/A.01.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="AR| 26-EMBRATWRET M E01"  group-title="[AR] مسلسلات عربية", AR| 26-EMBRATWRET M E01
+http://195.154.166.82/SER/2024/Ramadan.2024/26-Embratwret.M/A.01.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="AR| 27-BA3D AL NHAYA E01"  group-title="[AR] مسلسلات عربية", AR| 27-BA3D AL NHAYA E01
+http://195.154.166.82/SER/2024/Ramadan.2024/27-Ba3d.AL.Nhaya/A.01.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="AR| 29-3TABAT EL BAHGA E01"  group-title="[AR] مسلسلات عربية", AR| 29-3TABAT EL BAHGA E01
+http://195.154.166.82/SER/2024/Ramadan.2024/29-3Tabat.EL.Bahga/A.01.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="AR| 30-B 100 RAGEL E01"  group-title="[AR] مسلسلات عربية", AR| 30-B 100 RAGEL E01
+http://195.154.166.82/SER/2024/Ramadan.2024/30-B.100.Ragel/A.01.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="AR| 31-SALAT RA7AM E01"  group-title="[AR] مسلسلات عربية", AR| 31-SALAT RA7AM E01
+http://195.154.166.82/SER/2024/Ramadan.2024/31-Salat.Ra7am/A.01.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="AR| 32-LANSH BOX E01"  group-title="[AR] مسلسلات عربية", AR| 32-LANSH BOX E01
+http://195.154.166.82/SER/2024/Ramadan.2024/32-Lansh.Box/A.01.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="AR| 33-GARYMA MONTASF E01"  group-title="[AR] مسلسلات عربية", AR| 33-GARYMA MONTASF E01
+http://195.154.166.82/SER/2024/Ramadan.2024/33-Garyma.Montasf/A.01.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="AR| 35-BDWN SABQ ENZAR E01"  group-title="[AR] مسلسلات عربية", AR| 35-BDWN SABQ ENZAR E01
+http://195.154.166.82/SER/2024/Ramadan.2024/35-Bdwn.Sabq.Enzar/A.01.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="AR| 36-MASAR EGBARY E01"  group-title="[AR] مسلسلات عربية", AR| 36-MASAR EGBARY E01
+http://195.154.166.82/SER/2024/Ramadan.2024/36-Masar.Egbary/A.01.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="AR| ROSE WA LAYLA E01"  group-title="[AR] مسلسلات عربية", AR| ROSE WA LAYLA E01
 http://195.154.166.82/SER/2024/Rose.Wa.Layla/A-01.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="AR| ROSE WA LAYLA E02"  group-title="[AR] مسلسلات عربية", AR| ROSE WA LAYLA E02
@@ -10344,6 +10456,16 @@ http://195.154.166.82/SER/2024/Tabyba.Shar3ya/A.12.mp4
 http://195.154.166.82/SER/2024/Tabyba.Shar3ya/A.13.mp4
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.14.png" tvg-name="AR| TABYBA SHAR3YA E14"  group-title="[AR] مسلسلات عربية", AR| TABYBA SHAR3YA E14
 http://195.154.166.82/SER/2024/Tabyba.Shar3ya/A.14.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.15.png" tvg-name="AR| TABYBA SHAR3YA E15"  group-title="[AR] مسلسلات عربية", AR| TABYBA SHAR3YA E15
+http://195.154.166.82/SER/2024/Tabyba.Shar3ya/A.15.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.16.png" tvg-name="AR| TABYBA SHAR3YA E16"  group-title="[AR] مسلسلات عربية", AR| TABYBA SHAR3YA E16
+http://195.154.166.82/SER/2024/Tabyba.Shar3ya/A.16.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.17.png" tvg-name="AR| TABYBA SHAR3YA E17"  group-title="[AR] مسلسلات عربية", AR| TABYBA SHAR3YA E17
+http://195.154.166.82/SER/2024/Tabyba.Shar3ya/A.17.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.18.png" tvg-name="AR| TABYBA SHAR3YA E18"  group-title="[AR] مسلسلات عربية", AR| TABYBA SHAR3YA E18
+http://195.154.166.82/SER/2024/Tabyba.Shar3ya/A.18.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.19.png" tvg-name="AR| TABYBA SHAR3YA E19"  group-title="[AR] مسلسلات عربية", AR| TABYBA SHAR3YA E19
+http://195.154.166.82/SER/2024/Tabyba.Shar3ya/A.19.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="AR| WE BENNA MEAAD E01"  group-title="[AR] مسلسلات عربية", AR| WE BENNA MEAAD E01
 http://195.154.166.82/SER/2024/We.Benna.Meaad/A.01.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="AR| WE BENNA MEAAD E02"  group-title="[AR] مسلسلات عربية", AR| WE BENNA MEAAD E02
@@ -10414,6 +10536,16 @@ http://195.154.166.82/SER/2024/We.Benna.Meaad/A.33.mp4
 http://195.154.166.82/SER/2024/We.Benna.Meaad/A.34.mp4
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.35.png" tvg-name="AR| WE BENNA MEAAD E35"  group-title="[AR] مسلسلات عربية", AR| WE BENNA MEAAD E35
 http://195.154.166.82/SER/2024/We.Benna.Meaad/A.35.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.36.png" tvg-name="AR| WE BENNA MEAAD E36"  group-title="[AR] مسلسلات عربية", AR| WE BENNA MEAAD E36
+http://195.154.166.82/SER/2024/We.Benna.Meaad/A.36.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.37.png" tvg-name="AR| WE BENNA MEAAD E37"  group-title="[AR] مسلسلات عربية", AR| WE BENNA MEAAD E37
+http://195.154.166.82/SER/2024/We.Benna.Meaad/A.37.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="AR| WE BENNA MEAAD E38"  group-title="[AR] مسلسلات عربية", AR| WE BENNA MEAAD E38
+http://195.154.166.82/SER/2024/We.Benna.Meaad/A.38.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="AR| WE BENNA MEAAD E39"  group-title="[AR] مسلسلات عربية", AR| WE BENNA MEAAD E39
+http://195.154.166.82/SER/2024/We.Benna.Meaad/A.39.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="AR| WE BENNA MEAAD E40"  group-title="[AR] مسلسلات عربية", AR| WE BENNA MEAAD E40
+http://195.154.166.82/SER/2024/We.Benna.Meaad/A.40.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="AR| ALLA3A E01"  group-title="[AR] مسلسلات عربية", AR| ALLA3A E01
 http://195.154.166.82/SER/ALLa3a/B01.mkv
 #EXTINF:-1 tvg-logo="" tvg-name="AR| ALLA3A E02"  group-title="[AR] مسلسلات عربية", AR| ALLA3A E02
@@ -15034,8 +15166,10 @@ http://195.154.166.82/SER/history/Osman/A.389.mp4
 http://195.154.166.82/SER/history/Osman/A.390.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="AR| OSMAN E391"  group-title="[AR] مسلسلات عربية", AR| OSMAN E391
 http://195.154.166.82/SER/history/Osman/A.391.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="AR| THE OTTOMAN S05 E16 AR 720P WEB-DL AKWAM"  group-title="[AR] مسلسلات عربية", AR| THE OTTOMAN S05 E16 AR 720P WEB-DL AKWAM
-http://195.154.166.82/SER/history/Osman/The.Ottoman.S05.E16.AR.720p.WEB-DL.AKWAM.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="AR| OSMAN E392"  group-title="[AR] مسلسلات عربية", AR| OSMAN E392
+http://195.154.166.82/SER/history/Osman/A.392.mp4
+#EXTINF:-1 tvg-logo="" tvg-name="AR| OSMAN E393"  group-title="[AR] مسلسلات عربية", AR| OSMAN E393
+http://195.154.166.82/SER/history/Osman/A.393.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="AR| RAAFAT EL HAGAN E01"  group-title="[AR] مسلسلات عربية", AR| RAAFAT EL HAGAN E01
 http://195.154.166.82/SER/history/Raafat.El.Hagan/A-01.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="AR| RAAFAT EL HAGAN E02"  group-title="[AR] مسلسلات عربية", AR| RAAFAT EL HAGAN E02
@@ -15822,8 +15956,10 @@ http://195.154.166.82/SER/history/Selahaddin.Eyyubi/A.11.mp4
 http://195.154.166.82/SER/history/Selahaddin.Eyyubi/A.12.mp4
 #EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.13.png" tvg-name="AR| SELAHADDIN EYYUBI E13"  group-title="[AR] مسلسلات عربية", AR| SELAHADDIN EYYUBI E13
 http://195.154.166.82/SER/history/Selahaddin.Eyyubi/A.13.mp4
-#EXTINF:-1 tvg-logo="" tvg-name="AR| SALADIN THE CONQUEROR OF JERUSALEM S01E14 720P WEB-DL AKWAM"  group-title="[AR] مسلسلات عربية", AR| SALADIN THE CONQUEROR OF JERUSALEM S01E14 720P WEB-DL AKWAM
-http://195.154.166.82/SER/history/Selahaddin.Eyyubi/Saladin.The.Conqueror.of.Jerusalem.S01E14.720p.WEB-DL.AKWAM.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.14.png" tvg-name="AR| SELAHADDIN EYYUBI E14"  group-title="[AR] مسلسلات عربية", AR| SELAHADDIN EYYUBI E14
+http://195.154.166.82/SER/history/Selahaddin.Eyyubi/A.14.mp4
+#EXTINF:-1 tvg-logo="http://195.154.166.82/AFLAM/image/Rmadan.2023/A.15.png" tvg-name="AR| SELAHADDIN EYYUBI E15"  group-title="[AR] مسلسلات عربية", AR| SELAHADDIN EYYUBI E15
+http://195.154.166.82/SER/history/Selahaddin.Eyyubi/A.15.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="AR| SOOQ EL3ASR E01"  group-title="[AR] مسلسلات عربية", AR| SOOQ EL3ASR E01
 http://195.154.166.82/SER/history/Sooq.El3asr/A.01.mp4
 #EXTINF:-1 tvg-logo="" tvg-name="AR| SOOQ EL3ASR E02"  group-title="[AR] مسلسلات عربية", AR| SOOQ EL3ASR E02
