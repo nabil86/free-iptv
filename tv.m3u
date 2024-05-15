@@ -57,31 +57,45 @@ https://ythls.armelin.one/channel/UCvPW0VhnTcxYjWIxCvMlw2Q.m3u8
 https://bozztv.com/inim03/live1/giniko_canalalgerie/chunks.m3u8
 #EXTINF:-1 tvg-id="EchoroukTV.dz" tvg-logo="https://i.imgur.com/FtrSAqu.png" group-title="Arabic",Echorouk TV (576p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://echorouk.dzsecurity.net
+#EXTVLCOPT:http-Sec_Fetch_Site=https://echorouk.dzsecurity.net
+#EXTVLCOPT:http-Sec-Fetch-Site=https://echorouk.dzsecurity.net
 https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukTV_First/playlist.m3u8
+#EXTINF:-1 tvg-id="AlAanTV.ae" tvg-logo="https://i.imgur.com/Jl9Uw8N.png" group-title="Arabic"
+https://shls-live-ak.akamaized.net/out/v1/dfbdea4c1bf149629764e58c6ff314c8/index.m3u8
 
 #EXTINF:-1 tvg-name="2M Monde ARB" group-title="Maroc" tvg-logo="https://i.imgur.com/eE1SdyA.png" tvg-id="2M Monde ARB",2M Monde ARB
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 #EXTINF:-1 tvg-name="AlAoula" group-title="Maroc" tvg-logo="https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-03/alaoula-16x9.jpeg" tvg-id="http://www.snrtlive.ma",AlAoula
+#EXTVLCOPT:http-referrer=https://snrtlive.ma/
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
 #EXTINF:-1 tvg-name="AlAoula Laayoune" group-title="Maroc" tvg-logo="https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-04/laayoune-16x9.jpeg" tvg-id="http://www.snrtlive.ma",AlAoula Laayoune
+#EXTVLCOPT:http-referrer=https://snrtlive.ma/
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 #EXTINF:-1 tvg-name="AlMAghribia" group-title="Maroc" tvg-logo="https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-04/almaghribia-16x9.jpeg" tvg-id="http://www.snrtlive.ma",AlMAghribia
+#EXTVLCOPT:http-referrer=https://snrtlive.ma/
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-name="Attakafia" group-title="Maroc" tvg-logo="https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-04/attakafiya-16x9.jpeg" tvg-id="http://snrtlive.ma/athaqafia",Attakafia
+#EXTVLCOPT:http-referrer=https://snrtlive.ma/
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-name="Arriyadia" group-title="Maroc" tvg-logo="https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-04/arriyadia-16x9.jpeg" tvg-id="http://www.snrtlive.ma/",Arriyadia
+#EXTVLCOPT:http-referrer=https://snrtlive.ma/
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-name="Assadissa" group-title="Maroc" tvg-logo="https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-04/assadissa-16x9.jpeg" tvg-id="http://www.snrtlive.ma",Assadissa
+#EXTVLCOPT:http-referrer=https://snrtlive.ma/
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-name="Tamazight" group-title="Maroc" tvg-logo="https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-04/tamazight-16x9.jpeg" tvg-id="http://www.snrtlive.ma",Tamazight
+#EXTVLCOPT:http-referrer=https://snrtlive.ma/
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-name="M24 TV (720p) [Not 24/7]" group-title="Maroc" tvg-logo="https://www.m24tv.ma/themes/custom/m24_tv/logo.png" tvg-id="M24TV.ma",M24 TV (720p) [Not 24/7]
 https://63df3191463ce.streamlock.net/live/ngrp:Live2.stream_all/chunklist_w1449433489_b1396000.m3u8
 #EXTINF:-1 tvg-name="Medi 1 TV Afrique (1080p) [Not 24/7]" group-title="Maroc" tvg-logo="https://www.medi1tv.com/assets/imgs/medi1_circule.png" tvg-id="https://www.medi1tv.com/ar/live-medi1tv-afrique",Medi 1 TV Afrique (1080p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://idara.medi1tv.ma/
 http://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Medi 1 TV Arabic (1080p) [Not 24/7]" group-title="Maroc" tvg-logo="https://www.medi1tv.com/assets/imgs/medi1_circule_ar.png" tvg-id="https://www.medi1tv.com/ar/live-medi1tv-afrique",Medi 1 TV Arabic (1080p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://idara.medi1tv.ma/
 http://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Medi 1 TV Maghreb (1080p) [Not 24/7]" group-title="Maroc" tvg-logo="https://www.medi1tv.com/assets/imgs/medi1_circule_mg.png" tvg-id="https://www.medi1tv.com/ar/live-medi1tv-maghreb",Medi 1 TV Maghreb (1080p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://idara.medi1tv.ma/
 http://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Chada TV شدى " group-title="Maroc" tvg-logo="https://i.ibb.co/wJrfbDy/chada.png" tvg-id="",Chada TV شدى 
 https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
@@ -90,9 +104,9 @@ https://edge13.vedge.infomaniak.com/livecast/ik:atlasfight/chunklist.m3u8
 #EXTINF:-1 tvg-id="TeleMaroc.ma" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Logotelemaroc.jpeg" group-title="Maroc";News",Télé Maroc (1080p)
 https://api.new.livestream.com/accounts/27130247/events/9197096/live.m3u8
 
-#EXTINF:-1 tvg-name="Al Jazeera Arabic ARB" group-title="News" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" tvg-id="Al Jazeera Arabic ARB",Al Jazeera Arabic ARB
+#EXTINF:-1 tvg-name="Al Jazeera Arabic ARB" group-title="News" tvg-logo="https://network.aljazeera.net/sites/default/files/press/2022/nc499_14.png" tvg-id="Al Jazeera Arabic ARB",Al Jazeera Arabic ARB
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#EXTINF:-1 tvg-name="Al Jazeera English ARB" group-title="News" tvg-logo="https://i.imgur.com/PITp6xA.jpg" tvg-id="Al Jazeera English ARB",Al Jazeera English ARB
+#EXTINF:-1 tvg-name="Al Jazeera English ARB" group-title="News" tvg-logo="https://network.aljazeera.net/sites/default/files/press/2022/nc499_14.png" tvg-id="Al Jazeera English ARB",Al Jazeera English ARB
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera Mubasher ARB" group-title="News" tvg-logo="https://i.imgur.com/xx6uOhZ.png" tvg-id="Al Jazeera Mubasher ARB",Al Jazeera Mubasher ARB
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
@@ -107,7 +121,6 @@ http://63b03f7689049.streamlock.net:1935/live/33/playlist.m3u8
 https://ythlsgo.onrender.com/channel/UCH4UNKBHSNwstan99YDoCVg.m3u8
 #EXTINF:-1 tvg-id="AlghadeerTV.iq" tvg-logo="https://i.imgur.com/YPj6kXq.png" group-title="News",Al Ghadeer TV
 http://63b03f7689049.streamlock.net:1935/live/2/playlist.m3u8
-
 #EXTINF:-1 tvg-name="CGTN Arabic" group-title="News" tvg-logo="https://ui.cgtn.com/static/resource/images/icon_new/live/live_AR.png" tvg-id="CGTNArabic.cn",CGTN Arabic
 https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 #EXTINF:-1 tvg-name="CNBC Arabia (1080p)" group-title="News" tvg-logo="https://i.imgur.com/opBXx1K.png" tvg-id="CNBCArabiya.ae",CNBC Arabia (1080p)
@@ -126,7 +139,6 @@ https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="Alaraby 2 TV (1080p)" group-title="News" tvg-logo="https://i.imgur.com/Gp5mNea.png" tvg-id="AlArabyTV2.uk",Alaraby 2 TV (1080p)
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
-
 #EXTINF:-1 tvg-name="Sky News Arabia" group-title="News" tvg-logo="https://i.imgur.com/kF7TvcH.png" tvg-id="SkyNewsArabia.uk",Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1 tvg-name="Almagharibia TV (1080p)" group-title="News" tvg-logo="https://i.imgur.com/XE6OWcb.png" tvg-id="AlmagharibiaTV.uk",Almagharibia TV (1080p)
@@ -141,8 +153,14 @@ https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 https://ythlsgo.onrender.com/channel/UCdTyuXgmJkG_O8_75eqej-w.m3u8
 #EXTINF:-1 tvg-name="EURO NEWS EN" group-title="News" tvg-logo="https://static.euronews.com/website/images/logos/logo-euronews-240x28-white.svg" tvg-id="",EURO NEWS EN
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="AlMayadeenTV.lb" tvg-logo="https://i.imgur.com/GtQOKeW.png" group-title="News"
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-name="CGTN Documentary (576p) [Not 24/7]" group-title="Documentaires" tvg-logo="https://i.imgur.com/JHv0WxM.png" tvg-id="CGTNDocumentary.cn",CGTN Documentary (576p) [Not 24/7]
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1 tvg-name="AlJazeeraDocumentary.qa" tvg-logo="https://i.imgur.com/5dNJlLo.png" group-title="Documentaires"
+#EXTVLCOPT:http-referrer=http://www.elahmad.com
+https://s1.ettehadlive.com/live/111/chunklist_w1861003486.m3u8
 #EXTINF:-1 tvg-name="عُمان الثقافية" group-title="Documentaires" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/om/omancultural.png" tvg-id="",عُمان الثقافية
 https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="National Geographic Abu Dhabi" group-title="Documentaires" tvg-logo="https://www.natgeotv.com/App_Resources2/Themes/2012/Images/TabButtons/natgeo-abudhabi-hd.png" tvg-id="",National Geographic Abu Dhabi
@@ -175,6 +193,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m
 https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentaires",100% Docs
 https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-rakutenus/playlist.m3u8
+#EXTINF:-1 tvg-id="NatureTime.es" tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="Documentaires"
+https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
 
 #EXTINF:-1 tvg-name="DW Arabic (1080p)" group-title="News" tvg-logo="https://i.imgur.com/EfKe3ae.png" tvg-id="DWArabic.de",DW Arabic (1080p)
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
