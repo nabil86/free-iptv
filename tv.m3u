@@ -153,8 +153,12 @@ https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 https://ythlsgo.onrender.com/channel/UCdTyuXgmJkG_O8_75eqej-w.m3u8
 #EXTINF:-1 tvg-name="EURO NEWS EN" group-title="News" tvg-logo="https://static.euronews.com/website/images/logos/logo-euronews-240x28-white.svg" tvg-id="",EURO NEWS EN
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="AlMayadeenTV.lb" tvg-logo="https://i.imgur.com/GtQOKeW.png" group-title="News"
+#EXTINF:-1 tvg-id="AlMayadeenTV.lb" tvg-logo="https://i.imgur.com/GtQO#EXTINF:-1 tvg-name="TRT Arabic" group-title="News" tvg-logo="https://i.ibb.co/HTzkq9P/iJIHMq9.png" tvg-id="",TRT Arabic
+https://tv-trtarabi.live.trt.com.tr/master.m3u8KeW.png" group-title="News"
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="TRT Arabic" group-title="News" tvg-logo="https://i.ibb.co/HTzkq9P/iJIHMq9.png" tvg-id="",TRT Arabic
+https://tv-trtarabi.live.trt.com.tr/master.m3u8
+
 
 #EXTINF:-1 tvg-name="CGTN Documentary (576p) [Not 24/7]" group-title="Documentaires" tvg-logo="https://i.imgur.com/JHv0WxM.png" tvg-id="CGTNDocumentary.cn",CGTN Documentary (576p) [Not 24/7]
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
@@ -195,6 +199,8 @@ https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index
 https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-id="NatureTime.es" tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="Documentaires"
 https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-logo="https://i.imgur.com/5dNJlLo.png" group-title="Documentaires"
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 
 #EXTINF:-1 tvg-name="DW Arabic (1080p)" group-title="News" tvg-logo="https://i.imgur.com/EfKe3ae.png" tvg-id="DWArabic.de",DW Arabic (1080p)
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
