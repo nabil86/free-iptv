@@ -66,7 +66,7 @@ https://cdn-globecast.akamaized.net/live/eds/arriadia/hls_snrt/index.m3u8
 https://cdn-globecast.akamaized.net/live/eds/assadissa/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-name="Tamazight" group-title="Maroc" tvg-logo="https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-04/tamazight-16x9.jpeg" tvg-id="http://www.snrtlive.ma",Tamazight
 #EXTVLCOPT:http-referrer=https://snrtlive.ma/
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
+https://cdn-globecast.akamaized.net/live/eds/tamazight_tv8_snrt/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-name="M24 TV (720p) [Not 24/7]" group-title="Maroc" tvg-logo="https://i.imgur.com/7uv5Feu.png" tvg-id="M24TV.ma",M24 TV (720p) [Not 24/7]
 https://63df3191463ce.streamlock.net/live/ngrp:Live2.stream_all/chunklist_w1449433489_b1396000.m3u8
 #EXTINF:-1 tvg-name="Medi 1 TV Afrique (1080p) [Not 24/7]" group-title="Maroc" tvg-logo="https://i.imgur.com/n7Wr9mR.png" tvg-id="https://www.medi1tv.com/ar/live-medi1tv-afrique",Medi 1 TV Afrique (1080p) [Not 24/7]
